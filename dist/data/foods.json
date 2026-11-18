@@ -1,0 +1,1372 @@
+[
+  {
+    "id": "avena",
+    "name": "Copos de avena",
+    "section": "Cereales",
+    "kcal": 389.0,
+    "protein": 16.9,
+    "carbs": 66.3,
+    "fat": 6.9,
+    "allergens": [
+      "gluten"
+    ],
+    "vegan": true,
+    "vegetarian": true
+  },
+  {
+    "id": "arroz",
+    "name": "Arroz blanco seco",
+    "section": "Cereales",
+    "kcal": 360.0,
+    "protein": 7.0,
+    "carbs": 79.0,
+    "fat": 1.0,
+    "allergens": [],
+    "vegan": true,
+    "vegetarian": true
+  },
+  {
+    "id": "arroz-integral",
+    "name": "Arroz integral seco",
+    "section": "Cereales",
+    "kcal": 367.0,
+    "protein": 7.5,
+    "carbs": 76.0,
+    "fat": 2.8,
+    "allergens": [],
+    "vegan": true,
+    "vegetarian": true
+  },
+  {
+    "id": "pasta",
+    "name": "Pasta de trigo seca",
+    "section": "Cereales",
+    "kcal": 353.0,
+    "protein": 12.0,
+    "carbs": 72.0,
+    "fat": 1.5,
+    "allergens": [
+      "gluten"
+    ],
+    "vegan": true,
+    "vegetarian": true
+  },
+  {
+    "id": "pasta-integral",
+    "name": "Pasta integral seca",
+    "section": "Cereales",
+    "kcal": 348.0,
+    "protein": 14.0,
+    "carbs": 65.0,
+    "fat": 2.5,
+    "allergens": [
+      "gluten"
+    ],
+    "vegan": true,
+    "vegetarian": true
+  },
+  {
+    "id": "pan",
+    "name": "Pan integral",
+    "section": "Cereales",
+    "kcal": 247.0,
+    "protein": 13.0,
+    "carbs": 41.0,
+    "fat": 4.2,
+    "allergens": [
+      "gluten"
+    ],
+    "vegan": true,
+    "vegetarian": true
+  },
+  {
+    "id": "quinoa",
+    "name": "Quinoa seca",
+    "section": "Cereales",
+    "kcal": 368.0,
+    "protein": 14.0,
+    "carbs": 64.0,
+    "fat": 6.0,
+    "allergens": [],
+    "vegan": true,
+    "vegetarian": true
+  },
+  {
+    "id": "cuscus",
+    "name": "Cuscús seco",
+    "section": "Cereales",
+    "kcal": 376.0,
+    "protein": 13.0,
+    "carbs": 77.0,
+    "fat": 0.6,
+    "allergens": [
+      "gluten"
+    ],
+    "vegan": true,
+    "vegetarian": true
+  },
+  {
+    "id": "bulgur",
+    "name": "Bulgur seco",
+    "section": "Cereales",
+    "kcal": 342.0,
+    "protein": 12.0,
+    "carbs": 76.0,
+    "fat": 1.3,
+    "allergens": [
+      "gluten"
+    ],
+    "vegan": true,
+    "vegetarian": true
+  },
+  {
+    "id": "maiz",
+    "name": "Maíz cocido escurrido",
+    "section": "Cereales",
+    "kcal": 96.0,
+    "protein": 3.4,
+    "carbs": 19.0,
+    "fat": 1.5,
+    "allergens": [],
+    "vegan": true,
+    "vegetarian": true
+  },
+  {
+    "id": "tortitas-arroz",
+    "name": "Tortitas de arroz",
+    "section": "Cereales",
+    "kcal": 387.0,
+    "protein": 8.0,
+    "carbs": 81.0,
+    "fat": 3.0,
+    "allergens": [],
+    "vegan": true,
+    "vegetarian": true
+  },
+  {
+    "id": "harina",
+    "name": "Harina de trigo",
+    "section": "Cereales",
+    "kcal": 364.0,
+    "protein": 10.0,
+    "carbs": 76.0,
+    "fat": 1.0,
+    "allergens": [
+      "gluten"
+    ],
+    "vegan": true,
+    "vegetarian": true
+  },
+  {
+    "id": "trigo-sarraceno",
+    "name": "Trigo sarraceno seco",
+    "section": "Cereales",
+    "kcal": 343.0,
+    "protein": 13.0,
+    "carbs": 72.0,
+    "fat": 3.4,
+    "allergens": [],
+    "vegan": true,
+    "vegetarian": true
+  },
+  {
+    "id": "patata",
+    "name": "Patata",
+    "section": "Verduras",
+    "kcal": 77.0,
+    "protein": 2.0,
+    "carbs": 17.0,
+    "fat": 0.1,
+    "allergens": [],
+    "vegan": true,
+    "vegetarian": true
+  },
+  {
+    "id": "boniato",
+    "name": "Boniato",
+    "section": "Verduras",
+    "kcal": 86.0,
+    "protein": 1.6,
+    "carbs": 20.0,
+    "fat": 0.1,
+    "allergens": [],
+    "vegan": true,
+    "vegetarian": true
+  },
+  {
+    "id": "brocoli",
+    "name": "Brócoli",
+    "section": "Verduras",
+    "kcal": 34.0,
+    "protein": 2.8,
+    "carbs": 6.6,
+    "fat": 0.4,
+    "allergens": [],
+    "vegan": true,
+    "vegetarian": true
+  },
+  {
+    "id": "espinaca",
+    "name": "Espinacas",
+    "section": "Verduras",
+    "kcal": 23.0,
+    "protein": 2.9,
+    "carbs": 3.6,
+    "fat": 0.4,
+    "allergens": [],
+    "vegan": true,
+    "vegetarian": true
+  },
+  {
+    "id": "zanahoria",
+    "name": "Zanahoria",
+    "section": "Verduras",
+    "kcal": 41.0,
+    "protein": 0.9,
+    "carbs": 9.6,
+    "fat": 0.2,
+    "allergens": [],
+    "vegan": true,
+    "vegetarian": true
+  },
+  {
+    "id": "calabacin",
+    "name": "Calabacín",
+    "section": "Verduras",
+    "kcal": 17.0,
+    "protein": 1.2,
+    "carbs": 3.1,
+    "fat": 0.3,
+    "allergens": [],
+    "vegan": true,
+    "vegetarian": true
+  },
+  {
+    "id": "tomate",
+    "name": "Tomate",
+    "section": "Verduras",
+    "kcal": 18.0,
+    "protein": 0.9,
+    "carbs": 3.9,
+    "fat": 0.2,
+    "allergens": [],
+    "vegan": true,
+    "vegetarian": true
+  },
+  {
+    "id": "pimiento",
+    "name": "Pimiento rojo",
+    "section": "Verduras",
+    "kcal": 31.0,
+    "protein": 1.0,
+    "carbs": 6.0,
+    "fat": 0.3,
+    "allergens": [],
+    "vegan": true,
+    "vegetarian": true
+  },
+  {
+    "id": "cebolla",
+    "name": "Cebolla",
+    "section": "Verduras",
+    "kcal": 40.0,
+    "protein": 1.1,
+    "carbs": 9.3,
+    "fat": 0.1,
+    "allergens": [],
+    "vegan": true,
+    "vegetarian": true
+  },
+  {
+    "id": "ajo",
+    "name": "Ajo",
+    "section": "Verduras",
+    "kcal": 149.0,
+    "protein": 6.4,
+    "carbs": 33.0,
+    "fat": 0.5,
+    "allergens": [],
+    "vegan": true,
+    "vegetarian": true
+  },
+  {
+    "id": "lechuga",
+    "name": "Lechuga",
+    "section": "Verduras",
+    "kcal": 15.0,
+    "protein": 1.4,
+    "carbs": 2.9,
+    "fat": 0.2,
+    "allergens": [],
+    "vegan": true,
+    "vegetarian": true
+  },
+  {
+    "id": "pepino",
+    "name": "Pepino",
+    "section": "Verduras",
+    "kcal": 15.0,
+    "protein": 0.7,
+    "carbs": 3.6,
+    "fat": 0.1,
+    "allergens": [],
+    "vegan": true,
+    "vegetarian": true
+  },
+  {
+    "id": "berenjena",
+    "name": "Berenjena",
+    "section": "Verduras",
+    "kcal": 25.0,
+    "protein": 1.0,
+    "carbs": 6.0,
+    "fat": 0.2,
+    "allergens": [],
+    "vegan": true,
+    "vegetarian": true
+  },
+  {
+    "id": "coliflor",
+    "name": "Coliflor",
+    "section": "Verduras",
+    "kcal": 25.0,
+    "protein": 1.9,
+    "carbs": 5.0,
+    "fat": 0.3,
+    "allergens": [],
+    "vegan": true,
+    "vegetarian": true
+  },
+  {
+    "id": "judia-verde",
+    "name": "Judías verdes",
+    "section": "Verduras",
+    "kcal": 31.0,
+    "protein": 1.8,
+    "carbs": 7.0,
+    "fat": 0.1,
+    "allergens": [],
+    "vegan": true,
+    "vegetarian": true
+  },
+  {
+    "id": "champinon",
+    "name": "Champiñones",
+    "section": "Verduras",
+    "kcal": 22.0,
+    "protein": 3.1,
+    "carbs": 3.3,
+    "fat": 0.3,
+    "allergens": [],
+    "vegan": true,
+    "vegetarian": true
+  },
+  {
+    "id": "calabaza",
+    "name": "Calabaza",
+    "section": "Verduras",
+    "kcal": 26.0,
+    "protein": 1.0,
+    "carbs": 6.5,
+    "fat": 0.1,
+    "allergens": [],
+    "vegan": true,
+    "vegetarian": true
+  },
+  {
+    "id": "esparrago",
+    "name": "Espárragos",
+    "section": "Verduras",
+    "kcal": 20.0,
+    "protein": 2.2,
+    "carbs": 3.9,
+    "fat": 0.1,
+    "allergens": [],
+    "vegan": true,
+    "vegetarian": true
+  },
+  {
+    "id": "repollo",
+    "name": "Repollo",
+    "section": "Verduras",
+    "kcal": 25.0,
+    "protein": 1.3,
+    "carbs": 5.8,
+    "fat": 0.1,
+    "allergens": [],
+    "vegan": true,
+    "vegetarian": true
+  },
+  {
+    "id": "remolacha",
+    "name": "Remolacha",
+    "section": "Verduras",
+    "kcal": 43.0,
+    "protein": 1.6,
+    "carbs": 9.6,
+    "fat": 0.2,
+    "allergens": [],
+    "vegan": true,
+    "vegetarian": true
+  },
+  {
+    "id": "apio",
+    "name": "Apio",
+    "section": "Verduras",
+    "kcal": 16.0,
+    "protein": 0.7,
+    "carbs": 3.0,
+    "fat": 0.2,
+    "allergens": [
+      "apio"
+    ],
+    "vegan": true,
+    "vegetarian": true
+  },
+  {
+    "id": "guisante",
+    "name": "Guisantes congelados",
+    "section": "Verduras",
+    "kcal": 81.0,
+    "protein": 5.4,
+    "carbs": 14.0,
+    "fat": 0.4,
+    "allergens": [],
+    "vegan": true,
+    "vegetarian": true
+  },
+  {
+    "id": "platano",
+    "name": "Plátano",
+    "section": "Fruta",
+    "kcal": 89.0,
+    "protein": 1.1,
+    "carbs": 23.0,
+    "fat": 0.3,
+    "allergens": [],
+    "vegan": true,
+    "vegetarian": true
+  },
+  {
+    "id": "manzana",
+    "name": "Manzana",
+    "section": "Fruta",
+    "kcal": 52.0,
+    "protein": 0.3,
+    "carbs": 14.0,
+    "fat": 0.2,
+    "allergens": [],
+    "vegan": true,
+    "vegetarian": true
+  },
+  {
+    "id": "naranja",
+    "name": "Naranja",
+    "section": "Fruta",
+    "kcal": 47.0,
+    "protein": 0.9,
+    "carbs": 12.0,
+    "fat": 0.1,
+    "allergens": [],
+    "vegan": true,
+    "vegetarian": true
+  },
+  {
+    "id": "pera",
+    "name": "Pera",
+    "section": "Fruta",
+    "kcal": 57.0,
+    "protein": 0.4,
+    "carbs": 15.0,
+    "fat": 0.1,
+    "allergens": [],
+    "vegan": true,
+    "vegetarian": true
+  },
+  {
+    "id": "fresa",
+    "name": "Fresas",
+    "section": "Fruta",
+    "kcal": 32.0,
+    "protein": 0.7,
+    "carbs": 7.7,
+    "fat": 0.3,
+    "allergens": [],
+    "vegan": true,
+    "vegetarian": true
+  },
+  {
+    "id": "arandano",
+    "name": "Arándanos",
+    "section": "Fruta",
+    "kcal": 57.0,
+    "protein": 0.7,
+    "carbs": 14.0,
+    "fat": 0.3,
+    "allergens": [],
+    "vegan": true,
+    "vegetarian": true
+  },
+  {
+    "id": "kiwi",
+    "name": "Kiwi",
+    "section": "Fruta",
+    "kcal": 61.0,
+    "protein": 1.1,
+    "carbs": 15.0,
+    "fat": 0.5,
+    "allergens": [],
+    "vegan": true,
+    "vegetarian": true
+  },
+  {
+    "id": "melon",
+    "name": "Melón",
+    "section": "Fruta",
+    "kcal": 34.0,
+    "protein": 0.8,
+    "carbs": 8.0,
+    "fat": 0.2,
+    "allergens": [],
+    "vegan": true,
+    "vegetarian": true
+  },
+  {
+    "id": "sandia",
+    "name": "Sandía",
+    "section": "Fruta",
+    "kcal": 30.0,
+    "protein": 0.6,
+    "carbs": 7.6,
+    "fat": 0.2,
+    "allergens": [],
+    "vegan": true,
+    "vegetarian": true
+  },
+  {
+    "id": "uva",
+    "name": "Uvas",
+    "section": "Fruta",
+    "kcal": 69.0,
+    "protein": 0.7,
+    "carbs": 18.0,
+    "fat": 0.2,
+    "allergens": [],
+    "vegan": true,
+    "vegetarian": true
+  },
+  {
+    "id": "melocoton",
+    "name": "Melocotón",
+    "section": "Fruta",
+    "kcal": 39.0,
+    "protein": 0.9,
+    "carbs": 9.5,
+    "fat": 0.3,
+    "allergens": [],
+    "vegan": true,
+    "vegetarian": true
+  },
+  {
+    "id": "mango",
+    "name": "Mango",
+    "section": "Fruta",
+    "kcal": 60.0,
+    "protein": 0.8,
+    "carbs": 15.0,
+    "fat": 0.4,
+    "allergens": [],
+    "vegan": true,
+    "vegetarian": true
+  },
+  {
+    "id": "pina",
+    "name": "Piña",
+    "section": "Fruta",
+    "kcal": 50.0,
+    "protein": 0.5,
+    "carbs": 13.0,
+    "fat": 0.1,
+    "allergens": [],
+    "vegan": true,
+    "vegetarian": true
+  },
+  {
+    "id": "aguacate",
+    "name": "Aguacate",
+    "section": "Fruta",
+    "kcal": 160.0,
+    "protein": 2.0,
+    "carbs": 8.5,
+    "fat": 14.7,
+    "allergens": [],
+    "vegan": true,
+    "vegetarian": true
+  },
+  {
+    "id": "limon",
+    "name": "Limón",
+    "section": "Fruta",
+    "kcal": 29.0,
+    "protein": 1.1,
+    "carbs": 9.0,
+    "fat": 0.3,
+    "allergens": [],
+    "vegan": true,
+    "vegetarian": true
+  },
+  {
+    "id": "pollo",
+    "name": "Pechuga de pollo",
+    "section": "Carnes",
+    "kcal": 110.0,
+    "protein": 23.0,
+    "carbs": 0.0,
+    "fat": 1.5,
+    "allergens": [
+      "carne"
+    ],
+    "vegan": false,
+    "vegetarian": false
+  },
+  {
+    "id": "pavo",
+    "name": "Pechuga de pavo",
+    "section": "Carnes",
+    "kcal": 104.0,
+    "protein": 24.0,
+    "carbs": 0.0,
+    "fat": 1.0,
+    "allergens": [
+      "carne"
+    ],
+    "vegan": false,
+    "vegetarian": false
+  },
+  {
+    "id": "ternera",
+    "name": "Ternera magra",
+    "section": "Carnes",
+    "kcal": 137.0,
+    "protein": 21.0,
+    "carbs": 0.0,
+    "fat": 6.0,
+    "allergens": [
+      "carne"
+    ],
+    "vegan": false,
+    "vegetarian": false
+  },
+  {
+    "id": "cerdo",
+    "name": "Lomo de cerdo",
+    "section": "Carnes",
+    "kcal": 143.0,
+    "protein": 21.0,
+    "carbs": 0.0,
+    "fat": 6.0,
+    "allergens": [
+      "carne"
+    ],
+    "vegan": false,
+    "vegetarian": false
+  },
+  {
+    "id": "conejo",
+    "name": "Conejo",
+    "section": "Carnes",
+    "kcal": 136.0,
+    "protein": 20.0,
+    "carbs": 0.0,
+    "fat": 6.0,
+    "allergens": [
+      "carne"
+    ],
+    "vegan": false,
+    "vegetarian": false
+  },
+  {
+    "id": "salmon",
+    "name": "Salmón",
+    "section": "Pescados",
+    "kcal": 208.0,
+    "protein": 20.0,
+    "carbs": 0.0,
+    "fat": 13.0,
+    "allergens": [
+      "pescado"
+    ],
+    "vegan": false,
+    "vegetarian": false
+  },
+  {
+    "id": "merluza",
+    "name": "Merluza",
+    "section": "Pescados",
+    "kcal": 82.0,
+    "protein": 18.0,
+    "carbs": 0.0,
+    "fat": 1.0,
+    "allergens": [
+      "pescado"
+    ],
+    "vegan": false,
+    "vegetarian": false
+  },
+  {
+    "id": "atun",
+    "name": "Atún al natural escurrido",
+    "section": "Pescados",
+    "kcal": 116.0,
+    "protein": 26.0,
+    "carbs": 0.0,
+    "fat": 1.0,
+    "allergens": [
+      "pescado"
+    ],
+    "vegan": false,
+    "vegetarian": false
+  },
+  {
+    "id": "sardina",
+    "name": "Sardinas frescas",
+    "section": "Pescados",
+    "kcal": 185.0,
+    "protein": 21.0,
+    "carbs": 0.0,
+    "fat": 11.0,
+    "allergens": [
+      "pescado"
+    ],
+    "vegan": false,
+    "vegetarian": false
+  },
+  {
+    "id": "bacalao",
+    "name": "Bacalao fresco",
+    "section": "Pescados",
+    "kcal": 82.0,
+    "protein": 18.0,
+    "carbs": 0.0,
+    "fat": 0.7,
+    "allergens": [
+      "pescado"
+    ],
+    "vegan": false,
+    "vegetarian": false
+  },
+  {
+    "id": "gamba",
+    "name": "Gambas peladas",
+    "section": "Pescados",
+    "kcal": 85.0,
+    "protein": 20.0,
+    "carbs": 0.0,
+    "fat": 0.5,
+    "allergens": [
+      "crustaceos"
+    ],
+    "vegan": false,
+    "vegetarian": false
+  },
+  {
+    "id": "mejillon",
+    "name": "Mejillones sin concha",
+    "section": "Pescados",
+    "kcal": 86.0,
+    "protein": 12.0,
+    "carbs": 3.7,
+    "fat": 2.2,
+    "allergens": [
+      "moluscos"
+    ],
+    "vegan": false,
+    "vegetarian": false
+  },
+  {
+    "id": "huevo",
+    "name": "Huevo entero sin cáscara",
+    "section": "Huevos y lácteos",
+    "kcal": 143.0,
+    "protein": 12.6,
+    "carbs": 0.7,
+    "fat": 9.5,
+    "allergens": [
+      "huevo"
+    ],
+    "vegan": false,
+    "vegetarian": true
+  },
+  {
+    "id": "clara",
+    "name": "Clara de huevo",
+    "section": "Huevos y lácteos",
+    "kcal": 52.0,
+    "protein": 11.0,
+    "carbs": 0.7,
+    "fat": 0.2,
+    "allergens": [
+      "huevo"
+    ],
+    "vegan": false,
+    "vegetarian": true
+  },
+  {
+    "id": "leche",
+    "name": "Leche semidesnatada",
+    "section": "Huevos y lácteos",
+    "kcal": 46.0,
+    "protein": 3.4,
+    "carbs": 4.8,
+    "fat": 1.6,
+    "allergens": [
+      "leche"
+    ],
+    "vegan": false,
+    "vegetarian": true
+  },
+  {
+    "id": "yogur",
+    "name": "Yogur natural",
+    "section": "Huevos y lácteos",
+    "kcal": 61.0,
+    "protein": 3.5,
+    "carbs": 4.7,
+    "fat": 3.3,
+    "allergens": [
+      "leche"
+    ],
+    "vegan": false,
+    "vegetarian": true
+  },
+  {
+    "id": "skyr",
+    "name": "Skyr natural",
+    "section": "Huevos y lácteos",
+    "kcal": 63.0,
+    "protein": 11.0,
+    "carbs": 4.0,
+    "fat": 0.2,
+    "allergens": [
+      "leche"
+    ],
+    "vegan": false,
+    "vegetarian": true
+  },
+  {
+    "id": "queso-fresco",
+    "name": "Queso fresco batido 0 %",
+    "section": "Huevos y lácteos",
+    "kcal": 46.0,
+    "protein": 8.0,
+    "carbs": 4.0,
+    "fat": 0.2,
+    "allergens": [
+      "leche"
+    ],
+    "vegan": false,
+    "vegetarian": true
+  },
+  {
+    "id": "queso-cottage",
+    "name": "Queso cottage",
+    "section": "Huevos y lácteos",
+    "kcal": 98.0,
+    "protein": 11.0,
+    "carbs": 3.4,
+    "fat": 4.3,
+    "allergens": [
+      "leche"
+    ],
+    "vegan": false,
+    "vegetarian": true
+  },
+  {
+    "id": "mozzarella",
+    "name": "Mozzarella",
+    "section": "Huevos y lácteos",
+    "kcal": 250.0,
+    "protein": 18.0,
+    "carbs": 2.0,
+    "fat": 19.0,
+    "allergens": [
+      "leche"
+    ],
+    "vegan": false,
+    "vegetarian": true
+  },
+  {
+    "id": "parmesano",
+    "name": "Queso parmesano",
+    "section": "Huevos y lácteos",
+    "kcal": 431.0,
+    "protein": 38.0,
+    "carbs": 4.0,
+    "fat": 29.0,
+    "allergens": [
+      "leche"
+    ],
+    "vegan": false,
+    "vegetarian": true
+  },
+  {
+    "id": "lenteja",
+    "name": "Lentejas cocidas escurridas",
+    "section": "Legumbres",
+    "kcal": 116.0,
+    "protein": 9.0,
+    "carbs": 20.0,
+    "fat": 0.4,
+    "allergens": [],
+    "vegan": true,
+    "vegetarian": true
+  },
+  {
+    "id": "garbanzo",
+    "name": "Garbanzos cocidos escurridos",
+    "section": "Legumbres",
+    "kcal": 164.0,
+    "protein": 8.9,
+    "carbs": 27.0,
+    "fat": 2.6,
+    "allergens": [],
+    "vegan": true,
+    "vegetarian": true
+  },
+  {
+    "id": "alubia",
+    "name": "Alubias cocidas escurridas",
+    "section": "Legumbres",
+    "kcal": 127.0,
+    "protein": 8.7,
+    "carbs": 23.0,
+    "fat": 0.5,
+    "allergens": [],
+    "vegan": true,
+    "vegetarian": true
+  },
+  {
+    "id": "alubia-negra",
+    "name": "Alubias negras cocidas escurridas",
+    "section": "Legumbres",
+    "kcal": 132.0,
+    "protein": 8.9,
+    "carbs": 24.0,
+    "fat": 0.5,
+    "allergens": [],
+    "vegan": true,
+    "vegetarian": true
+  },
+  {
+    "id": "soja-texturizada",
+    "name": "Soja texturizada seca",
+    "section": "Legumbres",
+    "kcal": 330.0,
+    "protein": 50.0,
+    "carbs": 20.0,
+    "fat": 1.5,
+    "allergens": [
+      "soja"
+    ],
+    "vegan": true,
+    "vegetarian": true
+  },
+  {
+    "id": "tofu",
+    "name": "Tofu firme",
+    "section": "Legumbres",
+    "kcal": 144.0,
+    "protein": 17.0,
+    "carbs": 3.0,
+    "fat": 8.0,
+    "allergens": [
+      "soja"
+    ],
+    "vegan": true,
+    "vegetarian": true
+  },
+  {
+    "id": "tempeh",
+    "name": "Tempeh",
+    "section": "Legumbres",
+    "kcal": 193.0,
+    "protein": 20.0,
+    "carbs": 8.0,
+    "fat": 11.0,
+    "allergens": [
+      "soja"
+    ],
+    "vegan": true,
+    "vegetarian": true
+  },
+  {
+    "id": "edamame",
+    "name": "Edamame desgranado",
+    "section": "Legumbres",
+    "kcal": 121.0,
+    "protein": 12.0,
+    "carbs": 9.0,
+    "fat": 5.0,
+    "allergens": [
+      "soja"
+    ],
+    "vegan": true,
+    "vegetarian": true
+  },
+  {
+    "id": "bebida-soja",
+    "name": "Bebida de soja sin azúcar",
+    "section": "Alternativas vegetales",
+    "kcal": 33.0,
+    "protein": 3.3,
+    "carbs": 0.7,
+    "fat": 1.8,
+    "allergens": [
+      "soja"
+    ],
+    "vegan": true,
+    "vegetarian": true
+  },
+  {
+    "id": "yogur-soja",
+    "name": "Yogur de soja natural",
+    "section": "Alternativas vegetales",
+    "kcal": 45.0,
+    "protein": 4.0,
+    "carbs": 2.0,
+    "fat": 2.3,
+    "allergens": [
+      "soja"
+    ],
+    "vegan": true,
+    "vegetarian": true
+  },
+  {
+    "id": "bebida-avena",
+    "name": "Bebida de avena",
+    "section": "Alternativas vegetales",
+    "kcal": 46.0,
+    "protein": 1.0,
+    "carbs": 7.0,
+    "fat": 1.5,
+    "allergens": [
+      "gluten"
+    ],
+    "vegan": true,
+    "vegetarian": true
+  },
+  {
+    "id": "seitan",
+    "name": "Seitán",
+    "section": "Legumbres",
+    "kcal": 140.0,
+    "protein": 25.0,
+    "carbs": 8.0,
+    "fat": 2.0,
+    "allergens": [
+      "gluten"
+    ],
+    "vegan": true,
+    "vegetarian": true
+  },
+  {
+    "id": "aceite",
+    "name": "Aceite de oliva virgen extra",
+    "section": "Aceites y frutos secos",
+    "kcal": 884.0,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 100.0,
+    "allergens": [],
+    "vegan": true,
+    "vegetarian": true
+  },
+  {
+    "id": "almendra",
+    "name": "Almendras",
+    "section": "Aceites y frutos secos",
+    "kcal": 579.0,
+    "protein": 21.0,
+    "carbs": 22.0,
+    "fat": 50.0,
+    "allergens": [
+      "frutos-secos"
+    ],
+    "vegan": true,
+    "vegetarian": true
+  },
+  {
+    "id": "nuez",
+    "name": "Nueces",
+    "section": "Aceites y frutos secos",
+    "kcal": 654.0,
+    "protein": 15.0,
+    "carbs": 14.0,
+    "fat": 65.0,
+    "allergens": [
+      "frutos-secos"
+    ],
+    "vegan": true,
+    "vegetarian": true
+  },
+  {
+    "id": "cacahuete",
+    "name": "Cacahuetes",
+    "section": "Aceites y frutos secos",
+    "kcal": 567.0,
+    "protein": 26.0,
+    "carbs": 16.0,
+    "fat": 49.0,
+    "allergens": [
+      "cacahuete"
+    ],
+    "vegan": true,
+    "vegetarian": true
+  },
+  {
+    "id": "crema-cacahuete",
+    "name": "Crema de cacahuete 100 %",
+    "section": "Aceites y frutos secos",
+    "kcal": 588.0,
+    "protein": 25.0,
+    "carbs": 20.0,
+    "fat": 50.0,
+    "allergens": [
+      "cacahuete"
+    ],
+    "vegan": true,
+    "vegetarian": true
+  },
+  {
+    "id": "anacardo",
+    "name": "Anacardos",
+    "section": "Aceites y frutos secos",
+    "kcal": 553.0,
+    "protein": 18.0,
+    "carbs": 30.0,
+    "fat": 44.0,
+    "allergens": [
+      "frutos-secos"
+    ],
+    "vegan": true,
+    "vegetarian": true
+  },
+  {
+    "id": "pistacho",
+    "name": "Pistachos",
+    "section": "Aceites y frutos secos",
+    "kcal": 562.0,
+    "protein": 20.0,
+    "carbs": 28.0,
+    "fat": 45.0,
+    "allergens": [
+      "frutos-secos"
+    ],
+    "vegan": true,
+    "vegetarian": true
+  },
+  {
+    "id": "chia",
+    "name": "Semillas de chía",
+    "section": "Aceites y frutos secos",
+    "kcal": 486.0,
+    "protein": 17.0,
+    "carbs": 42.0,
+    "fat": 31.0,
+    "allergens": [],
+    "vegan": true,
+    "vegetarian": true
+  },
+  {
+    "id": "lino",
+    "name": "Semillas de lino",
+    "section": "Aceites y frutos secos",
+    "kcal": 534.0,
+    "protein": 18.0,
+    "carbs": 29.0,
+    "fat": 42.0,
+    "allergens": [],
+    "vegan": true,
+    "vegetarian": true
+  },
+  {
+    "id": "sesamo",
+    "name": "Semillas de sésamo",
+    "section": "Aceites y frutos secos",
+    "kcal": 573.0,
+    "protein": 18.0,
+    "carbs": 23.0,
+    "fat": 50.0,
+    "allergens": [
+      "sesamo"
+    ],
+    "vegan": true,
+    "vegetarian": true
+  },
+  {
+    "id": "pipa",
+    "name": "Pipas de calabaza peladas",
+    "section": "Aceites y frutos secos",
+    "kcal": 559.0,
+    "protein": 30.0,
+    "carbs": 11.0,
+    "fat": 49.0,
+    "allergens": [],
+    "vegan": true,
+    "vegetarian": true
+  },
+  {
+    "id": "tahini",
+    "name": "Tahini",
+    "section": "Aceites y frutos secos",
+    "kcal": 595.0,
+    "protein": 17.0,
+    "carbs": 21.0,
+    "fat": 54.0,
+    "allergens": [
+      "sesamo"
+    ],
+    "vegan": true,
+    "vegetarian": true
+  },
+  {
+    "id": "aceituna",
+    "name": "Aceitunas verdes escurridas",
+    "section": "Aceites y frutos secos",
+    "kcal": 145.0,
+    "protein": 1.0,
+    "carbs": 3.8,
+    "fat": 15.0,
+    "allergens": [],
+    "vegan": true,
+    "vegetarian": true
+  },
+  {
+    "id": "cacao",
+    "name": "Cacao puro",
+    "section": "Despensa",
+    "kcal": 228.0,
+    "protein": 20.0,
+    "carbs": 58.0,
+    "fat": 14.0,
+    "allergens": [],
+    "vegan": true,
+    "vegetarian": true
+  },
+  {
+    "id": "chocolate",
+    "name": "Chocolate negro 85 %",
+    "section": "Despensa",
+    "kcal": 600.0,
+    "protein": 10.0,
+    "carbs": 19.0,
+    "fat": 52.0,
+    "allergens": [
+      "leche"
+    ],
+    "vegan": false,
+    "vegetarian": true
+  },
+  {
+    "id": "miel",
+    "name": "Miel",
+    "section": "Despensa",
+    "kcal": 304.0,
+    "protein": 0.3,
+    "carbs": 82.0,
+    "fat": 0.0,
+    "allergens": [
+      "animal"
+    ],
+    "vegan": false,
+    "vegetarian": true
+  },
+  {
+    "id": "pasas",
+    "name": "Uvas pasas",
+    "section": "Despensa",
+    "kcal": 299.0,
+    "protein": 3.1,
+    "carbs": 79.0,
+    "fat": 0.5,
+    "allergens": [],
+    "vegan": true,
+    "vegetarian": true
+  },
+  {
+    "id": "datil",
+    "name": "Dátiles sin hueso",
+    "section": "Despensa",
+    "kcal": 282.0,
+    "protein": 2.5,
+    "carbs": 75.0,
+    "fat": 0.4,
+    "allergens": [],
+    "vegan": true,
+    "vegetarian": true
+  },
+  {
+    "id": "tomate-triturado",
+    "name": "Tomate triturado",
+    "section": "Despensa",
+    "kcal": 29.0,
+    "protein": 1.4,
+    "carbs": 5.0,
+    "fat": 0.2,
+    "allergens": [],
+    "vegan": true,
+    "vegetarian": true
+  },
+  {
+    "id": "hummus",
+    "name": "Hummus",
+    "section": "Legumbres",
+    "kcal": 166.0,
+    "protein": 8.0,
+    "carbs": 14.0,
+    "fat": 10.0,
+    "allergens": [
+      "sesamo"
+    ],
+    "vegan": true,
+    "vegetarian": true
+  },
+  {
+    "id": "mostaza",
+    "name": "Mostaza",
+    "section": "Despensa",
+    "kcal": 66.0,
+    "protein": 4.0,
+    "carbs": 6.0,
+    "fat": 4.0,
+    "allergens": [
+      "mostaza"
+    ],
+    "vegan": true,
+    "vegetarian": true
+  },
+  {
+    "id": "sal",
+    "name": "Sal yodada",
+    "section": "Despensa",
+    "kcal": 0.0,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0,
+    "allergens": [],
+    "vegan": true,
+    "vegetarian": true
+  },
+  {
+    "id": "agua",
+    "name": "Agua",
+    "section": "Despensa",
+    "kcal": 0.0,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0,
+    "allergens": [],
+    "vegan": true,
+    "vegetarian": true
+  }
+]

@@ -1,0 +1,28 @@
+/* One accent carries through the personal space; the brand lettering stays neutral. */
+body{background:var(--space-glow,none),var(--personal-background,var(--bg));background-attachment:fixed}
+html[data-background-mode=gradient] body{background:var(--space-glow,none),var(--personal-background,var(--bg));background-attachment:fixed}
+html[data-pattern=none] body::after{display:none!important}
+#profile-screen{--glass-surface:var(--space-glass-surface);--glass-text:var(--space-text);--glass-muted:var(--space-muted);--glass-accent:var(--space-accent)}
+html[data-space-tint=linked] .avatar-ring{background:linear-gradient(135deg,var(--space-color),var(--space-ring-end))}
+html[data-space-tint=linked] .social-goal{background:var(--soft-accent);border-color:var(--space-accent);color:var(--space-accent)}
+html[data-space-tint=linked] .profile-content-tabs button[aria-pressed=true]{color:var(--page-accent)}
+html[data-space-tint=linked] .profile-content-tabs button[aria-pressed=true]::before{background:var(--page-accent)}
+html[data-space-tint=linked] .profile-post .post-symbol{color:var(--space-accent)}
+@supports ((backdrop-filter:blur(1px)) or (-webkit-backdrop-filter:blur(1px))){
+ html[data-glass=full] :is(.panel,.profile-panel,.result-card,.meal-card,.stat-card,.profile-post){background:linear-gradient(135deg,var(--glass-highlight),transparent 52%),var(--glass-surface);border-color:var(--glass-border);-webkit-backdrop-filter:blur(var(--personal-blur,20px)) saturate(150%);backdrop-filter:blur(var(--personal-blur,20px)) saturate(150%);color:var(--glass-text,var(--text))}
+ html[data-glass=full] :is(.panel,.profile-panel,.result-card,.meal-card,.stat-card,.profile-post){box-shadow:var(--personal-shadow,0 8px 28px #0001),inset 0 1px 0 var(--glass-highlight),inset 1px 0 0 var(--glass-highlight)!important}
+ html[data-glass=full][data-shadow=none] :is(.panel,.profile-panel,.result-card,.meal-card,.stat-card,.profile-post){box-shadow:inset 0 1px 0 var(--glass-highlight)!important}
+ html[data-glass=full] :is(.header,.bottom-nav){background:var(--glass-header);border-color:var(--glass-border);-webkit-backdrop-filter:blur(var(--personal-blur,20px)) saturate(150%);backdrop-filter:blur(var(--personal-blur,20px)) saturate(150%)}
+ html[data-glass=full][data-background-mode=gradient] :is(.page-heading,.intro,.settings-footer,.personalization-footer>.help,#menu-screen>.toolbar,#progress-screen>.toolbar,.section-tabs){background:var(--glass-header);-webkit-backdrop-filter:blur(var(--personal-blur,20px));backdrop-filter:blur(var(--personal-blur,20px))}
+ html[data-glass=full] .settings-profile{--glass-surface:var(--space-glass-surface)}
+ html[data-glass=full] .profile-post{color:var(--space-text)}
+ html[data-glass=full] .profile-post :is(.post-kind,.post-date,.post-data,small){color:var(--space-muted)}
+}
+@media(prefers-reduced-transparency:reduce){html[data-glass=full] :is(.panel,.profile-panel,.result-card,.meal-card,.stat-card,.profile-post,.header,.bottom-nav,.page-heading,.section-tabs){background:var(--panel)!important;-webkit-backdrop-filter:none!important;backdrop-filter:none!important;color:var(--text)!important}}
+@media(forced-colors:active){html body{background:Canvas!important;color:CanvasText}html .avatar-ring{background:Highlight}html[data-glass=full] :is(.panel,.profile-post,.header,.bottom-nav){background:Canvas!important;color:CanvasText!important;backdrop-filter:none!important;-webkit-backdrop-filter:none!important}}
+@media print{html body{background:white!important;color:black!important}}
+html[data-space-tint=neutral] .avatar-ring{background:var(--line)}
+@supports ((backdrop-filter:blur(1px)) or (-webkit-backdrop-filter:blur(1px))){
+ html[data-glass=full][data-background-mode=gradient] :is(.page-heading,.page-heading h1,.page-heading .eyebrow,.page-heading .lead,.section-tabs button){color:var(--glass-text,var(--text))}
+ html[data-glass=full] .header .brand-wordmark{color:var(--glass-text,var(--text))!important}
+}

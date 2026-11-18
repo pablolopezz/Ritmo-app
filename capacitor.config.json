@@ -1,0 +1,9 @@
+{
+  "appId": "com.dietaygym.personal",
+  "appName": "Ritmo",
+  "webDir": "dist",
+  "backgroundColor": "#11191C",
+  "ios": {
+    "contentInset": "never"
+  }
+}

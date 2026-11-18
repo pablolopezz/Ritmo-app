@@ -1,0 +1,19 @@
+node_modules/
+.DS_Store
+*.zip
+*.jks
+*.keystore
+*.p12
+*.mobileprovision
+android/local.properties
+android/.gradle/
+android/**/build/
+ios/**/DerivedData/
+ios/**/xcuserdata/
+ios/**/build/
+
+# Hosting/account-specific data and local credentials
+.openai/
+.env
+.env.*
+*.pem

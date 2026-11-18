@@ -1,0 +1,1648 @@
+[
+  {
+    "id": "r1",
+    "name": "Pollo con brócoli y arroz",
+    "kind": "main",
+    "minutes": 20,
+    "ingredients": [
+      {
+        "foodId": "pollo",
+        "grams": 160
+      },
+      {
+        "foodId": "arroz",
+        "grams": 75
+      },
+      {
+        "foodId": "brocoli",
+        "grams": 180
+      },
+      {
+        "foodId": "aceite",
+        "grams": 10
+      }
+    ],
+    "steps": "Cuece el cereal o la patata. Cocina la proteína completamente y saltea la verdura con el aceite indicado. Sirve todo junto. Para soja texturizada, hidrata y escurre antes de cocinar. La patata puede hacerse en microondas en un recipiente apto."
+  },
+  {
+    "id": "r2",
+    "name": "Pollo con brócoli y quinoa",
+    "kind": "main",
+    "minutes": 20,
+    "ingredients": [
+      {
+        "foodId": "pollo",
+        "grams": 160
+      },
+      {
+        "foodId": "quinoa",
+        "grams": 75
+      },
+      {
+        "foodId": "brocoli",
+        "grams": 180
+      },
+      {
+        "foodId": "aceite",
+        "grams": 10
+      }
+    ],
+    "steps": "Cuece el cereal o la patata. Cocina la proteína completamente y saltea la verdura con el aceite indicado. Sirve todo junto. Para soja texturizada, hidrata y escurre antes de cocinar. La patata puede hacerse en microondas en un recipiente apto."
+  },
+  {
+    "id": "r3",
+    "name": "Pollo con brócoli y patata",
+    "kind": "main",
+    "minutes": 20,
+    "ingredients": [
+      {
+        "foodId": "pollo",
+        "grams": 160
+      },
+      {
+        "foodId": "patata",
+        "grams": 250
+      },
+      {
+        "foodId": "brocoli",
+        "grams": 180
+      },
+      {
+        "foodId": "aceite",
+        "grams": 10
+      }
+    ],
+    "steps": "Cuece el cereal o la patata. Cocina la proteína completamente y saltea la verdura con el aceite indicado. Sirve todo junto. Para soja texturizada, hidrata y escurre antes de cocinar. La patata puede hacerse en microondas en un recipiente apto."
+  },
+  {
+    "id": "r4",
+    "name": "Pavo con calabacín y arroz",
+    "kind": "main",
+    "minutes": 20,
+    "ingredients": [
+      {
+        "foodId": "pavo",
+        "grams": 160
+      },
+      {
+        "foodId": "arroz",
+        "grams": 75
+      },
+      {
+        "foodId": "calabacin",
+        "grams": 180
+      },
+      {
+        "foodId": "aceite",
+        "grams": 10
+      }
+    ],
+    "steps": "Cuece el cereal o la patata. Cocina la proteína completamente y saltea la verdura con el aceite indicado. Sirve todo junto. Para soja texturizada, hidrata y escurre antes de cocinar. La patata puede hacerse en microondas en un recipiente apto."
+  },
+  {
+    "id": "r5",
+    "name": "Pavo con calabacín y quinoa",
+    "kind": "main",
+    "minutes": 20,
+    "ingredients": [
+      {
+        "foodId": "pavo",
+        "grams": 160
+      },
+      {
+        "foodId": "quinoa",
+        "grams": 75
+      },
+      {
+        "foodId": "calabacin",
+        "grams": 180
+      },
+      {
+        "foodId": "aceite",
+        "grams": 10
+      }
+    ],
+    "steps": "Cuece el cereal o la patata. Cocina la proteína completamente y saltea la verdura con el aceite indicado. Sirve todo junto. Para soja texturizada, hidrata y escurre antes de cocinar. La patata puede hacerse en microondas en un recipiente apto."
+  },
+  {
+    "id": "r6",
+    "name": "Pavo con calabacín y patata",
+    "kind": "main",
+    "minutes": 20,
+    "ingredients": [
+      {
+        "foodId": "pavo",
+        "grams": 160
+      },
+      {
+        "foodId": "patata",
+        "grams": 250
+      },
+      {
+        "foodId": "calabacin",
+        "grams": 180
+      },
+      {
+        "foodId": "aceite",
+        "grams": 10
+      }
+    ],
+    "steps": "Cuece el cereal o la patata. Cocina la proteína completamente y saltea la verdura con el aceite indicado. Sirve todo junto. Para soja texturizada, hidrata y escurre antes de cocinar. La patata puede hacerse en microondas en un recipiente apto."
+  },
+  {
+    "id": "r7",
+    "name": "Ternera con pimientos y arroz",
+    "kind": "main",
+    "minutes": 20,
+    "ingredients": [
+      {
+        "foodId": "ternera",
+        "grams": 160
+      },
+      {
+        "foodId": "arroz",
+        "grams": 75
+      },
+      {
+        "foodId": "pimiento",
+        "grams": 180
+      },
+      {
+        "foodId": "aceite",
+        "grams": 10
+      }
+    ],
+    "steps": "Cuece el cereal o la patata. Cocina la proteína completamente y saltea la verdura con el aceite indicado. Sirve todo junto. Para soja texturizada, hidrata y escurre antes de cocinar. La patata puede hacerse en microondas en un recipiente apto."
+  },
+  {
+    "id": "r8",
+    "name": "Ternera con pimientos y quinoa",
+    "kind": "main",
+    "minutes": 20,
+    "ingredients": [
+      {
+        "foodId": "ternera",
+        "grams": 160
+      },
+      {
+        "foodId": "quinoa",
+        "grams": 75
+      },
+      {
+        "foodId": "pimiento",
+        "grams": 180
+      },
+      {
+        "foodId": "aceite",
+        "grams": 10
+      }
+    ],
+    "steps": "Cuece el cereal o la patata. Cocina la proteína completamente y saltea la verdura con el aceite indicado. Sirve todo junto. Para soja texturizada, hidrata y escurre antes de cocinar. La patata puede hacerse en microondas en un recipiente apto."
+  },
+  {
+    "id": "r9",
+    "name": "Ternera con pimientos y patata",
+    "kind": "main",
+    "minutes": 20,
+    "ingredients": [
+      {
+        "foodId": "ternera",
+        "grams": 160
+      },
+      {
+        "foodId": "patata",
+        "grams": 250
+      },
+      {
+        "foodId": "pimiento",
+        "grams": 180
+      },
+      {
+        "foodId": "aceite",
+        "grams": 10
+      }
+    ],
+    "steps": "Cuece el cereal o la patata. Cocina la proteína completamente y saltea la verdura con el aceite indicado. Sirve todo junto. Para soja texturizada, hidrata y escurre antes de cocinar. La patata puede hacerse en microondas en un recipiente apto."
+  },
+  {
+    "id": "r10",
+    "name": "Merluza con espinacas y arroz",
+    "kind": "main",
+    "minutes": 20,
+    "ingredients": [
+      {
+        "foodId": "merluza",
+        "grams": 160
+      },
+      {
+        "foodId": "arroz",
+        "grams": 75
+      },
+      {
+        "foodId": "espinaca",
+        "grams": 180
+      },
+      {
+        "foodId": "aceite",
+        "grams": 10
+      }
+    ],
+    "steps": "Cuece el cereal o la patata. Cocina la proteína completamente y saltea la verdura con el aceite indicado. Sirve todo junto. Para soja texturizada, hidrata y escurre antes de cocinar. La patata puede hacerse en microondas en un recipiente apto."
+  },
+  {
+    "id": "r11",
+    "name": "Merluza con espinacas y quinoa",
+    "kind": "main",
+    "minutes": 20,
+    "ingredients": [
+      {
+        "foodId": "merluza",
+        "grams": 160
+      },
+      {
+        "foodId": "quinoa",
+        "grams": 75
+      },
+      {
+        "foodId": "espinaca",
+        "grams": 180
+      },
+      {
+        "foodId": "aceite",
+        "grams": 10
+      }
+    ],
+    "steps": "Cuece el cereal o la patata. Cocina la proteína completamente y saltea la verdura con el aceite indicado. Sirve todo junto. Para soja texturizada, hidrata y escurre antes de cocinar. La patata puede hacerse en microondas en un recipiente apto."
+  },
+  {
+    "id": "r12",
+    "name": "Merluza con espinacas y patata",
+    "kind": "main",
+    "minutes": 20,
+    "ingredients": [
+      {
+        "foodId": "merluza",
+        "grams": 160
+      },
+      {
+        "foodId": "patata",
+        "grams": 250
+      },
+      {
+        "foodId": "espinaca",
+        "grams": 180
+      },
+      {
+        "foodId": "aceite",
+        "grams": 10
+      }
+    ],
+    "steps": "Cuece el cereal o la patata. Cocina la proteína completamente y saltea la verdura con el aceite indicado. Sirve todo junto. Para soja texturizada, hidrata y escurre antes de cocinar. La patata puede hacerse en microondas en un recipiente apto."
+  },
+  {
+    "id": "r13",
+    "name": "Salmón con espárragos y arroz",
+    "kind": "main",
+    "minutes": 20,
+    "ingredients": [
+      {
+        "foodId": "salmon",
+        "grams": 160
+      },
+      {
+        "foodId": "arroz",
+        "grams": 75
+      },
+      {
+        "foodId": "esparrago",
+        "grams": 180
+      },
+      {
+        "foodId": "aceite",
+        "grams": 10
+      }
+    ],
+    "steps": "Cuece el cereal o la patata. Cocina la proteína completamente y saltea la verdura con el aceite indicado. Sirve todo junto. Para soja texturizada, hidrata y escurre antes de cocinar. La patata puede hacerse en microondas en un recipiente apto."
+  },
+  {
+    "id": "r14",
+    "name": "Salmón con espárragos y quinoa",
+    "kind": "main",
+    "minutes": 20,
+    "ingredients": [
+      {
+        "foodId": "salmon",
+        "grams": 160
+      },
+      {
+        "foodId": "quinoa",
+        "grams": 75
+      },
+      {
+        "foodId": "esparrago",
+        "grams": 180
+      },
+      {
+        "foodId": "aceite",
+        "grams": 10
+      }
+    ],
+    "steps": "Cuece el cereal o la patata. Cocina la proteína completamente y saltea la verdura con el aceite indicado. Sirve todo junto. Para soja texturizada, hidrata y escurre antes de cocinar. La patata puede hacerse en microondas en un recipiente apto."
+  },
+  {
+    "id": "r15",
+    "name": "Salmón con espárragos y patata",
+    "kind": "main",
+    "minutes": 20,
+    "ingredients": [
+      {
+        "foodId": "salmon",
+        "grams": 160
+      },
+      {
+        "foodId": "patata",
+        "grams": 250
+      },
+      {
+        "foodId": "esparrago",
+        "grams": 180
+      },
+      {
+        "foodId": "aceite",
+        "grams": 10
+      }
+    ],
+    "steps": "Cuece el cereal o la patata. Cocina la proteína completamente y saltea la verdura con el aceite indicado. Sirve todo junto. Para soja texturizada, hidrata y escurre antes de cocinar. La patata puede hacerse en microondas en un recipiente apto."
+  },
+  {
+    "id": "r16",
+    "name": "Atún con tomate y arroz",
+    "kind": "main",
+    "minutes": 20,
+    "ingredients": [
+      {
+        "foodId": "atun",
+        "grams": 160
+      },
+      {
+        "foodId": "arroz",
+        "grams": 75
+      },
+      {
+        "foodId": "tomate",
+        "grams": 180
+      },
+      {
+        "foodId": "aceite",
+        "grams": 10
+      }
+    ],
+    "steps": "Cuece el cereal o la patata. Cocina la proteína completamente y saltea la verdura con el aceite indicado. Sirve todo junto. Para soja texturizada, hidrata y escurre antes de cocinar. La patata puede hacerse en microondas en un recipiente apto."
+  },
+  {
+    "id": "r17",
+    "name": "Atún con tomate y quinoa",
+    "kind": "main",
+    "minutes": 20,
+    "ingredients": [
+      {
+        "foodId": "atun",
+        "grams": 160
+      },
+      {
+        "foodId": "quinoa",
+        "grams": 75
+      },
+      {
+        "foodId": "tomate",
+        "grams": 180
+      },
+      {
+        "foodId": "aceite",
+        "grams": 10
+      }
+    ],
+    "steps": "Cuece el cereal o la patata. Cocina la proteína completamente y saltea la verdura con el aceite indicado. Sirve todo junto. Para soja texturizada, hidrata y escurre antes de cocinar. La patata puede hacerse en microondas en un recipiente apto."
+  },
+  {
+    "id": "r18",
+    "name": "Atún con tomate y patata",
+    "kind": "main",
+    "minutes": 20,
+    "ingredients": [
+      {
+        "foodId": "atun",
+        "grams": 160
+      },
+      {
+        "foodId": "patata",
+        "grams": 250
+      },
+      {
+        "foodId": "tomate",
+        "grams": 180
+      },
+      {
+        "foodId": "aceite",
+        "grams": 10
+      }
+    ],
+    "steps": "Cuece el cereal o la patata. Cocina la proteína completamente y saltea la verdura con el aceite indicado. Sirve todo junto. Para soja texturizada, hidrata y escurre antes de cocinar. La patata puede hacerse en microondas en un recipiente apto."
+  },
+  {
+    "id": "r19",
+    "name": "Tofu con brócoli y arroz",
+    "kind": "main",
+    "minutes": 20,
+    "ingredients": [
+      {
+        "foodId": "tofu",
+        "grams": 160
+      },
+      {
+        "foodId": "arroz",
+        "grams": 75
+      },
+      {
+        "foodId": "brocoli",
+        "grams": 180
+      },
+      {
+        "foodId": "aceite",
+        "grams": 10
+      }
+    ],
+    "steps": "Cuece el cereal o la patata. Cocina la proteína completamente y saltea la verdura con el aceite indicado. Sirve todo junto. Para soja texturizada, hidrata y escurre antes de cocinar. La patata puede hacerse en microondas en un recipiente apto."
+  },
+  {
+    "id": "r20",
+    "name": "Tofu con brócoli y quinoa",
+    "kind": "main",
+    "minutes": 20,
+    "ingredients": [
+      {
+        "foodId": "tofu",
+        "grams": 160
+      },
+      {
+        "foodId": "quinoa",
+        "grams": 75
+      },
+      {
+        "foodId": "brocoli",
+        "grams": 180
+      },
+      {
+        "foodId": "aceite",
+        "grams": 10
+      }
+    ],
+    "steps": "Cuece el cereal o la patata. Cocina la proteína completamente y saltea la verdura con el aceite indicado. Sirve todo junto. Para soja texturizada, hidrata y escurre antes de cocinar. La patata puede hacerse en microondas en un recipiente apto."
+  },
+  {
+    "id": "r21",
+    "name": "Tofu con brócoli y patata",
+    "kind": "main",
+    "minutes": 20,
+    "ingredients": [
+      {
+        "foodId": "tofu",
+        "grams": 160
+      },
+      {
+        "foodId": "patata",
+        "grams": 250
+      },
+      {
+        "foodId": "brocoli",
+        "grams": 180
+      },
+      {
+        "foodId": "aceite",
+        "grams": 10
+      }
+    ],
+    "steps": "Cuece el cereal o la patata. Cocina la proteína completamente y saltea la verdura con el aceite indicado. Sirve todo junto. Para soja texturizada, hidrata y escurre antes de cocinar. La patata puede hacerse en microondas en un recipiente apto."
+  },
+  {
+    "id": "r22",
+    "name": "Tempeh con calabacín y arroz",
+    "kind": "main",
+    "minutes": 20,
+    "ingredients": [
+      {
+        "foodId": "tempeh",
+        "grams": 160
+      },
+      {
+        "foodId": "arroz",
+        "grams": 75
+      },
+      {
+        "foodId": "calabacin",
+        "grams": 180
+      },
+      {
+        "foodId": "aceite",
+        "grams": 10
+      }
+    ],
+    "steps": "Cuece el cereal o la patata. Cocina la proteína completamente y saltea la verdura con el aceite indicado. Sirve todo junto. Para soja texturizada, hidrata y escurre antes de cocinar. La patata puede hacerse en microondas en un recipiente apto."
+  },
+  {
+    "id": "r23",
+    "name": "Tempeh con calabacín y quinoa",
+    "kind": "main",
+    "minutes": 20,
+    "ingredients": [
+      {
+        "foodId": "tempeh",
+        "grams": 160
+      },
+      {
+        "foodId": "quinoa",
+        "grams": 75
+      },
+      {
+        "foodId": "calabacin",
+        "grams": 180
+      },
+      {
+        "foodId": "aceite",
+        "grams": 10
+      }
+    ],
+    "steps": "Cuece el cereal o la patata. Cocina la proteína completamente y saltea la verdura con el aceite indicado. Sirve todo junto. Para soja texturizada, hidrata y escurre antes de cocinar. La patata puede hacerse en microondas en un recipiente apto."
+  },
+  {
+    "id": "r24",
+    "name": "Tempeh con calabacín y patata",
+    "kind": "main",
+    "minutes": 20,
+    "ingredients": [
+      {
+        "foodId": "tempeh",
+        "grams": 160
+      },
+      {
+        "foodId": "patata",
+        "grams": 250
+      },
+      {
+        "foodId": "calabacin",
+        "grams": 180
+      },
+      {
+        "foodId": "aceite",
+        "grams": 10
+      }
+    ],
+    "steps": "Cuece el cereal o la patata. Cocina la proteína completamente y saltea la verdura con el aceite indicado. Sirve todo junto. Para soja texturizada, hidrata y escurre antes de cocinar. La patata puede hacerse en microondas en un recipiente apto."
+  },
+  {
+    "id": "r25",
+    "name": "Soja con pimientos y arroz",
+    "kind": "main",
+    "minutes": 20,
+    "ingredients": [
+      {
+        "foodId": "soja-texturizada",
+        "grams": 60
+      },
+      {
+        "foodId": "arroz",
+        "grams": 75
+      },
+      {
+        "foodId": "pimiento",
+        "grams": 180
+      },
+      {
+        "foodId": "aceite",
+        "grams": 10
+      }
+    ],
+    "steps": "Cuece el cereal o la patata. Cocina la proteína completamente y saltea la verdura con el aceite indicado. Sirve todo junto. Para soja texturizada, hidrata y escurre antes de cocinar. La patata puede hacerse en microondas en un recipiente apto."
+  },
+  {
+    "id": "r26",
+    "name": "Soja con pimientos y quinoa",
+    "kind": "main",
+    "minutes": 20,
+    "ingredients": [
+      {
+        "foodId": "soja-texturizada",
+        "grams": 60
+      },
+      {
+        "foodId": "quinoa",
+        "grams": 75
+      },
+      {
+        "foodId": "pimiento",
+        "grams": 180
+      },
+      {
+        "foodId": "aceite",
+        "grams": 10
+      }
+    ],
+    "steps": "Cuece el cereal o la patata. Cocina la proteína completamente y saltea la verdura con el aceite indicado. Sirve todo junto. Para soja texturizada, hidrata y escurre antes de cocinar. La patata puede hacerse en microondas en un recipiente apto."
+  },
+  {
+    "id": "r27",
+    "name": "Soja con pimientos y patata",
+    "kind": "main",
+    "minutes": 20,
+    "ingredients": [
+      {
+        "foodId": "soja-texturizada",
+        "grams": 60
+      },
+      {
+        "foodId": "patata",
+        "grams": 250
+      },
+      {
+        "foodId": "pimiento",
+        "grams": 180
+      },
+      {
+        "foodId": "aceite",
+        "grams": 10
+      }
+    ],
+    "steps": "Cuece el cereal o la patata. Cocina la proteína completamente y saltea la verdura con el aceite indicado. Sirve todo junto. Para soja texturizada, hidrata y escurre antes de cocinar. La patata puede hacerse en microondas en un recipiente apto."
+  },
+  {
+    "id": "r28",
+    "name": "Seitán con champiñones y arroz",
+    "kind": "main",
+    "minutes": 20,
+    "ingredients": [
+      {
+        "foodId": "seitan",
+        "grams": 160
+      },
+      {
+        "foodId": "arroz",
+        "grams": 75
+      },
+      {
+        "foodId": "champinon",
+        "grams": 180
+      },
+      {
+        "foodId": "aceite",
+        "grams": 10
+      }
+    ],
+    "steps": "Cuece el cereal o la patata. Cocina la proteína completamente y saltea la verdura con el aceite indicado. Sirve todo junto. Para soja texturizada, hidrata y escurre antes de cocinar. La patata puede hacerse en microondas en un recipiente apto."
+  },
+  {
+    "id": "r29",
+    "name": "Seitán con champiñones y quinoa",
+    "kind": "main",
+    "minutes": 20,
+    "ingredients": [
+      {
+        "foodId": "seitan",
+        "grams": 160
+      },
+      {
+        "foodId": "quinoa",
+        "grams": 75
+      },
+      {
+        "foodId": "champinon",
+        "grams": 180
+      },
+      {
+        "foodId": "aceite",
+        "grams": 10
+      }
+    ],
+    "steps": "Cuece el cereal o la patata. Cocina la proteína completamente y saltea la verdura con el aceite indicado. Sirve todo junto. Para soja texturizada, hidrata y escurre antes de cocinar. La patata puede hacerse en microondas en un recipiente apto."
+  },
+  {
+    "id": "r30",
+    "name": "Seitán con champiñones y patata",
+    "kind": "main",
+    "minutes": 20,
+    "ingredients": [
+      {
+        "foodId": "seitan",
+        "grams": 160
+      },
+      {
+        "foodId": "patata",
+        "grams": 250
+      },
+      {
+        "foodId": "champinon",
+        "grams": 180
+      },
+      {
+        "foodId": "aceite",
+        "grams": 10
+      }
+    ],
+    "steps": "Cuece el cereal o la patata. Cocina la proteína completamente y saltea la verdura con el aceite indicado. Sirve todo junto. Para soja texturizada, hidrata y escurre antes de cocinar. La patata puede hacerse en microondas en un recipiente apto."
+  },
+  {
+    "id": "r31",
+    "name": "Lentejas con verduras y arroz",
+    "kind": "main",
+    "minutes": 20,
+    "ingredients": [
+      {
+        "foodId": "lenteja",
+        "grams": 220
+      },
+      {
+        "foodId": "arroz",
+        "grams": 55
+      },
+      {
+        "foodId": "zanahoria",
+        "grams": 100
+      },
+      {
+        "foodId": "tomate",
+        "grams": 100
+      },
+      {
+        "foodId": "aceite",
+        "grams": 10
+      }
+    ],
+    "steps": "Cuece el arroz. Enjuaga y escurre las legumbres ya cocidas. Saltea las verduras y añade las legumbres; sirve con el arroz."
+  },
+  {
+    "id": "r32",
+    "name": "Ensalada de lentejas y quinoa",
+    "kind": "main",
+    "minutes": 20,
+    "ingredients": [
+      {
+        "foodId": "lenteja",
+        "grams": 200
+      },
+      {
+        "foodId": "quinoa",
+        "grams": 60
+      },
+      {
+        "foodId": "pepino",
+        "grams": 100
+      },
+      {
+        "foodId": "pimiento",
+        "grams": 100
+      },
+      {
+        "foodId": "aceite",
+        "grams": 10
+      }
+    ],
+    "steps": "Cuece la quinoa y enfríala. Mezcla con las legumbres cocidas y escurridas y las verduras lavadas. Aliña con el aceite."
+  },
+  {
+    "id": "r33",
+    "name": "Garbanzos con verduras y arroz",
+    "kind": "main",
+    "minutes": 20,
+    "ingredients": [
+      {
+        "foodId": "garbanzo",
+        "grams": 220
+      },
+      {
+        "foodId": "arroz",
+        "grams": 55
+      },
+      {
+        "foodId": "zanahoria",
+        "grams": 100
+      },
+      {
+        "foodId": "tomate",
+        "grams": 100
+      },
+      {
+        "foodId": "aceite",
+        "grams": 10
+      }
+    ],
+    "steps": "Cuece el arroz. Enjuaga y escurre las legumbres ya cocidas. Saltea las verduras y añade las legumbres; sirve con el arroz."
+  },
+  {
+    "id": "r34",
+    "name": "Ensalada de garbanzos y quinoa",
+    "kind": "main",
+    "minutes": 20,
+    "ingredients": [
+      {
+        "foodId": "garbanzo",
+        "grams": 200
+      },
+      {
+        "foodId": "quinoa",
+        "grams": 60
+      },
+      {
+        "foodId": "pepino",
+        "grams": 100
+      },
+      {
+        "foodId": "pimiento",
+        "grams": 100
+      },
+      {
+        "foodId": "aceite",
+        "grams": 10
+      }
+    ],
+    "steps": "Cuece la quinoa y enfríala. Mezcla con las legumbres cocidas y escurridas y las verduras lavadas. Aliña con el aceite."
+  },
+  {
+    "id": "r35",
+    "name": "Alubias con verduras y arroz",
+    "kind": "main",
+    "minutes": 20,
+    "ingredients": [
+      {
+        "foodId": "alubia",
+        "grams": 220
+      },
+      {
+        "foodId": "arroz",
+        "grams": 55
+      },
+      {
+        "foodId": "zanahoria",
+        "grams": 100
+      },
+      {
+        "foodId": "tomate",
+        "grams": 100
+      },
+      {
+        "foodId": "aceite",
+        "grams": 10
+      }
+    ],
+    "steps": "Cuece el arroz. Enjuaga y escurre las legumbres ya cocidas. Saltea las verduras y añade las legumbres; sirve con el arroz."
+  },
+  {
+    "id": "r36",
+    "name": "Ensalada de alubias y quinoa",
+    "kind": "main",
+    "minutes": 20,
+    "ingredients": [
+      {
+        "foodId": "alubia",
+        "grams": 200
+      },
+      {
+        "foodId": "quinoa",
+        "grams": 60
+      },
+      {
+        "foodId": "pepino",
+        "grams": 100
+      },
+      {
+        "foodId": "pimiento",
+        "grams": 100
+      },
+      {
+        "foodId": "aceite",
+        "grams": 10
+      }
+    ],
+    "steps": "Cuece la quinoa y enfríala. Mezcla con las legumbres cocidas y escurridas y las verduras lavadas. Aliña con el aceite."
+  },
+  {
+    "id": "r37",
+    "name": "Alubias negras con verduras y arroz",
+    "kind": "main",
+    "minutes": 20,
+    "ingredients": [
+      {
+        "foodId": "alubia-negra",
+        "grams": 220
+      },
+      {
+        "foodId": "arroz",
+        "grams": 55
+      },
+      {
+        "foodId": "zanahoria",
+        "grams": 100
+      },
+      {
+        "foodId": "tomate",
+        "grams": 100
+      },
+      {
+        "foodId": "aceite",
+        "grams": 10
+      }
+    ],
+    "steps": "Cuece el arroz. Enjuaga y escurre las legumbres ya cocidas. Saltea las verduras y añade las legumbres; sirve con el arroz."
+  },
+  {
+    "id": "r38",
+    "name": "Ensalada de alubias negras y quinoa",
+    "kind": "main",
+    "minutes": 20,
+    "ingredients": [
+      {
+        "foodId": "alubia-negra",
+        "grams": 200
+      },
+      {
+        "foodId": "quinoa",
+        "grams": 60
+      },
+      {
+        "foodId": "pepino",
+        "grams": 100
+      },
+      {
+        "foodId": "pimiento",
+        "grams": 100
+      },
+      {
+        "foodId": "aceite",
+        "grams": 10
+      }
+    ],
+    "steps": "Cuece la quinoa y enfríala. Mezcla con las legumbres cocidas y escurridas y las verduras lavadas. Aliña con el aceite."
+  },
+  {
+    "id": "r39",
+    "name": "Pasta con soja y tomate",
+    "kind": "main",
+    "minutes": 20,
+    "ingredients": [
+      {
+        "foodId": "pasta",
+        "grams": 85
+      },
+      {
+        "foodId": "soja-texturizada",
+        "grams": 55
+      },
+      {
+        "foodId": "tomate-triturado",
+        "grams": 180
+      },
+      {
+        "foodId": "aceite",
+        "grams": 10
+      }
+    ],
+    "steps": "Cuece la pasta. Hidrata la soja y escúrrela; cocínala con el tomate y el aceite. Mezcla."
+  },
+  {
+    "id": "r40",
+    "name": "Tortilla con patata y ensalada",
+    "kind": "main",
+    "minutes": 20,
+    "ingredients": [
+      {
+        "foodId": "huevo",
+        "grams": 150
+      },
+      {
+        "foodId": "clara",
+        "grams": 120
+      },
+      {
+        "foodId": "patata",
+        "grams": 230
+      },
+      {
+        "foodId": "lechuga",
+        "grams": 100
+      },
+      {
+        "foodId": "aceite",
+        "grams": 10
+      }
+    ],
+    "steps": "Cuece la patata. Cuaja por completo el huevo y las claras con la patata y el aceite. Acompaña de lechuga lavada."
+  },
+  {
+    "id": "r41",
+    "name": "Skyr con avena y plátano",
+    "kind": "breakfast",
+    "minutes": 20,
+    "ingredients": [
+      {
+        "foodId": "skyr",
+        "grams": 230
+      },
+      {
+        "foodId": "avena",
+        "grams": 65
+      },
+      {
+        "foodId": "platano",
+        "grams": 140
+      },
+      {
+        "foodId": "chia",
+        "grams": 10
+      }
+    ],
+    "steps": "Mezcla la avena con el yogur o queso y deja reposar. Añade la fruta lavada y troceada y las semillas. Puedes ablandar la avena con un poco de agua."
+  },
+  {
+    "id": "r42",
+    "name": "Skyr con avena y fresas",
+    "kind": "breakfast",
+    "minutes": 20,
+    "ingredients": [
+      {
+        "foodId": "skyr",
+        "grams": 230
+      },
+      {
+        "foodId": "avena",
+        "grams": 65
+      },
+      {
+        "foodId": "fresa",
+        "grams": 140
+      },
+      {
+        "foodId": "chia",
+        "grams": 10
+      }
+    ],
+    "steps": "Mezcla la avena con el yogur o queso y deja reposar. Añade la fruta lavada y troceada y las semillas. Puedes ablandar la avena con un poco de agua."
+  },
+  {
+    "id": "r43",
+    "name": "Skyr con avena y manzana",
+    "kind": "breakfast",
+    "minutes": 20,
+    "ingredients": [
+      {
+        "foodId": "skyr",
+        "grams": 230
+      },
+      {
+        "foodId": "avena",
+        "grams": 65
+      },
+      {
+        "foodId": "manzana",
+        "grams": 140
+      },
+      {
+        "foodId": "chia",
+        "grams": 10
+      }
+    ],
+    "steps": "Mezcla la avena con el yogur o queso y deja reposar. Añade la fruta lavada y troceada y las semillas. Puedes ablandar la avena con un poco de agua."
+  },
+  {
+    "id": "r44",
+    "name": "Yogur de soja con avena y plátano",
+    "kind": "breakfast",
+    "minutes": 20,
+    "ingredients": [
+      {
+        "foodId": "yogur-soja",
+        "grams": 230
+      },
+      {
+        "foodId": "avena",
+        "grams": 65
+      },
+      {
+        "foodId": "platano",
+        "grams": 140
+      },
+      {
+        "foodId": "chia",
+        "grams": 10
+      }
+    ],
+    "steps": "Mezcla la avena con el yogur o queso y deja reposar. Añade la fruta lavada y troceada y las semillas. Puedes ablandar la avena con un poco de agua."
+  },
+  {
+    "id": "r45",
+    "name": "Yogur de soja con avena y fresas",
+    "kind": "breakfast",
+    "minutes": 20,
+    "ingredients": [
+      {
+        "foodId": "yogur-soja",
+        "grams": 230
+      },
+      {
+        "foodId": "avena",
+        "grams": 65
+      },
+      {
+        "foodId": "fresa",
+        "grams": 140
+      },
+      {
+        "foodId": "chia",
+        "grams": 10
+      }
+    ],
+    "steps": "Mezcla la avena con el yogur o queso y deja reposar. Añade la fruta lavada y troceada y las semillas. Puedes ablandar la avena con un poco de agua."
+  },
+  {
+    "id": "r46",
+    "name": "Yogur de soja con avena y manzana",
+    "kind": "breakfast",
+    "minutes": 20,
+    "ingredients": [
+      {
+        "foodId": "yogur-soja",
+        "grams": 230
+      },
+      {
+        "foodId": "avena",
+        "grams": 65
+      },
+      {
+        "foodId": "manzana",
+        "grams": 140
+      },
+      {
+        "foodId": "chia",
+        "grams": 10
+      }
+    ],
+    "steps": "Mezcla la avena con el yogur o queso y deja reposar. Añade la fruta lavada y troceada y las semillas. Puedes ablandar la avena con un poco de agua."
+  },
+  {
+    "id": "r47",
+    "name": "Queso fresco batido con avena y plátano",
+    "kind": "breakfast",
+    "minutes": 20,
+    "ingredients": [
+      {
+        "foodId": "queso-fresco",
+        "grams": 230
+      },
+      {
+        "foodId": "avena",
+        "grams": 65
+      },
+      {
+        "foodId": "platano",
+        "grams": 140
+      },
+      {
+        "foodId": "chia",
+        "grams": 10
+      }
+    ],
+    "steps": "Mezcla la avena con el yogur o queso y deja reposar. Añade la fruta lavada y troceada y las semillas. Puedes ablandar la avena con un poco de agua."
+  },
+  {
+    "id": "r48",
+    "name": "Queso fresco batido con avena y fresas",
+    "kind": "breakfast",
+    "minutes": 20,
+    "ingredients": [
+      {
+        "foodId": "queso-fresco",
+        "grams": 230
+      },
+      {
+        "foodId": "avena",
+        "grams": 65
+      },
+      {
+        "foodId": "fresa",
+        "grams": 140
+      },
+      {
+        "foodId": "chia",
+        "grams": 10
+      }
+    ],
+    "steps": "Mezcla la avena con el yogur o queso y deja reposar. Añade la fruta lavada y troceada y las semillas. Puedes ablandar la avena con un poco de agua."
+  },
+  {
+    "id": "r49",
+    "name": "Queso fresco batido con avena y manzana",
+    "kind": "breakfast",
+    "minutes": 20,
+    "ingredients": [
+      {
+        "foodId": "queso-fresco",
+        "grams": 230
+      },
+      {
+        "foodId": "avena",
+        "grams": 65
+      },
+      {
+        "foodId": "manzana",
+        "grams": 140
+      },
+      {
+        "foodId": "chia",
+        "grams": 10
+      }
+    ],
+    "steps": "Mezcla la avena con el yogur o queso y deja reposar. Añade la fruta lavada y troceada y las semillas. Puedes ablandar la avena con un poco de agua."
+  },
+  {
+    "id": "r50",
+    "name": "Tostadas de tofu y tomate",
+    "kind": "breakfast",
+    "minutes": 20,
+    "ingredients": [
+      {
+        "foodId": "pan",
+        "grams": 100
+      },
+      {
+        "foodId": "tofu",
+        "grams": 130
+      },
+      {
+        "foodId": "tomate",
+        "grams": 130
+      },
+      {
+        "foodId": "aceite",
+        "grams": 7
+      }
+    ],
+    "steps": "Tuesta el pan. Cocina el tofu desmenuzado con el aceite y sirve sobre el pan con tomate lavado."
+  },
+  {
+    "id": "r51",
+    "name": "Tostadas con huevo",
+    "kind": "breakfast",
+    "minutes": 20,
+    "ingredients": [
+      {
+        "foodId": "pan",
+        "grams": 90
+      },
+      {
+        "foodId": "huevo",
+        "grams": 100
+      },
+      {
+        "foodId": "clara",
+        "grams": 100
+      },
+      {
+        "foodId": "tomate",
+        "grams": 120
+      },
+      {
+        "foodId": "aceite",
+        "grams": 5
+      }
+    ],
+    "steps": "Tuesta el pan y cocina por completo el huevo y las claras. Sirve con tomate lavado y el aceite indicado."
+  },
+  {
+    "id": "r52",
+    "name": "Quinoa con soja y fruta",
+    "kind": "breakfast",
+    "minutes": 20,
+    "ingredients": [
+      {
+        "foodId": "quinoa",
+        "grams": 65
+      },
+      {
+        "foodId": "bebida-soja",
+        "grams": 230
+      },
+      {
+        "foodId": "platano",
+        "grams": 120
+      },
+      {
+        "foodId": "chia",
+        "grams": 10
+      }
+    ],
+    "steps": "Cuece la quinoa en agua siguiendo el envase. Añade la bebida de soja y calienta suavemente. Sirve con fruta y semillas."
+  },
+  {
+    "id": "r53",
+    "name": "Tortitas de arroz con tofu",
+    "kind": "breakfast",
+    "minutes": 20,
+    "ingredients": [
+      {
+        "foodId": "tortitas-arroz",
+        "grams": 65
+      },
+      {
+        "foodId": "tofu",
+        "grams": 160
+      },
+      {
+        "foodId": "tomate",
+        "grams": 120
+      },
+      {
+        "foodId": "aceite",
+        "grams": 5
+      }
+    ],
+    "steps": "Cocina el tofu desmenuzado con el aceite. Sirve con las tortitas y el tomate lavado. Comprueba que el envase de las tortitas no incluya gluten."
+  },
+  {
+    "id": "r54",
+    "name": "Huevos con patata y fruta",
+    "kind": "breakfast",
+    "minutes": 20,
+    "ingredients": [
+      {
+        "foodId": "huevo",
+        "grams": 100
+      },
+      {
+        "foodId": "clara",
+        "grams": 130
+      },
+      {
+        "foodId": "patata",
+        "grams": 180
+      },
+      {
+        "foodId": "naranja",
+        "grams": 130
+      },
+      {
+        "foodId": "aceite",
+        "grams": 5
+      }
+    ],
+    "steps": "Cuece o cocina la patata en microondas con un recipiente apto. Cocina por completo huevos y claras con el aceite y acompaña con la naranja."
+  },
+  {
+    "id": "r55",
+    "name": "Skyr y plátano",
+    "kind": "snack",
+    "minutes": 20,
+    "ingredients": [
+      {
+        "foodId": "skyr",
+        "grams": 180
+      },
+      {
+        "foodId": "platano",
+        "grams": 130
+      },
+      {
+        "foodId": "almendra",
+        "grams": 20
+      }
+    ],
+    "steps": "Lava y corta la fruta. Acompaña con el yogur o queso y las almendras."
+  },
+  {
+    "id": "r56",
+    "name": "Skyr y pera",
+    "kind": "snack",
+    "minutes": 20,
+    "ingredients": [
+      {
+        "foodId": "skyr",
+        "grams": 180
+      },
+      {
+        "foodId": "pera",
+        "grams": 130
+      },
+      {
+        "foodId": "almendra",
+        "grams": 20
+      }
+    ],
+    "steps": "Lava y corta la fruta. Acompaña con el yogur o queso y las almendras."
+  },
+  {
+    "id": "r57",
+    "name": "Skyr y kiwi",
+    "kind": "snack",
+    "minutes": 20,
+    "ingredients": [
+      {
+        "foodId": "skyr",
+        "grams": 180
+      },
+      {
+        "foodId": "kiwi",
+        "grams": 130
+      },
+      {
+        "foodId": "almendra",
+        "grams": 20
+      }
+    ],
+    "steps": "Lava y corta la fruta. Acompaña con el yogur o queso y las almendras."
+  },
+  {
+    "id": "r58",
+    "name": "Yogur de soja y plátano",
+    "kind": "snack",
+    "minutes": 20,
+    "ingredients": [
+      {
+        "foodId": "yogur-soja",
+        "grams": 180
+      },
+      {
+        "foodId": "platano",
+        "grams": 130
+      },
+      {
+        "foodId": "almendra",
+        "grams": 20
+      }
+    ],
+    "steps": "Lava y corta la fruta. Acompaña con el yogur o queso y las almendras."
+  },
+  {
+    "id": "r59",
+    "name": "Yogur de soja y pera",
+    "kind": "snack",
+    "minutes": 20,
+    "ingredients": [
+      {
+        "foodId": "yogur-soja",
+        "grams": 180
+      },
+      {
+        "foodId": "pera",
+        "grams": 130
+      },
+      {
+        "foodId": "almendra",
+        "grams": 20
+      }
+    ],
+    "steps": "Lava y corta la fruta. Acompaña con el yogur o queso y las almendras."
+  },
+  {
+    "id": "r60",
+    "name": "Yogur de soja y kiwi",
+    "kind": "snack",
+    "minutes": 20,
+    "ingredients": [
+      {
+        "foodId": "yogur-soja",
+        "grams": 180
+      },
+      {
+        "foodId": "kiwi",
+        "grams": 130
+      },
+      {
+        "foodId": "almendra",
+        "grams": 20
+      }
+    ],
+    "steps": "Lava y corta la fruta. Acompaña con el yogur o queso y las almendras."
+  },
+  {
+    "id": "r61",
+    "name": "Cottage y plátano",
+    "kind": "snack",
+    "minutes": 20,
+    "ingredients": [
+      {
+        "foodId": "queso-cottage",
+        "grams": 180
+      },
+      {
+        "foodId": "platano",
+        "grams": 130
+      },
+      {
+        "foodId": "almendra",
+        "grams": 20
+      }
+    ],
+    "steps": "Lava y corta la fruta. Acompaña con el yogur o queso y las almendras."
+  },
+  {
+    "id": "r62",
+    "name": "Cottage y pera",
+    "kind": "snack",
+    "minutes": 20,
+    "ingredients": [
+      {
+        "foodId": "queso-cottage",
+        "grams": 180
+      },
+      {
+        "foodId": "pera",
+        "grams": 130
+      },
+      {
+        "foodId": "almendra",
+        "grams": 20
+      }
+    ],
+    "steps": "Lava y corta la fruta. Acompaña con el yogur o queso y las almendras."
+  },
+  {
+    "id": "r63",
+    "name": "Cottage y kiwi",
+    "kind": "snack",
+    "minutes": 20,
+    "ingredients": [
+      {
+        "foodId": "queso-cottage",
+        "grams": 180
+      },
+      {
+        "foodId": "kiwi",
+        "grams": 130
+      },
+      {
+        "foodId": "almendra",
+        "grams": 20
+      }
+    ],
+    "steps": "Lava y corta la fruta. Acompaña con el yogur o queso y las almendras."
+  },
+  {
+    "id": "r64",
+    "name": "Hummus con pan y zanahoria",
+    "kind": "snack",
+    "minutes": 20,
+    "ingredients": [
+      {
+        "foodId": "hummus",
+        "grams": 90
+      },
+      {
+        "foodId": "pan",
+        "grams": 60
+      },
+      {
+        "foodId": "zanahoria",
+        "grams": 120
+      }
+    ],
+    "steps": "Sirve el hummus con el pan y la zanahoria lavada y cortada en bastones."
+  },
+  {
+    "id": "r65",
+    "name": "Edamame y tortitas de arroz",
+    "kind": "snack",
+    "minutes": 20,
+    "ingredients": [
+      {
+        "foodId": "edamame",
+        "grams": 150
+      },
+      {
+        "foodId": "tortitas-arroz",
+        "grams": 35
+      },
+      {
+        "foodId": "manzana",
+        "grams": 100
+      }
+    ],
+    "steps": "Cuece el edamame siguiendo las instrucciones del envase. Sirve con tortitas de arroz y manzana lavada."
+  },
+  {
+    "id": "r66",
+    "name": "Tofu con tortitas y fruta",
+    "kind": "snack",
+    "minutes": 20,
+    "ingredients": [
+      {
+        "foodId": "tofu",
+        "grams": 120
+      },
+      {
+        "foodId": "tortitas-arroz",
+        "grams": 40
+      },
+      {
+        "foodId": "naranja",
+        "grams": 130
+      }
+    ],
+    "steps": "Cocina el tofu en una sartén antiadherente y acompaña de tortitas de arroz y naranja."
+  }
+]

@@ -1,0 +1,32 @@
+{
+  "id": "./",
+  "name": "Ritmo · Nutrición y fuerza",
+  "short_name": "Ritmo",
+  "description": "Tu alimentación, tus entrenamientos y tu progreso, a tu ritmo.",
+  "lang": "es",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#11191C",
+  "theme_color": "#11191C",
+  "icons": [
+    {
+      "src": "assets/icons/ritmo-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/icons/ritmo-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/icons/ritmo-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

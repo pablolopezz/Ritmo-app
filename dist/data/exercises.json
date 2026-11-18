@@ -1,0 +1,5352 @@
+[
+  {
+    "id": "e1",
+    "name": "Press de banca",
+    "group": "Pecho",
+    "equipment": "Barra",
+    "instructions": [
+      "Apoya bien el cuerpo y mantén las muñecas alineadas.",
+      "Controla la bajada y empuja sin rebotes ni dolor en el hombro."
+    ]
+  },
+  {
+    "id": "e2",
+    "name": "Press inclinado",
+    "group": "Pecho",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Apoya bien el cuerpo y mantén las muñecas alineadas.",
+      "Controla la bajada y empuja sin rebotes ni dolor en el hombro."
+    ]
+  },
+  {
+    "id": "e3",
+    "name": "Aperturas",
+    "group": "Pecho",
+    "equipment": "Polea",
+    "instructions": [
+      "Apoya bien el cuerpo y mantén las muñecas alineadas.",
+      "Controla la bajada y empuja sin rebotes ni dolor en el hombro."
+    ]
+  },
+  {
+    "id": "e4",
+    "name": "Flexiones",
+    "group": "Pecho",
+    "equipment": "Peso corporal",
+    "instructions": [
+      "Apoya bien el cuerpo y mantén las muñecas alineadas.",
+      "Controla la bajada y empuja sin rebotes ni dolor en el hombro."
+    ]
+  },
+  {
+    "id": "e5",
+    "name": "Dominadas",
+    "group": "Espalda",
+    "equipment": "Barra de dominadas",
+    "instructions": [
+      "Mantén el tronco estable y el cuello alineado.",
+      "Guía el movimiento con los codos y controla el regreso sin tirones."
+    ]
+  },
+  {
+    "id": "e6",
+    "name": "Jalón al pecho",
+    "group": "Espalda",
+    "equipment": "Polea",
+    "instructions": [
+      "Mantén el tronco estable y el cuello alineado.",
+      "Guía el movimiento con los codos y controla el regreso sin tirones."
+    ]
+  },
+  {
+    "id": "e7",
+    "name": "Remo con barra",
+    "group": "Espalda",
+    "equipment": "Barra",
+    "instructions": [
+      "Mantén el tronco estable y el cuello alineado.",
+      "Guía el movimiento con los codos y controla el regreso sin tirones."
+    ]
+  },
+  {
+    "id": "e8",
+    "name": "Remo sentado",
+    "group": "Espalda",
+    "equipment": "Polea",
+    "instructions": [
+      "Mantén el tronco estable y el cuello alineado.",
+      "Guía el movimiento con los codos y controla el regreso sin tirones."
+    ]
+  },
+  {
+    "id": "e9",
+    "name": "Press militar",
+    "group": "Hombros",
+    "equipment": "Barra",
+    "instructions": [
+      "Mantén las costillas controladas y evita arquear la zona lumbar.",
+      "Mueve la carga de forma controlada dentro de un recorrido cómodo."
+    ]
+  },
+  {
+    "id": "e10",
+    "name": "Elevaciones laterales",
+    "group": "Hombros",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Mantén las costillas controladas y evita arquear la zona lumbar.",
+      "Mueve la carga de forma controlada dentro de un recorrido cómodo."
+    ]
+  },
+  {
+    "id": "e11",
+    "name": "Pájaros",
+    "group": "Hombros",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Mantén las costillas controladas y evita arquear la zona lumbar.",
+      "Mueve la carga de forma controlada dentro de un recorrido cómodo."
+    ]
+  },
+  {
+    "id": "e12",
+    "name": "Sentadilla",
+    "group": "Cuádriceps",
+    "equipment": "Barra",
+    "instructions": [
+      "Apoya toda la planta del pie y acompaña la dirección de los pies con las rodillas.",
+      "Baja con control hasta donde puedas mantener una posición estable."
+    ]
+  },
+  {
+    "id": "e13",
+    "name": "Prensa de piernas",
+    "group": "Cuádriceps",
+    "equipment": "Máquina",
+    "instructions": [
+      "Apoya toda la planta del pie y acompaña la dirección de los pies con las rodillas.",
+      "Baja con control hasta donde puedas mantener una posición estable."
+    ]
+  },
+  {
+    "id": "e14",
+    "name": "Extensión de cuádriceps",
+    "group": "Cuádriceps",
+    "equipment": "Máquina",
+    "instructions": [
+      "Apoya toda la planta del pie y acompaña la dirección de los pies con las rodillas.",
+      "Baja con control hasta donde puedas mantener una posición estable."
+    ]
+  },
+  {
+    "id": "e15",
+    "name": "Zancadas",
+    "group": "Cuádriceps",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Apoya toda la planta del pie y acompaña la dirección de los pies con las rodillas.",
+      "Baja con control hasta donde puedas mantener una posición estable."
+    ]
+  },
+  {
+    "id": "e16",
+    "name": "Peso muerto rumano",
+    "group": "Isquios",
+    "equipment": "Barra",
+    "instructions": [
+      "Mantén el tronco estable y evita compensar con la zona lumbar.",
+      "Controla la fase de estiramiento y usa una carga que puedas frenar."
+    ]
+  },
+  {
+    "id": "e17",
+    "name": "Curl femoral",
+    "group": "Isquios",
+    "equipment": "Máquina",
+    "instructions": [
+      "Mantén el tronco estable y evita compensar con la zona lumbar.",
+      "Controla la fase de estiramiento y usa una carga que puedas frenar."
+    ]
+  },
+  {
+    "id": "e18",
+    "name": "Hip thrust",
+    "group": "Glúteos",
+    "equipment": "Barra",
+    "instructions": [
+      "Mantén la pelvis estable y el abdomen activo.",
+      "Extiende la cadera sin terminar arqueando la espalda."
+    ]
+  },
+  {
+    "id": "e19",
+    "name": "Abducción de cadera",
+    "group": "Glúteos",
+    "equipment": "Máquina",
+    "instructions": [
+      "Mantén la pelvis estable y el abdomen activo.",
+      "Extiende la cadera sin terminar arqueando la espalda."
+    ]
+  },
+  {
+    "id": "e20",
+    "name": "Curl de bíceps",
+    "group": "Bíceps",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Mantén los brazos estables y evita balancear el tronco.",
+      "Flexiona el codo y baja la carga lentamente."
+    ]
+  },
+  {
+    "id": "e21",
+    "name": "Curl con barra",
+    "group": "Bíceps",
+    "equipment": "Barra",
+    "instructions": [
+      "Mantén los brazos estables y evita balancear el tronco.",
+      "Flexiona el codo y baja la carga lentamente."
+    ]
+  },
+  {
+    "id": "e22",
+    "name": "Extensión de tríceps",
+    "group": "Tríceps",
+    "equipment": "Polea",
+    "instructions": [
+      "Mantén estable el brazo y las muñecas alineadas.",
+      "Extiende el codo con control, sin impulsos ni dolor."
+    ]
+  },
+  {
+    "id": "e23",
+    "name": "Press francés",
+    "group": "Tríceps",
+    "equipment": "Barra",
+    "instructions": [
+      "Mantén estable el brazo y las muñecas alineadas.",
+      "Extiende el codo con control, sin impulsos ni dolor."
+    ]
+  },
+  {
+    "id": "e24",
+    "name": "Elevación de gemelos",
+    "group": "Gemelos",
+    "equipment": "Máquina",
+    "instructions": [
+      "Mantén el apoyo estable y utiliza un recorrido cómodo del tobillo.",
+      "Sube y baja despacio; evita rebotar."
+    ]
+  },
+  {
+    "id": "e25",
+    "name": "Crunch",
+    "group": "Core",
+    "equipment": "Máquina",
+    "instructions": [
+      "Respira durante el esfuerzo y conserva el control del tronco.",
+      "Acorta el recorrido si pierdes la posición o notas dolor lumbar."
+    ]
+  },
+  {
+    "id": "e26",
+    "name": "Elevación de piernas",
+    "group": "Core",
+    "equipment": "Peso corporal",
+    "instructions": [
+      "Respira durante el esfuerzo y conserva el control del tronco.",
+      "Acorta el recorrido si pierdes la posición o notas dolor lumbar."
+    ]
+  },
+  {
+    "id": "ex-027",
+    "name": "Press de banca agarre medio",
+    "group": "Pecho",
+    "equipment": "Barra",
+    "instructions": [
+      "Apoya bien el cuerpo y mantén las muñecas alineadas.",
+      "Controla la bajada y empuja sin rebotes ni dolor en el hombro."
+    ]
+  },
+  {
+    "id": "ex-028",
+    "name": "Press de banca con pausa",
+    "group": "Pecho",
+    "equipment": "Barra",
+    "instructions": [
+      "Apoya bien el cuerpo y mantén las muñecas alineadas.",
+      "Controla la bajada y empuja sin rebotes ni dolor en el hombro."
+    ]
+  },
+  {
+    "id": "ex-029",
+    "name": "Press declinado con barra",
+    "group": "Pecho",
+    "equipment": "Barra",
+    "instructions": [
+      "Apoya bien el cuerpo y mantén las muñecas alineadas.",
+      "Controla la bajada y empuja sin rebotes ni dolor en el hombro."
+    ]
+  },
+  {
+    "id": "ex-030",
+    "name": "Press inclinado con barra",
+    "group": "Pecho",
+    "equipment": "Barra",
+    "instructions": [
+      "Apoya bien el cuerpo y mantén las muñecas alineadas.",
+      "Controla la bajada y empuja sin rebotes ni dolor en el hombro."
+    ]
+  },
+  {
+    "id": "ex-031",
+    "name": "Press de suelo con barra",
+    "group": "Pecho",
+    "equipment": "Barra",
+    "instructions": [
+      "Apoya bien el cuerpo y mantén las muñecas alineadas.",
+      "Controla la bajada y empuja sin rebotes ni dolor en el hombro."
+    ]
+  },
+  {
+    "id": "ex-032",
+    "name": "Press de banca agarre ancho",
+    "group": "Pecho",
+    "equipment": "Barra",
+    "instructions": [
+      "Apoya bien el cuerpo y mantén las muñecas alineadas.",
+      "Controla la bajada y empuja sin rebotes ni dolor en el hombro."
+    ]
+  },
+  {
+    "id": "ex-033",
+    "name": "Press de banca con mancuernas",
+    "group": "Pecho",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Apoya bien el cuerpo y mantén las muñecas alineadas.",
+      "Controla la bajada y empuja sin rebotes ni dolor en el hombro."
+    ]
+  },
+  {
+    "id": "ex-034",
+    "name": "Press declinado con mancuernas",
+    "group": "Pecho",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Apoya bien el cuerpo y mantén las muñecas alineadas.",
+      "Controla la bajada y empuja sin rebotes ni dolor en el hombro."
+    ]
+  },
+  {
+    "id": "ex-035",
+    "name": "Press de suelo con mancuernas",
+    "group": "Pecho",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Apoya bien el cuerpo y mantén las muñecas alineadas.",
+      "Controla la bajada y empuja sin rebotes ni dolor en el hombro."
+    ]
+  },
+  {
+    "id": "ex-036",
+    "name": "Press con agarre neutro",
+    "group": "Pecho",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Apoya bien el cuerpo y mantén las muñecas alineadas.",
+      "Controla la bajada y empuja sin rebotes ni dolor en el hombro."
+    ]
+  },
+  {
+    "id": "ex-037",
+    "name": "Aperturas con mancuernas",
+    "group": "Pecho",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Apoya bien el cuerpo y mantén las muñecas alineadas.",
+      "Controla la bajada y empuja sin rebotes ni dolor en el hombro."
+    ]
+  },
+  {
+    "id": "ex-038",
+    "name": "Aperturas inclinadas",
+    "group": "Pecho",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Apoya bien el cuerpo y mantén las muñecas alineadas.",
+      "Controla la bajada y empuja sin rebotes ni dolor en el hombro."
+    ]
+  },
+  {
+    "id": "ex-039",
+    "name": "Press inclinado agarre neutro",
+    "group": "Pecho",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Apoya bien el cuerpo y mantén las muñecas alineadas.",
+      "Controla la bajada y empuja sin rebotes ni dolor en el hombro."
+    ]
+  },
+  {
+    "id": "ex-040",
+    "name": "Cruce de poleas altas",
+    "group": "Pecho",
+    "equipment": "Polea",
+    "instructions": [
+      "Apoya bien el cuerpo y mantén las muñecas alineadas.",
+      "Controla la bajada y empuja sin rebotes ni dolor en el hombro."
+    ]
+  },
+  {
+    "id": "ex-041",
+    "name": "Cruce de poleas bajas",
+    "group": "Pecho",
+    "equipment": "Polea",
+    "instructions": [
+      "Apoya bien el cuerpo y mantén las muñecas alineadas.",
+      "Controla la bajada y empuja sin rebotes ni dolor en el hombro."
+    ]
+  },
+  {
+    "id": "ex-042",
+    "name": "Press de pecho en polea",
+    "group": "Pecho",
+    "equipment": "Polea",
+    "instructions": [
+      "Apoya bien el cuerpo y mantén las muñecas alineadas.",
+      "Controla la bajada y empuja sin rebotes ni dolor en el hombro."
+    ]
+  },
+  {
+    "id": "ex-043",
+    "name": "Aperturas unilaterales en polea",
+    "group": "Pecho",
+    "equipment": "Polea",
+    "instructions": [
+      "Apoya bien el cuerpo y mantén las muñecas alineadas.",
+      "Controla la bajada y empuja sin rebotes ni dolor en el hombro."
+    ]
+  },
+  {
+    "id": "ex-044",
+    "name": "Press de pecho en máquina",
+    "group": "Pecho",
+    "equipment": "Máquina",
+    "instructions": [
+      "Apoya bien el cuerpo y mantén las muñecas alineadas.",
+      "Controla la bajada y empuja sin rebotes ni dolor en el hombro."
+    ]
+  },
+  {
+    "id": "ex-045",
+    "name": "Press inclinado en máquina",
+    "group": "Pecho",
+    "equipment": "Máquina",
+    "instructions": [
+      "Apoya bien el cuerpo y mantén las muñecas alineadas.",
+      "Controla la bajada y empuja sin rebotes ni dolor en el hombro."
+    ]
+  },
+  {
+    "id": "ex-046",
+    "name": "Aperturas en peck deck",
+    "group": "Pecho",
+    "equipment": "Máquina",
+    "instructions": [
+      "Apoya bien el cuerpo y mantén las muñecas alineadas.",
+      "Controla la bajada y empuja sin rebotes ni dolor en el hombro."
+    ]
+  },
+  {
+    "id": "ex-047",
+    "name": "Press de pecho convergente",
+    "group": "Pecho",
+    "equipment": "Máquina",
+    "instructions": [
+      "Apoya bien el cuerpo y mantén las muñecas alineadas.",
+      "Controla la bajada y empuja sin rebotes ni dolor en el hombro."
+    ]
+  },
+  {
+    "id": "ex-048",
+    "name": "Flexiones inclinadas",
+    "group": "Pecho",
+    "equipment": "Peso corporal",
+    "instructions": [
+      "Apoya bien el cuerpo y mantén las muñecas alineadas.",
+      "Controla la bajada y empuja sin rebotes ni dolor en el hombro."
+    ]
+  },
+  {
+    "id": "ex-049",
+    "name": "Flexiones con rodillas apoyadas",
+    "group": "Pecho",
+    "equipment": "Peso corporal",
+    "instructions": [
+      "Apoya bien el cuerpo y mantén las muñecas alineadas.",
+      "Controla la bajada y empuja sin rebotes ni dolor en el hombro."
+    ]
+  },
+  {
+    "id": "ex-050",
+    "name": "Flexiones declinadas",
+    "group": "Pecho",
+    "equipment": "Peso corporal",
+    "instructions": [
+      "Apoya bien el cuerpo y mantén las muñecas alineadas.",
+      "Controla la bajada y empuja sin rebotes ni dolor en el hombro."
+    ]
+  },
+  {
+    "id": "ex-051",
+    "name": "Flexiones con pausa",
+    "group": "Pecho",
+    "equipment": "Peso corporal",
+    "instructions": [
+      "Apoya bien el cuerpo y mantén las muñecas alineadas.",
+      "Controla la bajada y empuja sin rebotes ni dolor en el hombro."
+    ]
+  },
+  {
+    "id": "ex-052",
+    "name": "Flexiones con agarre ancho",
+    "group": "Pecho",
+    "equipment": "Peso corporal",
+    "instructions": [
+      "Apoya bien el cuerpo y mantén las muñecas alineadas.",
+      "Controla la bajada y empuja sin rebotes ni dolor en el hombro."
+    ]
+  },
+  {
+    "id": "ex-053",
+    "name": "Fondos con inclinación de torso",
+    "group": "Pecho",
+    "equipment": "Peso corporal",
+    "instructions": [
+      "Apoya bien el cuerpo y mantén las muñecas alineadas.",
+      "Controla la bajada y empuja sin rebotes ni dolor en el hombro."
+    ]
+  },
+  {
+    "id": "ex-054",
+    "name": "Press de pecho con banda",
+    "group": "Pecho",
+    "equipment": "Banda elástica",
+    "instructions": [
+      "Apoya bien el cuerpo y mantén las muñecas alineadas.",
+      "Controla la bajada y empuja sin rebotes ni dolor en el hombro."
+    ]
+  },
+  {
+    "id": "ex-055",
+    "name": "Aperturas con banda",
+    "group": "Pecho",
+    "equipment": "Banda elástica",
+    "instructions": [
+      "Apoya bien el cuerpo y mantén las muñecas alineadas.",
+      "Controla la bajada y empuja sin rebotes ni dolor en el hombro."
+    ]
+  },
+  {
+    "id": "ex-056",
+    "name": "Peso muerto convencional",
+    "group": "Espalda",
+    "equipment": "Barra",
+    "instructions": [
+      "Mantén el tronco estable y el cuello alineado.",
+      "Guía el movimiento con los codos y controla el regreso sin tirones."
+    ]
+  },
+  {
+    "id": "ex-057",
+    "name": "Remo Pendlay",
+    "group": "Espalda",
+    "equipment": "Barra",
+    "instructions": [
+      "Mantén el tronco estable y el cuello alineado.",
+      "Guía el movimiento con los codos y controla el regreso sin tirones."
+    ]
+  },
+  {
+    "id": "ex-058",
+    "name": "Remo con agarre supino",
+    "group": "Espalda",
+    "equipment": "Barra",
+    "instructions": [
+      "Mantén el tronco estable y el cuello alineado.",
+      "Guía el movimiento con los codos y controla el regreso sin tirones."
+    ]
+  },
+  {
+    "id": "ex-059",
+    "name": "Remo landmine",
+    "group": "Espalda",
+    "equipment": "Barra",
+    "instructions": [
+      "Mantén el tronco estable y el cuello alineado.",
+      "Guía el movimiento con los codos y controla el regreso sin tirones."
+    ]
+  },
+  {
+    "id": "ex-060",
+    "name": "Remo Meadows",
+    "group": "Espalda",
+    "equipment": "Barra",
+    "instructions": [
+      "Mantén el tronco estable y el cuello alineado.",
+      "Guía el movimiento con los codos y controla el regreso sin tirones."
+    ]
+  },
+  {
+    "id": "ex-061",
+    "name": "Remo a una mano",
+    "group": "Espalda",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Mantén el tronco estable y el cuello alineado.",
+      "Guía el movimiento con los codos y controla el regreso sin tirones."
+    ]
+  },
+  {
+    "id": "ex-062",
+    "name": "Remo con pecho apoyado",
+    "group": "Espalda",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Mantén el tronco estable y el cuello alineado.",
+      "Guía el movimiento con los codos y controla el regreso sin tirones."
+    ]
+  },
+  {
+    "id": "ex-063",
+    "name": "Remo inclinado con mancuernas",
+    "group": "Espalda",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Mantén el tronco estable y el cuello alineado.",
+      "Guía el movimiento con los codos y controla el regreso sin tirones."
+    ]
+  },
+  {
+    "id": "ex-064",
+    "name": "Pullover con mancuerna",
+    "group": "Espalda",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Mantén el tronco estable y el cuello alineado.",
+      "Guía el movimiento con los codos y controla el regreso sin tirones."
+    ]
+  },
+  {
+    "id": "ex-065",
+    "name": "Remo con agarre neutro",
+    "group": "Espalda",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Mantén el tronco estable y el cuello alineado.",
+      "Guía el movimiento con los codos y controla el regreso sin tirones."
+    ]
+  },
+  {
+    "id": "ex-066",
+    "name": "Jalón agarre neutro",
+    "group": "Espalda",
+    "equipment": "Polea",
+    "instructions": [
+      "Mantén el tronco estable y el cuello alineado.",
+      "Guía el movimiento con los codos y controla el regreso sin tirones."
+    ]
+  },
+  {
+    "id": "ex-067",
+    "name": "Jalón agarre supino",
+    "group": "Espalda",
+    "equipment": "Polea",
+    "instructions": [
+      "Mantén el tronco estable y el cuello alineado.",
+      "Guía el movimiento con los codos y controla el regreso sin tirones."
+    ]
+  },
+  {
+    "id": "ex-068",
+    "name": "Jalón unilateral",
+    "group": "Espalda",
+    "equipment": "Polea",
+    "instructions": [
+      "Mantén el tronco estable y el cuello alineado.",
+      "Guía el movimiento con los codos y controla el regreso sin tirones."
+    ]
+  },
+  {
+    "id": "ex-069",
+    "name": "Jalón con brazos rectos",
+    "group": "Espalda",
+    "equipment": "Polea",
+    "instructions": [
+      "Mantén el tronco estable y el cuello alineado.",
+      "Guía el movimiento con los codos y controla el regreso sin tirones."
+    ]
+  },
+  {
+    "id": "ex-070",
+    "name": "Remo unilateral en polea",
+    "group": "Espalda",
+    "equipment": "Polea",
+    "instructions": [
+      "Mantén el tronco estable y el cuello alineado.",
+      "Guía el movimiento con los codos y controla el regreso sin tirones."
+    ]
+  },
+  {
+    "id": "ex-071",
+    "name": "Remo alto en polea",
+    "group": "Espalda",
+    "equipment": "Polea",
+    "instructions": [
+      "Mantén el tronco estable y el cuello alineado.",
+      "Guía el movimiento con los codos y controla el regreso sin tirones."
+    ]
+  },
+  {
+    "id": "ex-072",
+    "name": "Remo sentado agarre ancho",
+    "group": "Espalda",
+    "equipment": "Polea",
+    "instructions": [
+      "Mantén el tronco estable y el cuello alineado.",
+      "Guía el movimiento con los codos y controla el regreso sin tirones."
+    ]
+  },
+  {
+    "id": "ex-073",
+    "name": "Pullover en polea",
+    "group": "Espalda",
+    "equipment": "Polea",
+    "instructions": [
+      "Mantén el tronco estable y el cuello alineado.",
+      "Guía el movimiento con los codos y controla el regreso sin tirones."
+    ]
+  },
+  {
+    "id": "ex-074",
+    "name": "Remo en máquina con pecho apoyado",
+    "group": "Espalda",
+    "equipment": "Máquina",
+    "instructions": [
+      "Mantén el tronco estable y el cuello alineado.",
+      "Guía el movimiento con los codos y controla el regreso sin tirones."
+    ]
+  },
+  {
+    "id": "ex-075",
+    "name": "Jalón en máquina",
+    "group": "Espalda",
+    "equipment": "Máquina",
+    "instructions": [
+      "Mantén el tronco estable y el cuello alineado.",
+      "Guía el movimiento con los codos y controla el regreso sin tirones."
+    ]
+  },
+  {
+    "id": "ex-076",
+    "name": "Remo alto en máquina",
+    "group": "Espalda",
+    "equipment": "Máquina",
+    "instructions": [
+      "Mantén el tronco estable y el cuello alineado.",
+      "Guía el movimiento con los codos y controla el regreso sin tirones."
+    ]
+  },
+  {
+    "id": "ex-077",
+    "name": "Pullover en máquina",
+    "group": "Espalda",
+    "equipment": "Máquina",
+    "instructions": [
+      "Mantén el tronco estable y el cuello alineado.",
+      "Guía el movimiento con los codos y controla el regreso sin tirones."
+    ]
+  },
+  {
+    "id": "ex-078",
+    "name": "Dominadas asistidas",
+    "group": "Espalda",
+    "equipment": "Máquina",
+    "instructions": [
+      "Mantén el tronco estable y el cuello alineado.",
+      "Guía el movimiento con los codos y controla el regreso sin tirones."
+    ]
+  },
+  {
+    "id": "ex-079",
+    "name": "Dominadas supinas",
+    "group": "Espalda",
+    "equipment": "Barra de dominadas",
+    "instructions": [
+      "Mantén el tronco estable y el cuello alineado.",
+      "Guía el movimiento con los codos y controla el regreso sin tirones."
+    ]
+  },
+  {
+    "id": "ex-080",
+    "name": "Dominadas neutras",
+    "group": "Espalda",
+    "equipment": "Barra de dominadas",
+    "instructions": [
+      "Mantén el tronco estable y el cuello alineado.",
+      "Guía el movimiento con los codos y controla el regreso sin tirones."
+    ]
+  },
+  {
+    "id": "ex-081",
+    "name": "Dominadas con lastre",
+    "group": "Espalda",
+    "equipment": "Barra de dominadas",
+    "instructions": [
+      "Mantén el tronco estable y el cuello alineado.",
+      "Guía el movimiento con los codos y controla el regreso sin tirones."
+    ]
+  },
+  {
+    "id": "ex-082",
+    "name": "Dominadas escapulares",
+    "group": "Espalda",
+    "equipment": "Barra de dominadas",
+    "instructions": [
+      "Mantén el tronco estable y el cuello alineado.",
+      "Guía el movimiento con los codos y controla el regreso sin tirones."
+    ]
+  },
+  {
+    "id": "ex-083",
+    "name": "Remo invertido",
+    "group": "Espalda",
+    "equipment": "Peso corporal",
+    "instructions": [
+      "Mantén el tronco estable y el cuello alineado.",
+      "Guía el movimiento con los codos y controla el regreso sin tirones."
+    ]
+  },
+  {
+    "id": "ex-084",
+    "name": "Remo invertido supino",
+    "group": "Espalda",
+    "equipment": "Peso corporal",
+    "instructions": [
+      "Mantén el tronco estable y el cuello alineado.",
+      "Guía el movimiento con los codos y controla el regreso sin tirones."
+    ]
+  },
+  {
+    "id": "ex-085",
+    "name": "Remo con banda",
+    "group": "Espalda",
+    "equipment": "Banda elástica",
+    "instructions": [
+      "Mantén el tronco estable y el cuello alineado.",
+      "Guía el movimiento con los codos y controla el regreso sin tirones."
+    ]
+  },
+  {
+    "id": "ex-086",
+    "name": "Jalón con banda",
+    "group": "Espalda",
+    "equipment": "Banda elástica",
+    "instructions": [
+      "Mantén el tronco estable y el cuello alineado.",
+      "Guía el movimiento con los codos y controla el regreso sin tirones."
+    ]
+  },
+  {
+    "id": "ex-087",
+    "name": "Press militar sentado",
+    "group": "Hombros",
+    "equipment": "Barra",
+    "instructions": [
+      "Mantén las costillas controladas y evita arquear la zona lumbar.",
+      "Mueve la carga de forma controlada dentro de un recorrido cómodo."
+    ]
+  },
+  {
+    "id": "ex-088",
+    "name": "Press landmine unilateral",
+    "group": "Hombros",
+    "equipment": "Barra",
+    "instructions": [
+      "Mantén las costillas controladas y evita arquear la zona lumbar.",
+      "Mueve la carga de forma controlada dentro de un recorrido cómodo."
+    ]
+  },
+  {
+    "id": "ex-089",
+    "name": "Press militar con pausa",
+    "group": "Hombros",
+    "equipment": "Barra",
+    "instructions": [
+      "Mantén las costillas controladas y evita arquear la zona lumbar.",
+      "Mueve la carga de forma controlada dentro de un recorrido cómodo."
+    ]
+  },
+  {
+    "id": "ex-090",
+    "name": "Press de hombros sentado",
+    "group": "Hombros",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Mantén las costillas controladas y evita arquear la zona lumbar.",
+      "Mueve la carga de forma controlada dentro de un recorrido cómodo."
+    ]
+  },
+  {
+    "id": "ex-091",
+    "name": "Press Arnold",
+    "group": "Hombros",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Mantén las costillas controladas y evita arquear la zona lumbar.",
+      "Mueve la carga de forma controlada dentro de un recorrido cómodo."
+    ]
+  },
+  {
+    "id": "ex-092",
+    "name": "Press de hombros agarre neutro",
+    "group": "Hombros",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Mantén las costillas controladas y evita arquear la zona lumbar.",
+      "Mueve la carga de forma controlada dentro de un recorrido cómodo."
+    ]
+  },
+  {
+    "id": "ex-093",
+    "name": "Elevaciones frontales",
+    "group": "Hombros",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Mantén las costillas controladas y evita arquear la zona lumbar.",
+      "Mueve la carga de forma controlada dentro de un recorrido cómodo."
+    ]
+  },
+  {
+    "id": "ex-094",
+    "name": "Elevaciones laterales sentado",
+    "group": "Hombros",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Mantén las costillas controladas y evita arquear la zona lumbar.",
+      "Mueve la carga de forma controlada dentro de un recorrido cómodo."
+    ]
+  },
+  {
+    "id": "ex-095",
+    "name": "Elevaciones laterales inclinado",
+    "group": "Hombros",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Mantén las costillas controladas y evita arquear la zona lumbar.",
+      "Mueve la carga de forma controlada dentro de un recorrido cómodo."
+    ]
+  },
+  {
+    "id": "ex-096",
+    "name": "Pájaros con pecho apoyado",
+    "group": "Hombros",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Mantén las costillas controladas y evita arquear la zona lumbar.",
+      "Mueve la carga de forma controlada dentro de un recorrido cómodo."
+    ]
+  },
+  {
+    "id": "ex-097",
+    "name": "Elevación lateral unilateral en polea",
+    "group": "Hombros",
+    "equipment": "Polea",
+    "instructions": [
+      "Mantén las costillas controladas y evita arquear la zona lumbar.",
+      "Mueve la carga de forma controlada dentro de un recorrido cómodo."
+    ]
+  },
+  {
+    "id": "ex-098",
+    "name": "Elevación frontal en polea",
+    "group": "Hombros",
+    "equipment": "Polea",
+    "instructions": [
+      "Mantén las costillas controladas y evita arquear la zona lumbar.",
+      "Mueve la carga de forma controlada dentro de un recorrido cómodo."
+    ]
+  },
+  {
+    "id": "ex-099",
+    "name": "Pájaros en polea",
+    "group": "Hombros",
+    "equipment": "Polea",
+    "instructions": [
+      "Mantén las costillas controladas y evita arquear la zona lumbar.",
+      "Mueve la carga de forma controlada dentro de un recorrido cómodo."
+    ]
+  },
+  {
+    "id": "ex-100",
+    "name": "Face pull",
+    "group": "Hombros",
+    "equipment": "Polea",
+    "instructions": [
+      "Mantén las costillas controladas y evita arquear la zona lumbar.",
+      "Mueve la carga de forma controlada dentro de un recorrido cómodo."
+    ]
+  },
+  {
+    "id": "ex-101",
+    "name": "Elevación lateral tras el cuerpo en polea",
+    "group": "Hombros",
+    "equipment": "Polea",
+    "instructions": [
+      "Mantén las costillas controladas y evita arquear la zona lumbar.",
+      "Mueve la carga de forma controlada dentro de un recorrido cómodo."
+    ]
+  },
+  {
+    "id": "ex-102",
+    "name": "Press de hombros en máquina",
+    "group": "Hombros",
+    "equipment": "Máquina",
+    "instructions": [
+      "Mantén las costillas controladas y evita arquear la zona lumbar.",
+      "Mueve la carga de forma controlada dentro de un recorrido cómodo."
+    ]
+  },
+  {
+    "id": "ex-103",
+    "name": "Elevación lateral en máquina",
+    "group": "Hombros",
+    "equipment": "Máquina",
+    "instructions": [
+      "Mantén las costillas controladas y evita arquear la zona lumbar.",
+      "Mueve la carga de forma controlada dentro de un recorrido cómodo."
+    ]
+  },
+  {
+    "id": "ex-104",
+    "name": "Aperturas inversas en máquina",
+    "group": "Hombros",
+    "equipment": "Máquina",
+    "instructions": [
+      "Mantén las costillas controladas y evita arquear la zona lumbar.",
+      "Mueve la carga de forma controlada dentro de un recorrido cómodo."
+    ]
+  },
+  {
+    "id": "ex-105",
+    "name": "Flexiones pica",
+    "group": "Hombros",
+    "equipment": "Peso corporal",
+    "instructions": [
+      "Mantén las costillas controladas y evita arquear la zona lumbar.",
+      "Mueve la carga de forma controlada dentro de un recorrido cómodo."
+    ]
+  },
+  {
+    "id": "ex-106",
+    "name": "Deslizamientos escapulares en pared",
+    "group": "Hombros",
+    "equipment": "Peso corporal",
+    "instructions": [
+      "Mantén las costillas controladas y evita arquear la zona lumbar.",
+      "Mueve la carga de forma controlada dentro de un recorrido cómodo."
+    ]
+  },
+  {
+    "id": "ex-107",
+    "name": "Aperturas de banda",
+    "group": "Hombros",
+    "equipment": "Banda elástica",
+    "instructions": [
+      "Mantén las costillas controladas y evita arquear la zona lumbar.",
+      "Mueve la carga de forma controlada dentro de un recorrido cómodo."
+    ]
+  },
+  {
+    "id": "ex-108",
+    "name": "Rotación externa con banda",
+    "group": "Hombros",
+    "equipment": "Banda elástica",
+    "instructions": [
+      "Mantén las costillas controladas y evita arquear la zona lumbar.",
+      "Mueve la carga de forma controlada dentro de un recorrido cómodo."
+    ]
+  },
+  {
+    "id": "ex-109",
+    "name": "Elevaciones laterales con banda",
+    "group": "Hombros",
+    "equipment": "Banda elástica",
+    "instructions": [
+      "Mantén las costillas controladas y evita arquear la zona lumbar.",
+      "Mueve la carga de forma controlada dentro de un recorrido cómodo."
+    ]
+  },
+  {
+    "id": "ex-110",
+    "name": "Sentadilla frontal",
+    "group": "Cuádriceps",
+    "equipment": "Barra",
+    "instructions": [
+      "Apoya toda la planta del pie y acompaña la dirección de los pies con las rodillas.",
+      "Baja con control hasta donde puedas mantener una posición estable."
+    ]
+  },
+  {
+    "id": "ex-111",
+    "name": "Sentadilla con pausa",
+    "group": "Cuádriceps",
+    "equipment": "Barra",
+    "instructions": [
+      "Apoya toda la planta del pie y acompaña la dirección de los pies con las rodillas.",
+      "Baja con control hasta donde puedas mantener una posición estable."
+    ]
+  },
+  {
+    "id": "ex-112",
+    "name": "Sentadilla a cajón",
+    "group": "Cuádriceps",
+    "equipment": "Barra",
+    "instructions": [
+      "Apoya toda la planta del pie y acompaña la dirección de los pies con las rodillas.",
+      "Baja con control hasta donde puedas mantener una posición estable."
+    ]
+  },
+  {
+    "id": "ex-113",
+    "name": "Sentadilla con talones elevados",
+    "group": "Cuádriceps",
+    "equipment": "Barra",
+    "instructions": [
+      "Apoya toda la planta del pie y acompaña la dirección de los pies con las rodillas.",
+      "Baja con control hasta donde puedas mantener una posición estable."
+    ]
+  },
+  {
+    "id": "ex-114",
+    "name": "Sentadilla Zercher",
+    "group": "Cuádriceps",
+    "equipment": "Barra",
+    "instructions": [
+      "Apoya toda la planta del pie y acompaña la dirección de los pies con las rodillas.",
+      "Baja con control hasta donde puedas mantener una posición estable."
+    ]
+  },
+  {
+    "id": "ex-115",
+    "name": "Zancada atrás con barra",
+    "group": "Cuádriceps",
+    "equipment": "Barra",
+    "instructions": [
+      "Apoya toda la planta del pie y acompaña la dirección de los pies con las rodillas.",
+      "Baja con control hasta donde puedas mantener una posición estable."
+    ]
+  },
+  {
+    "id": "ex-116",
+    "name": "Sentadilla dividida con barra",
+    "group": "Cuádriceps",
+    "equipment": "Barra",
+    "instructions": [
+      "Apoya toda la planta del pie y acompaña la dirección de los pies con las rodillas.",
+      "Baja con control hasta donde puedas mantener una posición estable."
+    ]
+  },
+  {
+    "id": "ex-117",
+    "name": "Sentadilla goblet",
+    "group": "Cuádriceps",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Apoya toda la planta del pie y acompaña la dirección de los pies con las rodillas.",
+      "Baja con control hasta donde puedas mantener una posición estable."
+    ]
+  },
+  {
+    "id": "ex-118",
+    "name": "Sentadilla búlgara",
+    "group": "Cuádriceps",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Apoya toda la planta del pie y acompaña la dirección de los pies con las rodillas.",
+      "Baja con control hasta donde puedas mantener una posición estable."
+    ]
+  },
+  {
+    "id": "ex-119",
+    "name": "Zancadas caminando",
+    "group": "Cuádriceps",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Apoya toda la planta del pie y acompaña la dirección de los pies con las rodillas.",
+      "Baja con control hasta donde puedas mantener una posición estable."
+    ]
+  },
+  {
+    "id": "ex-120",
+    "name": "Zancadas inversas",
+    "group": "Cuádriceps",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Apoya toda la planta del pie y acompaña la dirección de los pies con las rodillas.",
+      "Baja con control hasta donde puedas mantener una posición estable."
+    ]
+  },
+  {
+    "id": "ex-121",
+    "name": "Subida a cajón",
+    "group": "Cuádriceps",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Apoya toda la planta del pie y acompaña la dirección de los pies con las rodillas.",
+      "Baja con control hasta donde puedas mantener una posición estable."
+    ]
+  },
+  {
+    "id": "ex-122",
+    "name": "Sentadilla con mancuernas",
+    "group": "Cuádriceps",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Apoya toda la planta del pie y acompaña la dirección de los pies con las rodillas.",
+      "Baja con control hasta donde puedas mantener una posición estable."
+    ]
+  },
+  {
+    "id": "ex-123",
+    "name": "Sentadilla dividida con mancuernas",
+    "group": "Cuádriceps",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Apoya toda la planta del pie y acompaña la dirección de los pies con las rodillas.",
+      "Baja con control hasta donde puedas mantener una posición estable."
+    ]
+  },
+  {
+    "id": "ex-124",
+    "name": "Sentadilla hack",
+    "group": "Cuádriceps",
+    "equipment": "Máquina",
+    "instructions": [
+      "Apoya toda la planta del pie y acompaña la dirección de los pies con las rodillas.",
+      "Baja con control hasta donde puedas mantener una posición estable."
+    ]
+  },
+  {
+    "id": "ex-125",
+    "name": "Sentadilla en multipower",
+    "group": "Cuádriceps",
+    "equipment": "Máquina",
+    "instructions": [
+      "Apoya toda la planta del pie y acompaña la dirección de los pies con las rodillas.",
+      "Baja con control hasta donde puedas mantener una posición estable."
+    ]
+  },
+  {
+    "id": "ex-126",
+    "name": "Prensa unilateral",
+    "group": "Cuádriceps",
+    "equipment": "Máquina",
+    "instructions": [
+      "Apoya toda la planta del pie y acompaña la dirección de los pies con las rodillas.",
+      "Baja con control hasta donde puedas mantener una posición estable."
+    ]
+  },
+  {
+    "id": "ex-127",
+    "name": "Prensa horizontal",
+    "group": "Cuádriceps",
+    "equipment": "Máquina",
+    "instructions": [
+      "Apoya toda la planta del pie y acompaña la dirección de los pies con las rodillas.",
+      "Baja con control hasta donde puedas mantener una posición estable."
+    ]
+  },
+  {
+    "id": "ex-128",
+    "name": "Extensión unilateral de cuádriceps",
+    "group": "Cuádriceps",
+    "equipment": "Máquina",
+    "instructions": [
+      "Apoya toda la planta del pie y acompaña la dirección de los pies con las rodillas.",
+      "Baja con control hasta donde puedas mantener una posición estable."
+    ]
+  },
+  {
+    "id": "ex-129",
+    "name": "Sentadilla pendular",
+    "group": "Cuádriceps",
+    "equipment": "Máquina",
+    "instructions": [
+      "Apoya toda la planta del pie y acompaña la dirección de los pies con las rodillas.",
+      "Baja con control hasta donde puedas mantener una posición estable."
+    ]
+  },
+  {
+    "id": "ex-130",
+    "name": "Sentadilla con cinturón",
+    "group": "Cuádriceps",
+    "equipment": "Máquina",
+    "instructions": [
+      "Apoya toda la planta del pie y acompaña la dirección de los pies con las rodillas.",
+      "Baja con control hasta donde puedas mantener una posición estable."
+    ]
+  },
+  {
+    "id": "ex-131",
+    "name": "Sentadilla al aire",
+    "group": "Cuádriceps",
+    "equipment": "Peso corporal",
+    "instructions": [
+      "Apoya toda la planta del pie y acompaña la dirección de los pies con las rodillas.",
+      "Baja con control hasta donde puedas mantener una posición estable."
+    ]
+  },
+  {
+    "id": "ex-132",
+    "name": "Zancada sin carga",
+    "group": "Cuádriceps",
+    "equipment": "Peso corporal",
+    "instructions": [
+      "Apoya toda la planta del pie y acompaña la dirección de los pies con las rodillas.",
+      "Baja con control hasta donde puedas mantener una posición estable."
+    ]
+  },
+  {
+    "id": "ex-133",
+    "name": "Sentadilla dividida sin carga",
+    "group": "Cuádriceps",
+    "equipment": "Peso corporal",
+    "instructions": [
+      "Apoya toda la planta del pie y acompaña la dirección de los pies con las rodillas.",
+      "Baja con control hasta donde puedas mantener una posición estable."
+    ]
+  },
+  {
+    "id": "ex-134",
+    "name": "Subida a escalón sin carga",
+    "group": "Cuádriceps",
+    "equipment": "Peso corporal",
+    "instructions": [
+      "Apoya toda la planta del pie y acompaña la dirección de los pies con las rodillas.",
+      "Baja con control hasta donde puedas mantener una posición estable."
+    ]
+  },
+  {
+    "id": "ex-135",
+    "name": "Sentarse y levantarse de banco",
+    "group": "Cuádriceps",
+    "equipment": "Peso corporal",
+    "instructions": [
+      "Apoya toda la planta del pie y acompaña la dirección de los pies con las rodillas.",
+      "Baja con control hasta donde puedas mantener una posición estable."
+    ]
+  },
+  {
+    "id": "ex-136",
+    "name": "Sentadilla goblet con kettlebell",
+    "group": "Cuádriceps",
+    "equipment": "Kettlebell",
+    "instructions": [
+      "Apoya toda la planta del pie y acompaña la dirección de los pies con las rodillas.",
+      "Baja con control hasta donde puedas mantener una posición estable."
+    ]
+  },
+  {
+    "id": "ex-137",
+    "name": "Sentadilla frontal con dos kettlebells",
+    "group": "Cuádriceps",
+    "equipment": "Kettlebell",
+    "instructions": [
+      "Apoya toda la planta del pie y acompaña la dirección de los pies con las rodillas.",
+      "Baja con control hasta donde puedas mantener una posición estable."
+    ]
+  },
+  {
+    "id": "ex-138",
+    "name": "Peso muerto con piernas semirrígidas",
+    "group": "Isquios",
+    "equipment": "Barra",
+    "instructions": [
+      "Mantén el tronco estable y evita compensar con la zona lumbar.",
+      "Controla la fase de estiramiento y usa una carga que puedas frenar."
+    ]
+  },
+  {
+    "id": "ex-139",
+    "name": "Buenos días con barra",
+    "group": "Isquios",
+    "equipment": "Barra",
+    "instructions": [
+      "Mantén el tronco estable y evita compensar con la zona lumbar.",
+      "Controla la fase de estiramiento y usa una carga que puedas frenar."
+    ]
+  },
+  {
+    "id": "ex-140",
+    "name": "Peso muerto rumano con pausa",
+    "group": "Isquios",
+    "equipment": "Barra",
+    "instructions": [
+      "Mantén el tronco estable y evita compensar con la zona lumbar.",
+      "Controla la fase de estiramiento y usa una carga que puedas frenar."
+    ]
+  },
+  {
+    "id": "ex-141",
+    "name": "Peso muerto rumano con mancuernas",
+    "group": "Isquios",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Mantén el tronco estable y evita compensar con la zona lumbar.",
+      "Controla la fase de estiramiento y usa una carga que puedas frenar."
+    ]
+  },
+  {
+    "id": "ex-142",
+    "name": "Peso muerto rumano a una pierna",
+    "group": "Isquios",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Mantén el tronco estable y evita compensar con la zona lumbar.",
+      "Controla la fase de estiramiento y usa una carga que puedas frenar."
+    ]
+  },
+  {
+    "id": "ex-143",
+    "name": "Peso muerto rumano en posición B",
+    "group": "Isquios",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Mantén el tronco estable y evita compensar con la zona lumbar.",
+      "Controla la fase de estiramiento y usa una carga que puedas frenar."
+    ]
+  },
+  {
+    "id": "ex-144",
+    "name": "Curl femoral sentado",
+    "group": "Isquios",
+    "equipment": "Máquina",
+    "instructions": [
+      "Mantén el tronco estable y evita compensar con la zona lumbar.",
+      "Controla la fase de estiramiento y usa una carga que puedas frenar."
+    ]
+  },
+  {
+    "id": "ex-145",
+    "name": "Curl femoral tumbado",
+    "group": "Isquios",
+    "equipment": "Máquina",
+    "instructions": [
+      "Mantén el tronco estable y evita compensar con la zona lumbar.",
+      "Controla la fase de estiramiento y usa una carga que puedas frenar."
+    ]
+  },
+  {
+    "id": "ex-146",
+    "name": "Curl femoral de pie",
+    "group": "Isquios",
+    "equipment": "Máquina",
+    "instructions": [
+      "Mantén el tronco estable y evita compensar con la zona lumbar.",
+      "Controla la fase de estiramiento y usa una carga que puedas frenar."
+    ]
+  },
+  {
+    "id": "ex-147",
+    "name": "Curl femoral unilateral",
+    "group": "Isquios",
+    "equipment": "Máquina",
+    "instructions": [
+      "Mantén el tronco estable y evita compensar con la zona lumbar.",
+      "Controla la fase de estiramiento y usa una carga que puedas frenar."
+    ]
+  },
+  {
+    "id": "ex-148",
+    "name": "Peso muerto rumano en multipower",
+    "group": "Isquios",
+    "equipment": "Máquina",
+    "instructions": [
+      "Mantén el tronco estable y evita compensar con la zona lumbar.",
+      "Controla la fase de estiramiento y usa una carga que puedas frenar."
+    ]
+  },
+  {
+    "id": "ex-149",
+    "name": "Curl nórdico asistido",
+    "group": "Isquios",
+    "equipment": "Peso corporal",
+    "instructions": [
+      "Mantén el tronco estable y evita compensar con la zona lumbar.",
+      "Controla la fase de estiramiento y usa una carga que puedas frenar."
+    ]
+  },
+  {
+    "id": "ex-150",
+    "name": "Curl femoral deslizante",
+    "group": "Isquios",
+    "equipment": "Peso corporal",
+    "instructions": [
+      "Mantén el tronco estable y evita compensar con la zona lumbar.",
+      "Controla la fase de estiramiento y usa una carga que puedas frenar."
+    ]
+  },
+  {
+    "id": "ex-151",
+    "name": "Curl femoral con fitball",
+    "group": "Isquios",
+    "equipment": "Peso corporal",
+    "instructions": [
+      "Mantén el tronco estable y evita compensar con la zona lumbar.",
+      "Controla la fase de estiramiento y usa una carga que puedas frenar."
+    ]
+  },
+  {
+    "id": "ex-152",
+    "name": "Caminata de talones desde puente",
+    "group": "Isquios",
+    "equipment": "Peso corporal",
+    "instructions": [
+      "Mantén el tronco estable y evita compensar con la zona lumbar.",
+      "Controla la fase de estiramiento y usa una carga que puedas frenar."
+    ]
+  },
+  {
+    "id": "ex-153",
+    "name": "Peso muerto rumano en polea",
+    "group": "Isquios",
+    "equipment": "Polea",
+    "instructions": [
+      "Mantén el tronco estable y evita compensar con la zona lumbar.",
+      "Controla la fase de estiramiento y usa una carga que puedas frenar."
+    ]
+  },
+  {
+    "id": "ex-154",
+    "name": "Curl femoral con banda",
+    "group": "Isquios",
+    "equipment": "Banda elástica",
+    "instructions": [
+      "Mantén el tronco estable y evita compensar con la zona lumbar.",
+      "Controla la fase de estiramiento y usa una carga que puedas frenar."
+    ]
+  },
+  {
+    "id": "ex-155",
+    "name": "Puente de glúteos con barra",
+    "group": "Glúteos",
+    "equipment": "Barra",
+    "instructions": [
+      "Mantén la pelvis estable y el abdomen activo.",
+      "Extiende la cadera sin terminar arqueando la espalda."
+    ]
+  },
+  {
+    "id": "ex-156",
+    "name": "Hip thrust con pausa",
+    "group": "Glúteos",
+    "equipment": "Barra",
+    "instructions": [
+      "Mantén la pelvis estable y el abdomen activo.",
+      "Extiende la cadera sin terminar arqueando la espalda."
+    ]
+  },
+  {
+    "id": "ex-157",
+    "name": "Peso muerto sumo",
+    "group": "Glúteos",
+    "equipment": "Barra",
+    "instructions": [
+      "Mantén la pelvis estable y el abdomen activo.",
+      "Extiende la cadera sin terminar arqueando la espalda."
+    ]
+  },
+  {
+    "id": "ex-158",
+    "name": "Hip thrust con mancuerna",
+    "group": "Glúteos",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Mantén la pelvis estable y el abdomen activo.",
+      "Extiende la cadera sin terminar arqueando la espalda."
+    ]
+  },
+  {
+    "id": "ex-159",
+    "name": "Peso muerto sumo con mancuerna",
+    "group": "Glúteos",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Mantén la pelvis estable y el abdomen activo.",
+      "Extiende la cadera sin terminar arqueando la espalda."
+    ]
+  },
+  {
+    "id": "ex-160",
+    "name": "Zancada larga con mancuernas",
+    "group": "Glúteos",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Mantén la pelvis estable y el abdomen activo.",
+      "Extiende la cadera sin terminar arqueando la espalda."
+    ]
+  },
+  {
+    "id": "ex-161",
+    "name": "Puente de glúteos con mancuerna",
+    "group": "Glúteos",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Mantén la pelvis estable y el abdomen activo.",
+      "Extiende la cadera sin terminar arqueando la espalda."
+    ]
+  },
+  {
+    "id": "ex-162",
+    "name": "Patada de glúteo en polea",
+    "group": "Glúteos",
+    "equipment": "Polea",
+    "instructions": [
+      "Mantén la pelvis estable y el abdomen activo.",
+      "Extiende la cadera sin terminar arqueando la espalda."
+    ]
+  },
+  {
+    "id": "ex-163",
+    "name": "Pull through",
+    "group": "Glúteos",
+    "equipment": "Polea",
+    "instructions": [
+      "Mantén la pelvis estable y el abdomen activo.",
+      "Extiende la cadera sin terminar arqueando la espalda."
+    ]
+  },
+  {
+    "id": "ex-164",
+    "name": "Abducción de cadera en polea",
+    "group": "Glúteos",
+    "equipment": "Polea",
+    "instructions": [
+      "Mantén la pelvis estable y el abdomen activo.",
+      "Extiende la cadera sin terminar arqueando la espalda."
+    ]
+  },
+  {
+    "id": "ex-165",
+    "name": "Hip thrust en máquina",
+    "group": "Glúteos",
+    "equipment": "Máquina",
+    "instructions": [
+      "Mantén la pelvis estable y el abdomen activo.",
+      "Extiende la cadera sin terminar arqueando la espalda."
+    ]
+  },
+  {
+    "id": "ex-166",
+    "name": "Patada de glúteo en máquina",
+    "group": "Glúteos",
+    "equipment": "Máquina",
+    "instructions": [
+      "Mantén la pelvis estable y el abdomen activo.",
+      "Extiende la cadera sin terminar arqueando la espalda."
+    ]
+  },
+  {
+    "id": "ex-167",
+    "name": "Hip thrust en multipower",
+    "group": "Glúteos",
+    "equipment": "Máquina",
+    "instructions": [
+      "Mantén la pelvis estable y el abdomen activo.",
+      "Extiende la cadera sin terminar arqueando la espalda."
+    ]
+  },
+  {
+    "id": "ex-168",
+    "name": "Extensión de cadera en banco a 45 grados",
+    "group": "Glúteos",
+    "equipment": "Máquina",
+    "instructions": [
+      "Mantén la pelvis estable y el abdomen activo.",
+      "Extiende la cadera sin terminar arqueando la espalda."
+    ]
+  },
+  {
+    "id": "ex-169",
+    "name": "Puente de glúteos",
+    "group": "Glúteos",
+    "equipment": "Peso corporal",
+    "instructions": [
+      "Mantén la pelvis estable y el abdomen activo.",
+      "Extiende la cadera sin terminar arqueando la espalda."
+    ]
+  },
+  {
+    "id": "ex-170",
+    "name": "Puente de glúteos unilateral",
+    "group": "Glúteos",
+    "equipment": "Peso corporal",
+    "instructions": [
+      "Mantén la pelvis estable y el abdomen activo.",
+      "Extiende la cadera sin terminar arqueando la espalda."
+    ]
+  },
+  {
+    "id": "ex-171",
+    "name": "Hip thrust sin carga",
+    "group": "Glúteos",
+    "equipment": "Peso corporal",
+    "instructions": [
+      "Mantén la pelvis estable y el abdomen activo.",
+      "Extiende la cadera sin terminar arqueando la espalda."
+    ]
+  },
+  {
+    "id": "ex-172",
+    "name": "Patada de glúteo en cuadrupedia",
+    "group": "Glúteos",
+    "equipment": "Peso corporal",
+    "instructions": [
+      "Mantén la pelvis estable y el abdomen activo.",
+      "Extiende la cadera sin terminar arqueando la espalda."
+    ]
+  },
+  {
+    "id": "ex-173",
+    "name": "Abducción de cadera tumbado",
+    "group": "Glúteos",
+    "equipment": "Peso corporal",
+    "instructions": [
+      "Mantén la pelvis estable y el abdomen activo.",
+      "Extiende la cadera sin terminar arqueando la espalda."
+    ]
+  },
+  {
+    "id": "ex-174",
+    "name": "Abducción de cadera con banda",
+    "group": "Glúteos",
+    "equipment": "Banda elástica",
+    "instructions": [
+      "Mantén la pelvis estable y el abdomen activo.",
+      "Extiende la cadera sin terminar arqueando la espalda."
+    ]
+  },
+  {
+    "id": "ex-175",
+    "name": "Puente de glúteos con banda",
+    "group": "Glúteos",
+    "equipment": "Banda elástica",
+    "instructions": [
+      "Mantén la pelvis estable y el abdomen activo.",
+      "Extiende la cadera sin terminar arqueando la espalda."
+    ]
+  },
+  {
+    "id": "ex-176",
+    "name": "Caminata lateral con banda",
+    "group": "Glúteos",
+    "equipment": "Banda elástica",
+    "instructions": [
+      "Mantén la pelvis estable y el abdomen activo.",
+      "Extiende la cadera sin terminar arqueando la espalda."
+    ]
+  },
+  {
+    "id": "ex-177",
+    "name": "Curl con barra EZ",
+    "group": "Bíceps",
+    "equipment": "Barra",
+    "instructions": [
+      "Mantén los brazos estables y evita balancear el tronco.",
+      "Flexiona el codo y baja la carga lentamente."
+    ]
+  },
+  {
+    "id": "ex-178",
+    "name": "Curl con agarre inverso",
+    "group": "Bíceps",
+    "equipment": "Barra",
+    "instructions": [
+      "Mantén los brazos estables y evita balancear el tronco.",
+      "Flexiona el codo y baja la carga lentamente."
+    ]
+  },
+  {
+    "id": "ex-179",
+    "name": "Curl predicador con barra EZ",
+    "group": "Bíceps",
+    "equipment": "Barra",
+    "instructions": [
+      "Mantén los brazos estables y evita balancear el tronco.",
+      "Flexiona el codo y baja la carga lentamente."
+    ]
+  },
+  {
+    "id": "ex-180",
+    "name": "Curl araña con barra EZ",
+    "group": "Bíceps",
+    "equipment": "Barra",
+    "instructions": [
+      "Mantén los brazos estables y evita balancear el tronco.",
+      "Flexiona el codo y baja la carga lentamente."
+    ]
+  },
+  {
+    "id": "ex-181",
+    "name": "Curl martillo",
+    "group": "Bíceps",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Mantén los brazos estables y evita balancear el tronco.",
+      "Flexiona el codo y baja la carga lentamente."
+    ]
+  },
+  {
+    "id": "ex-182",
+    "name": "Curl inclinado",
+    "group": "Bíceps",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Mantén los brazos estables y evita balancear el tronco.",
+      "Flexiona el codo y baja la carga lentamente."
+    ]
+  },
+  {
+    "id": "ex-183",
+    "name": "Curl concentrado",
+    "group": "Bíceps",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Mantén los brazos estables y evita balancear el tronco.",
+      "Flexiona el codo y baja la carga lentamente."
+    ]
+  },
+  {
+    "id": "ex-184",
+    "name": "Curl alterno",
+    "group": "Bíceps",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Mantén los brazos estables y evita balancear el tronco.",
+      "Flexiona el codo y baja la carga lentamente."
+    ]
+  },
+  {
+    "id": "ex-185",
+    "name": "Curl araña con mancuernas",
+    "group": "Bíceps",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Mantén los brazos estables y evita balancear el tronco.",
+      "Flexiona el codo y baja la carga lentamente."
+    ]
+  },
+  {
+    "id": "ex-186",
+    "name": "Curl predicador unilateral",
+    "group": "Bíceps",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Mantén los brazos estables y evita balancear el tronco.",
+      "Flexiona el codo y baja la carga lentamente."
+    ]
+  },
+  {
+    "id": "ex-187",
+    "name": "Curl martillo cruzado",
+    "group": "Bíceps",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Mantén los brazos estables y evita balancear el tronco.",
+      "Flexiona el codo y baja la carga lentamente."
+    ]
+  },
+  {
+    "id": "ex-188",
+    "name": "Curl de bíceps en polea baja",
+    "group": "Bíceps",
+    "equipment": "Polea",
+    "instructions": [
+      "Mantén los brazos estables y evita balancear el tronco.",
+      "Flexiona el codo y baja la carga lentamente."
+    ]
+  },
+  {
+    "id": "ex-189",
+    "name": "Curl bayesiano",
+    "group": "Bíceps",
+    "equipment": "Polea",
+    "instructions": [
+      "Mantén los brazos estables y evita balancear el tronco.",
+      "Flexiona el codo y baja la carga lentamente."
+    ]
+  },
+  {
+    "id": "ex-190",
+    "name": "Curl martillo con cuerda",
+    "group": "Bíceps",
+    "equipment": "Polea",
+    "instructions": [
+      "Mantén los brazos estables y evita balancear el tronco.",
+      "Flexiona el codo y baja la carga lentamente."
+    ]
+  },
+  {
+    "id": "ex-191",
+    "name": "Curl de bíceps en polea alta",
+    "group": "Bíceps",
+    "equipment": "Polea",
+    "instructions": [
+      "Mantén los brazos estables y evita balancear el tronco.",
+      "Flexiona el codo y baja la carga lentamente."
+    ]
+  },
+  {
+    "id": "ex-192",
+    "name": "Curl unilateral en polea",
+    "group": "Bíceps",
+    "equipment": "Polea",
+    "instructions": [
+      "Mantén los brazos estables y evita balancear el tronco.",
+      "Flexiona el codo y baja la carga lentamente."
+    ]
+  },
+  {
+    "id": "ex-193",
+    "name": "Curl de bíceps en máquina",
+    "group": "Bíceps",
+    "equipment": "Máquina",
+    "instructions": [
+      "Mantén los brazos estables y evita balancear el tronco.",
+      "Flexiona el codo y baja la carga lentamente."
+    ]
+  },
+  {
+    "id": "ex-194",
+    "name": "Curl predicador en máquina",
+    "group": "Bíceps",
+    "equipment": "Máquina",
+    "instructions": [
+      "Mantén los brazos estables y evita balancear el tronco.",
+      "Flexiona el codo y baja la carga lentamente."
+    ]
+  },
+  {
+    "id": "ex-195",
+    "name": "Curl de bíceps con banda",
+    "group": "Bíceps",
+    "equipment": "Banda elástica",
+    "instructions": [
+      "Mantén los brazos estables y evita balancear el tronco.",
+      "Flexiona el codo y baja la carga lentamente."
+    ]
+  },
+  {
+    "id": "ex-196",
+    "name": "Press de banca agarre cerrado",
+    "group": "Tríceps",
+    "equipment": "Barra",
+    "instructions": [
+      "Mantén estable el brazo y las muñecas alineadas.",
+      "Extiende el codo con control, sin impulsos ni dolor."
+    ]
+  },
+  {
+    "id": "ex-197",
+    "name": "Press francés con barra EZ",
+    "group": "Tríceps",
+    "equipment": "Barra",
+    "instructions": [
+      "Mantén estable el brazo y las muñecas alineadas.",
+      "Extiende el codo con control, sin impulsos ni dolor."
+    ]
+  },
+  {
+    "id": "ex-198",
+    "name": "Extensión de tríceps sobre cabeza con barra EZ",
+    "group": "Tríceps",
+    "equipment": "Barra",
+    "instructions": [
+      "Mantén estable el brazo y las muñecas alineadas.",
+      "Extiende el codo con control, sin impulsos ni dolor."
+    ]
+  },
+  {
+    "id": "ex-199",
+    "name": "Extensión de tríceps sobre cabeza",
+    "group": "Tríceps",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Mantén estable el brazo y las muñecas alineadas.",
+      "Extiende el codo con control, sin impulsos ni dolor."
+    ]
+  },
+  {
+    "id": "ex-200",
+    "name": "Press francés con mancuernas",
+    "group": "Tríceps",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Mantén estable el brazo y las muñecas alineadas.",
+      "Extiende el codo con control, sin impulsos ni dolor."
+    ]
+  },
+  {
+    "id": "ex-201",
+    "name": "Patada de tríceps con mancuerna",
+    "group": "Tríceps",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Mantén estable el brazo y las muñecas alineadas.",
+      "Extiende el codo con control, sin impulsos ni dolor."
+    ]
+  },
+  {
+    "id": "ex-202",
+    "name": "Extensión unilateral sobre cabeza",
+    "group": "Tríceps",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Mantén estable el brazo y las muñecas alineadas.",
+      "Extiende el codo con control, sin impulsos ni dolor."
+    ]
+  },
+  {
+    "id": "ex-203",
+    "name": "Extensión de tríceps con cuerda",
+    "group": "Tríceps",
+    "equipment": "Polea",
+    "instructions": [
+      "Mantén estable el brazo y las muñecas alineadas.",
+      "Extiende el codo con control, sin impulsos ni dolor."
+    ]
+  },
+  {
+    "id": "ex-204",
+    "name": "Extensión de tríceps con barra recta",
+    "group": "Tríceps",
+    "equipment": "Polea",
+    "instructions": [
+      "Mantén estable el brazo y las muñecas alineadas.",
+      "Extiende el codo con control, sin impulsos ni dolor."
+    ]
+  },
+  {
+    "id": "ex-205",
+    "name": "Extensión sobre cabeza en polea",
+    "group": "Tríceps",
+    "equipment": "Polea",
+    "instructions": [
+      "Mantén estable el brazo y las muñecas alineadas.",
+      "Extiende el codo con control, sin impulsos ni dolor."
+    ]
+  },
+  {
+    "id": "ex-206",
+    "name": "Extensión unilateral en polea",
+    "group": "Tríceps",
+    "equipment": "Polea",
+    "instructions": [
+      "Mantén estable el brazo y las muñecas alineadas.",
+      "Extiende el codo con control, sin impulsos ni dolor."
+    ]
+  },
+  {
+    "id": "ex-207",
+    "name": "Extensión de tríceps agarre inverso",
+    "group": "Tríceps",
+    "equipment": "Polea",
+    "instructions": [
+      "Mantén estable el brazo y las muñecas alineadas.",
+      "Extiende el codo con control, sin impulsos ni dolor."
+    ]
+  },
+  {
+    "id": "ex-208",
+    "name": "Extensión de tríceps en máquina",
+    "group": "Tríceps",
+    "equipment": "Máquina",
+    "instructions": [
+      "Mantén estable el brazo y las muñecas alineadas.",
+      "Extiende el codo con control, sin impulsos ni dolor."
+    ]
+  },
+  {
+    "id": "ex-209",
+    "name": "Fondos en máquina",
+    "group": "Tríceps",
+    "equipment": "Máquina",
+    "instructions": [
+      "Mantén estable el brazo y las muñecas alineadas.",
+      "Extiende el codo con control, sin impulsos ni dolor."
+    ]
+  },
+  {
+    "id": "ex-210",
+    "name": "Fondos asistidos",
+    "group": "Tríceps",
+    "equipment": "Máquina",
+    "instructions": [
+      "Mantén estable el brazo y las muñecas alineadas.",
+      "Extiende el codo con control, sin impulsos ni dolor."
+    ]
+  },
+  {
+    "id": "ex-211",
+    "name": "Flexiones con agarre cerrado",
+    "group": "Tríceps",
+    "equipment": "Peso corporal",
+    "instructions": [
+      "Mantén estable el brazo y las muñecas alineadas.",
+      "Extiende el codo con control, sin impulsos ni dolor."
+    ]
+  },
+  {
+    "id": "ex-212",
+    "name": "Fondos con torso vertical",
+    "group": "Tríceps",
+    "equipment": "Peso corporal",
+    "instructions": [
+      "Mantén estable el brazo y las muñecas alineadas.",
+      "Extiende el codo con control, sin impulsos ni dolor."
+    ]
+  },
+  {
+    "id": "ex-213",
+    "name": "Extensión de tríceps con banda",
+    "group": "Tríceps",
+    "equipment": "Banda elástica",
+    "instructions": [
+      "Mantén estable el brazo y las muñecas alineadas.",
+      "Extiende el codo con control, sin impulsos ni dolor."
+    ]
+  },
+  {
+    "id": "ex-214",
+    "name": "Elevación de gemelos sentado",
+    "group": "Gemelos",
+    "equipment": "Máquina",
+    "instructions": [
+      "Mantén el apoyo estable y utiliza un recorrido cómodo del tobillo.",
+      "Sube y baja despacio; evita rebotar."
+    ]
+  },
+  {
+    "id": "ex-215",
+    "name": "Elevación de gemelos de pie",
+    "group": "Gemelos",
+    "equipment": "Máquina",
+    "instructions": [
+      "Mantén el apoyo estable y utiliza un recorrido cómodo del tobillo.",
+      "Sube y baja despacio; evita rebotar."
+    ]
+  },
+  {
+    "id": "ex-216",
+    "name": "Elevación de gemelos en prensa",
+    "group": "Gemelos",
+    "equipment": "Máquina",
+    "instructions": [
+      "Mantén el apoyo estable y utiliza un recorrido cómodo del tobillo.",
+      "Sube y baja despacio; evita rebotar."
+    ]
+  },
+  {
+    "id": "ex-217",
+    "name": "Elevación unilateral en máquina",
+    "group": "Gemelos",
+    "equipment": "Máquina",
+    "instructions": [
+      "Mantén el apoyo estable y utiliza un recorrido cómodo del tobillo.",
+      "Sube y baja despacio; evita rebotar."
+    ]
+  },
+  {
+    "id": "ex-218",
+    "name": "Elevación de gemelos con mancuernas",
+    "group": "Gemelos",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Mantén el apoyo estable y utiliza un recorrido cómodo del tobillo.",
+      "Sube y baja despacio; evita rebotar."
+    ]
+  },
+  {
+    "id": "ex-219",
+    "name": "Elevación unilateral de gemelo con mancuerna",
+    "group": "Gemelos",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Mantén el apoyo estable y utiliza un recorrido cómodo del tobillo.",
+      "Sube y baja despacio; evita rebotar."
+    ]
+  },
+  {
+    "id": "ex-220",
+    "name": "Elevación de gemelos en escalón",
+    "group": "Gemelos",
+    "equipment": "Peso corporal",
+    "instructions": [
+      "Mantén el apoyo estable y utiliza un recorrido cómodo del tobillo.",
+      "Sube y baja despacio; evita rebotar."
+    ]
+  },
+  {
+    "id": "ex-221",
+    "name": "Elevación unilateral de gemelo",
+    "group": "Gemelos",
+    "equipment": "Peso corporal",
+    "instructions": [
+      "Mantén el apoyo estable y utiliza un recorrido cómodo del tobillo.",
+      "Sube y baja despacio; evita rebotar."
+    ]
+  },
+  {
+    "id": "ex-222",
+    "name": "Elevación de tibial anterior en pared",
+    "group": "Gemelos",
+    "equipment": "Peso corporal",
+    "instructions": [
+      "Mantén el apoyo estable y utiliza un recorrido cómodo del tobillo.",
+      "Sube y baja despacio; evita rebotar."
+    ]
+  },
+  {
+    "id": "ex-223",
+    "name": "Elevación de gemelos en multipower",
+    "group": "Gemelos",
+    "equipment": "Máquina",
+    "instructions": [
+      "Mantén el apoyo estable y utiliza un recorrido cómodo del tobillo.",
+      "Sube y baja despacio; evita rebotar."
+    ]
+  },
+  {
+    "id": "ex-224",
+    "name": "Crunch en polea",
+    "group": "Core",
+    "equipment": "Polea",
+    "instructions": [
+      "Respira durante el esfuerzo y conserva el control del tronco.",
+      "Acorta el recorrido si pierdes la posición o notas dolor lumbar."
+    ]
+  },
+  {
+    "id": "ex-225",
+    "name": "Crunch oblicuo en polea",
+    "group": "Core",
+    "equipment": "Polea",
+    "instructions": [
+      "Respira durante el esfuerzo y conserva el control del tronco.",
+      "Acorta el recorrido si pierdes la posición o notas dolor lumbar."
+    ]
+  },
+  {
+    "id": "ex-226",
+    "name": "Rotación de tronco en polea",
+    "group": "Core",
+    "equipment": "Polea",
+    "instructions": [
+      "Respira durante el esfuerzo y conserva el control del tronco.",
+      "Acorta el recorrido si pierdes la posición o notas dolor lumbar."
+    ]
+  },
+  {
+    "id": "ex-227",
+    "name": "Press Pallof dinámico",
+    "group": "Core",
+    "equipment": "Polea",
+    "instructions": [
+      "Respira durante el esfuerzo y conserva el control del tronco.",
+      "Acorta el recorrido si pierdes la posición o notas dolor lumbar."
+    ]
+  },
+  {
+    "id": "ex-228",
+    "name": "Crunch en suelo",
+    "group": "Core",
+    "equipment": "Peso corporal",
+    "instructions": [
+      "Respira durante el esfuerzo y conserva el control del tronco.",
+      "Acorta el recorrido si pierdes la posición o notas dolor lumbar."
+    ]
+  },
+  {
+    "id": "ex-229",
+    "name": "Crunch inverso",
+    "group": "Core",
+    "equipment": "Peso corporal",
+    "instructions": [
+      "Respira durante el esfuerzo y conserva el control del tronco.",
+      "Acorta el recorrido si pierdes la posición o notas dolor lumbar."
+    ]
+  },
+  {
+    "id": "ex-230",
+    "name": "Dead bug",
+    "group": "Core",
+    "equipment": "Peso corporal",
+    "instructions": [
+      "Respira durante el esfuerzo y conserva el control del tronco.",
+      "Acorta el recorrido si pierdes la posición o notas dolor lumbar."
+    ]
+  },
+  {
+    "id": "ex-231",
+    "name": "Bird dog",
+    "group": "Core",
+    "equipment": "Peso corporal",
+    "instructions": [
+      "Respira durante el esfuerzo y conserva el control del tronco.",
+      "Acorta el recorrido si pierdes la posición o notas dolor lumbar."
+    ]
+  },
+  {
+    "id": "ex-232",
+    "name": "Elevación de rodillas colgado",
+    "group": "Core",
+    "equipment": "Peso corporal",
+    "instructions": [
+      "Respira durante el esfuerzo y conserva el control del tronco.",
+      "Acorta el recorrido si pierdes la posición o notas dolor lumbar."
+    ]
+  },
+  {
+    "id": "ex-233",
+    "name": "Crunch bicicleta",
+    "group": "Core",
+    "equipment": "Peso corporal",
+    "instructions": [
+      "Respira durante el esfuerzo y conserva el control del tronco.",
+      "Acorta el recorrido si pierdes la posición o notas dolor lumbar."
+    ]
+  },
+  {
+    "id": "ex-234",
+    "name": "Toques de talón",
+    "group": "Core",
+    "equipment": "Peso corporal",
+    "instructions": [
+      "Respira durante el esfuerzo y conserva el control del tronco.",
+      "Acorta el recorrido si pierdes la posición o notas dolor lumbar."
+    ]
+  },
+  {
+    "id": "ex-235",
+    "name": "Elevación de rodillas en paralelas",
+    "group": "Core",
+    "equipment": "Peso corporal",
+    "instructions": [
+      "Respira durante el esfuerzo y conserva el control del tronco.",
+      "Acorta el recorrido si pierdes la posición o notas dolor lumbar."
+    ]
+  },
+  {
+    "id": "ex-236",
+    "name": "Encogimiento de rodillas sentado",
+    "group": "Core",
+    "equipment": "Peso corporal",
+    "instructions": [
+      "Respira durante el esfuerzo y conserva el control del tronco.",
+      "Acorta el recorrido si pierdes la posición o notas dolor lumbar."
+    ]
+  },
+  {
+    "id": "ex-237",
+    "name": "Crunch con piernas elevadas",
+    "group": "Core",
+    "equipment": "Peso corporal",
+    "instructions": [
+      "Respira durante el esfuerzo y conserva el control del tronco.",
+      "Acorta el recorrido si pierdes la posición o notas dolor lumbar."
+    ]
+  },
+  {
+    "id": "ex-238",
+    "name": "Despliegue de rueda de rodillas",
+    "group": "Core",
+    "equipment": "Rueda abdominal",
+    "instructions": [
+      "Respira durante el esfuerzo y conserva el control del tronco.",
+      "Acorta el recorrido si pierdes la posición o notas dolor lumbar."
+    ]
+  },
+  {
+    "id": "ex-239",
+    "name": "Crunch abdominal sentado",
+    "group": "Core",
+    "equipment": "Máquina",
+    "instructions": [
+      "Respira durante el esfuerzo y conserva el control del tronco.",
+      "Acorta el recorrido si pierdes la posición o notas dolor lumbar."
+    ]
+  },
+  {
+    "id": "ex-240",
+    "name": "Rotación de tronco en máquina",
+    "group": "Core",
+    "equipment": "Máquina",
+    "instructions": [
+      "Respira durante el esfuerzo y conserva el control del tronco.",
+      "Acorta el recorrido si pierdes la posición o notas dolor lumbar."
+    ]
+  },
+  {
+    "id": "ex-241",
+    "name": "Press Pallof con banda",
+    "group": "Core",
+    "equipment": "Banda elástica",
+    "instructions": [
+      "Respira durante el esfuerzo y conserva el control del tronco.",
+      "Acorta el recorrido si pierdes la posición o notas dolor lumbar."
+    ]
+  },
+  {
+    "id": "ex-242",
+    "name": "Crunch con banda",
+    "group": "Core",
+    "equipment": "Banda elástica",
+    "instructions": [
+      "Respira durante el esfuerzo y conserva el control del tronco.",
+      "Acorta el recorrido si pierdes la posición o notas dolor lumbar."
+    ]
+  },
+  {
+    "id": "ex-243",
+    "name": "Curl de muñeca",
+    "group": "Antebrazos",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Apoya el antebrazo y utiliza una carga ligera.",
+      "Mueve la muñeca con control, sin forzar el final del recorrido."
+    ]
+  },
+  {
+    "id": "ex-244",
+    "name": "Extensión de muñeca",
+    "group": "Antebrazos",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Apoya el antebrazo y utiliza una carga ligera.",
+      "Mueve la muñeca con control, sin forzar el final del recorrido."
+    ]
+  },
+  {
+    "id": "ex-245",
+    "name": "Pronación y supinación con mancuerna",
+    "group": "Antebrazos",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Apoya el antebrazo y utiliza una carga ligera.",
+      "Mueve la muñeca con control, sin forzar el final del recorrido."
+    ]
+  },
+  {
+    "id": "ex-246",
+    "name": "Curl de muñeca con barra",
+    "group": "Antebrazos",
+    "equipment": "Barra",
+    "instructions": [
+      "Apoya el antebrazo y utiliza una carga ligera.",
+      "Mueve la muñeca con control, sin forzar el final del recorrido."
+    ]
+  },
+  {
+    "id": "ex-247",
+    "name": "Extensión de muñeca con barra",
+    "group": "Antebrazos",
+    "equipment": "Barra",
+    "instructions": [
+      "Apoya el antebrazo y utiliza una carga ligera.",
+      "Mueve la muñeca con control, sin forzar el final del recorrido."
+    ]
+  },
+  {
+    "id": "ex-248",
+    "name": "Curl de muñeca en polea",
+    "group": "Antebrazos",
+    "equipment": "Polea",
+    "instructions": [
+      "Apoya el antebrazo y utiliza una carga ligera.",
+      "Mueve la muñeca con control, sin forzar el final del recorrido."
+    ]
+  },
+  {
+    "id": "ex-249",
+    "name": "Aducción de cadera en máquina",
+    "group": "Aductores",
+    "equipment": "Máquina",
+    "instructions": [
+      "Mantén la pelvis estable y evita girar el tronco.",
+      "Acerca la pierna con control y sin rebotes."
+    ]
+  },
+  {
+    "id": "ex-250",
+    "name": "Aducción de cadera en polea",
+    "group": "Aductores",
+    "equipment": "Polea",
+    "instructions": [
+      "Mantén la pelvis estable y evita girar el tronco.",
+      "Acerca la pierna con control y sin rebotes."
+    ]
+  },
+  {
+    "id": "ex-251",
+    "name": "Aducción de cadera tumbado",
+    "group": "Aductores",
+    "equipment": "Peso corporal",
+    "instructions": [
+      "Mantén la pelvis estable y evita girar el tronco.",
+      "Acerca la pierna con control y sin rebotes."
+    ]
+  },
+  {
+    "id": "ex-252",
+    "name": "Aducción de cadera con banda",
+    "group": "Aductores",
+    "equipment": "Banda elástica",
+    "instructions": [
+      "Mantén la pelvis estable y evita girar el tronco.",
+      "Acerca la pierna con control y sin rebotes."
+    ]
+  },
+  {
+    "id": "ex-253",
+    "name": "Encogimiento de hombros con barra",
+    "group": "Trapecio",
+    "equipment": "Barra",
+    "instructions": [
+      "Mantén el cuello en posición neutra.",
+      "Controla el movimiento de las escápulas y evita tirones."
+    ]
+  },
+  {
+    "id": "ex-254",
+    "name": "Encogimiento con mancuernas",
+    "group": "Trapecio",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Mantén el cuello en posición neutra.",
+      "Controla el movimiento de las escápulas y evita tirones."
+    ]
+  },
+  {
+    "id": "ex-255",
+    "name": "Elevación Y con pecho apoyado",
+    "group": "Trapecio",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Mantén el cuello en posición neutra.",
+      "Controla el movimiento de las escápulas y evita tirones."
+    ]
+  },
+  {
+    "id": "ex-256",
+    "name": "Encogimiento en polea",
+    "group": "Trapecio",
+    "equipment": "Polea",
+    "instructions": [
+      "Mantén el cuello en posición neutra.",
+      "Controla el movimiento de las escápulas y evita tirones."
+    ]
+  },
+  {
+    "id": "ex-257",
+    "name": "Encogimiento en máquina",
+    "group": "Trapecio",
+    "equipment": "Máquina",
+    "instructions": [
+      "Mantén el cuello en posición neutra.",
+      "Controla el movimiento de las escápulas y evita tirones."
+    ]
+  },
+  {
+    "id": "ex-258",
+    "name": "Press de banca alterno con mancuernas",
+    "group": "Pecho",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Apoya bien el cuerpo y mantén las muñecas alineadas.",
+      "Controla la bajada y empuja sin rebotes ni dolor en el hombro."
+    ]
+  },
+  {
+    "id": "ex-259",
+    "name": "Press de banca unilateral con mancuerna",
+    "group": "Pecho",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Apoya bien el cuerpo y mantén las muñecas alineadas.",
+      "Controla la bajada y empuja sin rebotes ni dolor en el hombro."
+    ]
+  },
+  {
+    "id": "ex-260",
+    "name": "Press inclinado unilateral con mancuerna",
+    "group": "Pecho",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Apoya bien el cuerpo y mantén las muñecas alineadas.",
+      "Controla la bajada y empuja sin rebotes ni dolor en el hombro."
+    ]
+  },
+  {
+    "id": "ex-261",
+    "name": "Press de suelo unilateral con mancuerna",
+    "group": "Pecho",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Apoya bien el cuerpo y mantén las muñecas alineadas.",
+      "Controla la bajada y empuja sin rebotes ni dolor en el hombro."
+    ]
+  },
+  {
+    "id": "ex-262",
+    "name": "Press de banca con mancuernas y pausa",
+    "group": "Pecho",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Apoya bien el cuerpo y mantén las muñecas alineadas.",
+      "Controla la bajada y empuja sin rebotes ni dolor en el hombro."
+    ]
+  },
+  {
+    "id": "ex-263",
+    "name": "Press inclinado con mancuernas y pausa",
+    "group": "Pecho",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Apoya bien el cuerpo y mantén las muñecas alineadas.",
+      "Controla la bajada y empuja sin rebotes ni dolor en el hombro."
+    ]
+  },
+  {
+    "id": "ex-264",
+    "name": "Press squeeze con mancuernas",
+    "group": "Pecho",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Apoya bien el cuerpo y mantén las muñecas alineadas.",
+      "Controla la bajada y empuja sin rebotes ni dolor en el hombro."
+    ]
+  },
+  {
+    "id": "ex-265",
+    "name": "Aperturas en suelo con mancuernas",
+    "group": "Pecho",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Apoya bien el cuerpo y mantén las muñecas alineadas.",
+      "Controla la bajada y empuja sin rebotes ni dolor en el hombro."
+    ]
+  },
+  {
+    "id": "ex-266",
+    "name": "Aperturas declinadas con mancuernas",
+    "group": "Pecho",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Apoya bien el cuerpo y mantén las muñecas alineadas.",
+      "Controla la bajada y empuja sin rebotes ni dolor en el hombro."
+    ]
+  },
+  {
+    "id": "ex-267",
+    "name": "Press de banca Spoto",
+    "group": "Pecho",
+    "equipment": "Barra",
+    "instructions": [
+      "Apoya bien el cuerpo y mantén las muñecas alineadas.",
+      "Controla la bajada y empuja sin rebotes ni dolor en el hombro."
+    ]
+  },
+  {
+    "id": "ex-268",
+    "name": "Press de banca desde soportes",
+    "group": "Pecho",
+    "equipment": "Barra",
+    "instructions": [
+      "Apoya bien el cuerpo y mantén las muñecas alineadas.",
+      "Controla la bajada y empuja sin rebotes ni dolor en el hombro."
+    ]
+  },
+  {
+    "id": "ex-269",
+    "name": "Press de banca con tempo",
+    "group": "Pecho",
+    "equipment": "Barra",
+    "instructions": [
+      "Apoya bien el cuerpo y mantén las muñecas alineadas.",
+      "Controla la bajada y empuja sin rebotes ni dolor en el hombro."
+    ]
+  },
+  {
+    "id": "ex-270",
+    "name": "Press de banca Larsen",
+    "group": "Pecho",
+    "equipment": "Barra",
+    "instructions": [
+      "Apoya bien el cuerpo y mantén las muñecas alineadas.",
+      "Controla la bajada y empuja sin rebotes ni dolor en el hombro."
+    ]
+  },
+  {
+    "id": "ex-271",
+    "name": "Press inclinado con pausa",
+    "group": "Pecho",
+    "equipment": "Barra",
+    "instructions": [
+      "Apoya bien el cuerpo y mantén las muñecas alineadas.",
+      "Controla la bajada y empuja sin rebotes ni dolor en el hombro."
+    ]
+  },
+  {
+    "id": "ex-272",
+    "name": "Press de banca en multipower",
+    "group": "Pecho",
+    "equipment": "Máquina",
+    "instructions": [
+      "Apoya bien el cuerpo y mantén las muñecas alineadas.",
+      "Controla la bajada y empuja sin rebotes ni dolor en el hombro."
+    ]
+  },
+  {
+    "id": "ex-273",
+    "name": "Press inclinado en multipower",
+    "group": "Pecho",
+    "equipment": "Máquina",
+    "instructions": [
+      "Apoya bien el cuerpo y mantén las muñecas alineadas.",
+      "Controla la bajada y empuja sin rebotes ni dolor en el hombro."
+    ]
+  },
+  {
+    "id": "ex-274",
+    "name": "Press declinado en multipower",
+    "group": "Pecho",
+    "equipment": "Máquina",
+    "instructions": [
+      "Apoya bien el cuerpo y mantén las muñecas alineadas.",
+      "Controla la bajada y empuja sin rebotes ni dolor en el hombro."
+    ]
+  },
+  {
+    "id": "ex-275",
+    "name": "Press unilateral en máquina",
+    "group": "Pecho",
+    "equipment": "Máquina",
+    "instructions": [
+      "Apoya bien el cuerpo y mantén las muñecas alineadas.",
+      "Controla la bajada y empuja sin rebotes ni dolor en el hombro."
+    ]
+  },
+  {
+    "id": "ex-276",
+    "name": "Aperturas unilaterales en peck deck",
+    "group": "Pecho",
+    "equipment": "Máquina",
+    "instructions": [
+      "Apoya bien el cuerpo y mantén las muñecas alineadas.",
+      "Controla la bajada y empuja sin rebotes ni dolor en el hombro."
+    ]
+  },
+  {
+    "id": "ex-277",
+    "name": "Press unilateral de pecho en polea",
+    "group": "Pecho",
+    "equipment": "Polea",
+    "instructions": [
+      "Apoya bien el cuerpo y mantén las muñecas alineadas.",
+      "Controla la bajada y empuja sin rebotes ni dolor en el hombro."
+    ]
+  },
+  {
+    "id": "ex-278",
+    "name": "Press inclinado en polea",
+    "group": "Pecho",
+    "equipment": "Polea",
+    "instructions": [
+      "Apoya bien el cuerpo y mantén las muñecas alineadas.",
+      "Controla la bajada y empuja sin rebotes ni dolor en el hombro."
+    ]
+  },
+  {
+    "id": "ex-279",
+    "name": "Press declinado en polea",
+    "group": "Pecho",
+    "equipment": "Polea",
+    "instructions": [
+      "Apoya bien el cuerpo y mantén las muñecas alineadas.",
+      "Controla la bajada y empuja sin rebotes ni dolor en el hombro."
+    ]
+  },
+  {
+    "id": "ex-280",
+    "name": "Cruce de poleas a media altura",
+    "group": "Pecho",
+    "equipment": "Polea",
+    "instructions": [
+      "Apoya bien el cuerpo y mantén las muñecas alineadas.",
+      "Controla la bajada y empuja sin rebotes ni dolor en el hombro."
+    ]
+  },
+  {
+    "id": "ex-281",
+    "name": "Aperturas en banco con poleas",
+    "group": "Pecho",
+    "equipment": "Polea",
+    "instructions": [
+      "Apoya bien el cuerpo y mantén las muñecas alineadas.",
+      "Controla la bajada y empuja sin rebotes ni dolor en el hombro."
+    ]
+  },
+  {
+    "id": "ex-282",
+    "name": "Flexiones sobre asas",
+    "group": "Pecho",
+    "equipment": "Peso corporal",
+    "instructions": [
+      "Apoya bien el cuerpo y mantén las muñecas alineadas.",
+      "Controla la bajada y empuja sin rebotes ni dolor en el hombro."
+    ]
+  },
+  {
+    "id": "ex-283",
+    "name": "Flexiones en anillas",
+    "group": "Pecho",
+    "equipment": "Peso corporal",
+    "instructions": [
+      "Apoya bien el cuerpo y mantén las muñecas alineadas.",
+      "Controla la bajada y empuja sin rebotes ni dolor en el hombro."
+    ]
+  },
+  {
+    "id": "ex-284",
+    "name": "Flexiones con manos elevadas en banco",
+    "group": "Pecho",
+    "equipment": "Peso corporal",
+    "instructions": [
+      "Apoya bien el cuerpo y mantén las muñecas alineadas.",
+      "Controla la bajada y empuja sin rebotes ni dolor en el hombro."
+    ]
+  },
+  {
+    "id": "ex-285",
+    "name": "Flexiones arquero",
+    "group": "Pecho",
+    "equipment": "Peso corporal",
+    "instructions": [
+      "Apoya bien el cuerpo y mantén las muñecas alineadas.",
+      "Controla la bajada y empuja sin rebotes ni dolor en el hombro."
+    ]
+  },
+  {
+    "id": "ex-286",
+    "name": "Flexiones con lastre",
+    "group": "Pecho",
+    "equipment": "Peso corporal",
+    "instructions": [
+      "Apoya bien el cuerpo y mantén las muñecas alineadas.",
+      "Controla la bajada y empuja sin rebotes ni dolor en el hombro."
+    ]
+  },
+  {
+    "id": "ex-287",
+    "name": "Fondos en anillas",
+    "group": "Pecho",
+    "equipment": "Peso corporal",
+    "instructions": [
+      "Apoya bien el cuerpo y mantén las muñecas alineadas.",
+      "Controla la bajada y empuja sin rebotes ni dolor en el hombro."
+    ]
+  },
+  {
+    "id": "ex-288",
+    "name": "Flexiones escapulares",
+    "group": "Pecho",
+    "equipment": "Peso corporal",
+    "instructions": [
+      "Apoya bien el cuerpo y mantén las muñecas alineadas.",
+      "Controla la bajada y empuja sin rebotes ni dolor en el hombro."
+    ]
+  },
+  {
+    "id": "ex-289",
+    "name": "Flexiones con banda",
+    "group": "Pecho",
+    "equipment": "Banda elástica",
+    "instructions": [
+      "Apoya bien el cuerpo y mantén las muñecas alineadas.",
+      "Controla la bajada y empuja sin rebotes ni dolor en el hombro."
+    ]
+  },
+  {
+    "id": "ex-290",
+    "name": "Press unilateral de pecho con banda",
+    "group": "Pecho",
+    "equipment": "Banda elástica",
+    "instructions": [
+      "Apoya bien el cuerpo y mantén las muñecas alineadas.",
+      "Controla la bajada y empuja sin rebotes ni dolor en el hombro."
+    ]
+  },
+  {
+    "id": "ex-291",
+    "name": "Remo unilateral con pecho apoyado",
+    "group": "Espalda",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Mantén el tronco estable y el cuello alineado.",
+      "Guía el movimiento con los codos y controla el regreso sin tirones."
+    ]
+  },
+  {
+    "id": "ex-292",
+    "name": "Remo con mancuernas agarre supino",
+    "group": "Espalda",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Mantén el tronco estable y el cuello alineado.",
+      "Guía el movimiento con los codos y controla el regreso sin tirones."
+    ]
+  },
+  {
+    "id": "ex-293",
+    "name": "Remo con mancuernas a dos apoyos",
+    "group": "Espalda",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Mantén el tronco estable y el cuello alineado.",
+      "Guía el movimiento con los codos y controla el regreso sin tirones."
+    ]
+  },
+  {
+    "id": "ex-294",
+    "name": "Remo con codos abiertos y mancuernas",
+    "group": "Espalda",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Mantén el tronco estable y el cuello alineado.",
+      "Guía el movimiento con los codos y controla el regreso sin tirones."
+    ]
+  },
+  {
+    "id": "ex-295",
+    "name": "Remo renegado alterno",
+    "group": "Espalda",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Mantén el tronco estable y el cuello alineado.",
+      "Guía el movimiento con los codos y controla el regreso sin tirones."
+    ]
+  },
+  {
+    "id": "ex-296",
+    "name": "Remo con barra y pausa",
+    "group": "Espalda",
+    "equipment": "Barra",
+    "instructions": [
+      "Mantén el tronco estable y el cuello alineado.",
+      "Guía el movimiento con los codos y controla el regreso sin tirones."
+    ]
+  },
+  {
+    "id": "ex-297",
+    "name": "Remo landmine con agarre estrecho",
+    "group": "Espalda",
+    "equipment": "Barra",
+    "instructions": [
+      "Mantén el tronco estable y el cuello alineado.",
+      "Guía el movimiento con los codos y controla el regreso sin tirones."
+    ]
+  },
+  {
+    "id": "ex-298",
+    "name": "Remo landmine con apoyo de pecho",
+    "group": "Espalda",
+    "equipment": "Barra",
+    "instructions": [
+      "Mantén el tronco estable y el cuello alineado.",
+      "Guía el movimiento con los codos y controla el regreso sin tirones."
+    ]
+  },
+  {
+    "id": "ex-299",
+    "name": "Remo con barra desde bloques",
+    "group": "Espalda",
+    "equipment": "Barra",
+    "instructions": [
+      "Mantén el tronco estable y el cuello alineado.",
+      "Guía el movimiento con los codos y controla el regreso sin tirones."
+    ]
+  },
+  {
+    "id": "ex-300",
+    "name": "Peso muerto desde bloques",
+    "group": "Espalda",
+    "equipment": "Barra",
+    "instructions": [
+      "Mantén el tronco estable y el cuello alineado.",
+      "Guía el movimiento con los codos y controla el regreso sin tirones."
+    ]
+  },
+  {
+    "id": "ex-301",
+    "name": "Peso muerto con pausa bajo la rodilla",
+    "group": "Espalda",
+    "equipment": "Barra",
+    "instructions": [
+      "Mantén el tronco estable y el cuello alineado.",
+      "Guía el movimiento con los codos y controla el regreso sin tirones."
+    ]
+  },
+  {
+    "id": "ex-302",
+    "name": "Peso muerto con barra hexagonal",
+    "group": "Espalda",
+    "equipment": "Barra",
+    "instructions": [
+      "Mantén el tronco estable y el cuello alineado.",
+      "Guía el movimiento con los codos y controla el regreso sin tirones."
+    ]
+  },
+  {
+    "id": "ex-303",
+    "name": "Remo unilateral en máquina",
+    "group": "Espalda",
+    "equipment": "Máquina",
+    "instructions": [
+      "Mantén el tronco estable y el cuello alineado.",
+      "Guía el movimiento con los codos y controla el regreso sin tirones."
+    ]
+  },
+  {
+    "id": "ex-304",
+    "name": "Remo en máquina agarre supino",
+    "group": "Espalda",
+    "equipment": "Máquina",
+    "instructions": [
+      "Mantén el tronco estable y el cuello alineado.",
+      "Guía el movimiento con los codos y controla el regreso sin tirones."
+    ]
+  },
+  {
+    "id": "ex-305",
+    "name": "Remo en máquina agarre neutro",
+    "group": "Espalda",
+    "equipment": "Máquina",
+    "instructions": [
+      "Mantén el tronco estable y el cuello alineado.",
+      "Guía el movimiento con los codos y controla el regreso sin tirones."
+    ]
+  },
+  {
+    "id": "ex-306",
+    "name": "Jalón unilateral en máquina",
+    "group": "Espalda",
+    "equipment": "Máquina",
+    "instructions": [
+      "Mantén el tronco estable y el cuello alineado.",
+      "Guía el movimiento con los codos y controla el regreso sin tirones."
+    ]
+  },
+  {
+    "id": "ex-307",
+    "name": "Remo en multipower",
+    "group": "Espalda",
+    "equipment": "Máquina",
+    "instructions": [
+      "Mantén el tronco estable y el cuello alineado.",
+      "Guía el movimiento con los codos y controla el regreso sin tirones."
+    ]
+  },
+  {
+    "id": "ex-308",
+    "name": "Dominadas supinas asistidas",
+    "group": "Espalda",
+    "equipment": "Máquina",
+    "instructions": [
+      "Mantén el tronco estable y el cuello alineado.",
+      "Guía el movimiento con los codos y controla el regreso sin tirones."
+    ]
+  },
+  {
+    "id": "ex-309",
+    "name": "Dominadas neutras asistidas",
+    "group": "Espalda",
+    "equipment": "Máquina",
+    "instructions": [
+      "Mantén el tronco estable y el cuello alineado.",
+      "Guía el movimiento con los codos y controla el regreso sin tirones."
+    ]
+  },
+  {
+    "id": "ex-310",
+    "name": "Remo en polea baja agarre supino",
+    "group": "Espalda",
+    "equipment": "Polea",
+    "instructions": [
+      "Mantén el tronco estable y el cuello alineado.",
+      "Guía el movimiento con los codos y controla el regreso sin tirones."
+    ]
+  },
+  {
+    "id": "ex-311",
+    "name": "Remo en polea baja con cuerda",
+    "group": "Espalda",
+    "equipment": "Polea",
+    "instructions": [
+      "Mantén el tronco estable y el cuello alineado.",
+      "Guía el movimiento con los codos y controla el regreso sin tirones."
+    ]
+  },
+  {
+    "id": "ex-312",
+    "name": "Remo en polea de pie",
+    "group": "Espalda",
+    "equipment": "Polea",
+    "instructions": [
+      "Mantén el tronco estable y el cuello alineado.",
+      "Guía el movimiento con los codos y controla el regreso sin tirones."
+    ]
+  },
+  {
+    "id": "ex-313",
+    "name": "Remo arrodillado en polea",
+    "group": "Espalda",
+    "equipment": "Polea",
+    "instructions": [
+      "Mantén el tronco estable y el cuello alineado.",
+      "Guía el movimiento con los codos y controla el regreso sin tirones."
+    ]
+  },
+  {
+    "id": "ex-314",
+    "name": "Jalón al pecho agarre estrecho",
+    "group": "Espalda",
+    "equipment": "Polea",
+    "instructions": [
+      "Mantén el tronco estable y el cuello alineado.",
+      "Guía el movimiento con los codos y controla el regreso sin tirones."
+    ]
+  },
+  {
+    "id": "ex-315",
+    "name": "Jalón al pecho agarre ancho",
+    "group": "Espalda",
+    "equipment": "Polea",
+    "instructions": [
+      "Mantén el tronco estable y el cuello alineado.",
+      "Guía el movimiento con los codos y controla el regreso sin tirones."
+    ]
+  },
+  {
+    "id": "ex-316",
+    "name": "Jalón con cuerda arrodillado",
+    "group": "Espalda",
+    "equipment": "Polea",
+    "instructions": [
+      "Mantén el tronco estable y el cuello alineado.",
+      "Guía el movimiento con los codos y controla el regreso sin tirones."
+    ]
+  },
+  {
+    "id": "ex-317",
+    "name": "Pullover unilateral en polea",
+    "group": "Espalda",
+    "equipment": "Polea",
+    "instructions": [
+      "Mantén el tronco estable y el cuello alineado.",
+      "Guía el movimiento con los codos y controla el regreso sin tirones."
+    ]
+  },
+  {
+    "id": "ex-318",
+    "name": "Remo diagonal en polea",
+    "group": "Espalda",
+    "equipment": "Polea",
+    "instructions": [
+      "Mantén el tronco estable y el cuello alineado.",
+      "Guía el movimiento con los codos y controla el regreso sin tirones."
+    ]
+  },
+  {
+    "id": "ex-319",
+    "name": "Dominadas con pausa",
+    "group": "Espalda",
+    "equipment": "Barra de dominadas",
+    "instructions": [
+      "Mantén el tronco estable y el cuello alineado.",
+      "Guía el movimiento con los codos y controla el regreso sin tirones."
+    ]
+  },
+  {
+    "id": "ex-320",
+    "name": "Dominadas con agarre mixto",
+    "group": "Espalda",
+    "equipment": "Barra de dominadas",
+    "instructions": [
+      "Mantén el tronco estable y el cuello alineado.",
+      "Guía el movimiento con los codos y controla el regreso sin tirones."
+    ]
+  },
+  {
+    "id": "ex-321",
+    "name": "Dominadas con toalla",
+    "group": "Espalda",
+    "equipment": "Barra de dominadas",
+    "instructions": [
+      "Mantén el tronco estable y el cuello alineado.",
+      "Guía el movimiento con los codos y controla el regreso sin tirones."
+    ]
+  },
+  {
+    "id": "ex-322",
+    "name": "Dominadas excéntricas",
+    "group": "Espalda",
+    "equipment": "Barra de dominadas",
+    "instructions": [
+      "Mantén el tronco estable y el cuello alineado.",
+      "Guía el movimiento con los codos y controla el regreso sin tirones."
+    ]
+  },
+  {
+    "id": "ex-323",
+    "name": "Dominadas supinas con lastre",
+    "group": "Espalda",
+    "equipment": "Barra de dominadas",
+    "instructions": [
+      "Mantén el tronco estable y el cuello alineado.",
+      "Guía el movimiento con los codos y controla el regreso sin tirones."
+    ]
+  },
+  {
+    "id": "ex-324",
+    "name": "Remo en anillas",
+    "group": "Espalda",
+    "equipment": "Anillas",
+    "instructions": [
+      "Mantén el tronco estable y el cuello alineado.",
+      "Guía el movimiento con los codos y controla el regreso sin tirones."
+    ]
+  },
+  {
+    "id": "ex-325",
+    "name": "Remo supino en anillas",
+    "group": "Espalda",
+    "equipment": "Anillas",
+    "instructions": [
+      "Mantén el tronco estable y el cuello alineado.",
+      "Guía el movimiento con los codos y controla el regreso sin tirones."
+    ]
+  },
+  {
+    "id": "ex-326",
+    "name": "Dominadas en anillas",
+    "group": "Espalda",
+    "equipment": "Anillas",
+    "instructions": [
+      "Mantén el tronco estable y el cuello alineado.",
+      "Guía el movimiento con los codos y controla el regreso sin tirones."
+    ]
+  },
+  {
+    "id": "ex-327",
+    "name": "Jalón unilateral con banda",
+    "group": "Espalda",
+    "equipment": "Banda elástica",
+    "instructions": [
+      "Mantén el tronco estable y el cuello alineado.",
+      "Guía el movimiento con los codos y controla el regreso sin tirones."
+    ]
+  },
+  {
+    "id": "ex-328",
+    "name": "Pullover con banda",
+    "group": "Espalda",
+    "equipment": "Banda elástica",
+    "instructions": [
+      "Mantén el tronco estable y el cuello alineado.",
+      "Guía el movimiento con los codos y controla el regreso sin tirones."
+    ]
+  },
+  {
+    "id": "ex-329",
+    "name": "Remo unilateral con banda",
+    "group": "Espalda",
+    "equipment": "Banda elástica",
+    "instructions": [
+      "Mantén el tronco estable y el cuello alineado.",
+      "Guía el movimiento con los codos y controla el regreso sin tirones."
+    ]
+  },
+  {
+    "id": "ex-330",
+    "name": "Press de hombros de pie con mancuernas",
+    "group": "Hombros",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Mantén las costillas controladas y evita arquear la zona lumbar.",
+      "Mueve la carga de forma controlada dentro de un recorrido cómodo."
+    ]
+  },
+  {
+    "id": "ex-331",
+    "name": "Press unilateral de hombros con mancuerna",
+    "group": "Hombros",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Mantén las costillas controladas y evita arquear la zona lumbar.",
+      "Mueve la carga de forma controlada dentro de un recorrido cómodo."
+    ]
+  },
+  {
+    "id": "ex-332",
+    "name": "Press Z con mancuernas",
+    "group": "Hombros",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Mantén las costillas controladas y evita arquear la zona lumbar.",
+      "Mueve la carga de forma controlada dentro de un recorrido cómodo."
+    ]
+  },
+  {
+    "id": "ex-333",
+    "name": "Elevación lateral unilateral con mancuerna",
+    "group": "Hombros",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Mantén las costillas controladas y evita arquear la zona lumbar.",
+      "Mueve la carga de forma controlada dentro de un recorrido cómodo."
+    ]
+  },
+  {
+    "id": "ex-334",
+    "name": "Elevación lateral tumbado de lado",
+    "group": "Hombros",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Mantén las costillas controladas y evita arquear la zona lumbar.",
+      "Mueve la carga de forma controlada dentro de un recorrido cómodo."
+    ]
+  },
+  {
+    "id": "ex-335",
+    "name": "Elevación frontal con agarre neutro",
+    "group": "Hombros",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Mantén las costillas controladas y evita arquear la zona lumbar.",
+      "Mueve la carga de forma controlada dentro de un recorrido cómodo."
+    ]
+  },
+  {
+    "id": "ex-336",
+    "name": "Elevación frontal alterna",
+    "group": "Hombros",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Mantén las costillas controladas y evita arquear la zona lumbar.",
+      "Mueve la carga de forma controlada dentro de un recorrido cómodo."
+    ]
+  },
+  {
+    "id": "ex-337",
+    "name": "Pájaros sentado",
+    "group": "Hombros",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Mantén las costillas controladas y evita arquear la zona lumbar.",
+      "Mueve la carga de forma controlada dentro de un recorrido cómodo."
+    ]
+  },
+  {
+    "id": "ex-338",
+    "name": "Rotación externa tumbado con mancuerna",
+    "group": "Hombros",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Mantén las costillas controladas y evita arquear la zona lumbar.",
+      "Mueve la carga de forma controlada dentro de un recorrido cómodo."
+    ]
+  },
+  {
+    "id": "ex-339",
+    "name": "Elevación Y con mancuernas",
+    "group": "Hombros",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Mantén las costillas controladas y evita arquear la zona lumbar.",
+      "Mueve la carga de forma controlada dentro de un recorrido cómodo."
+    ]
+  },
+  {
+    "id": "ex-340",
+    "name": "Press Z con barra",
+    "group": "Hombros",
+    "equipment": "Barra",
+    "instructions": [
+      "Mantén las costillas controladas y evita arquear la zona lumbar.",
+      "Mueve la carga de forma controlada dentro de un recorrido cómodo."
+    ]
+  },
+  {
+    "id": "ex-341",
+    "name": "Press landmine a dos manos",
+    "group": "Hombros",
+    "equipment": "Barra",
+    "instructions": [
+      "Mantén las costillas controladas y evita arquear la zona lumbar.",
+      "Mueve la carga de forma controlada dentro de un recorrido cómodo."
+    ]
+  },
+  {
+    "id": "ex-342",
+    "name": "Press landmine de rodillas",
+    "group": "Hombros",
+    "equipment": "Barra",
+    "instructions": [
+      "Mantén las costillas controladas y evita arquear la zona lumbar.",
+      "Mueve la carga de forma controlada dentro de un recorrido cómodo."
+    ]
+  },
+  {
+    "id": "ex-343",
+    "name": "Press militar agarre cerrado",
+    "group": "Hombros",
+    "equipment": "Barra",
+    "instructions": [
+      "Mantén las costillas controladas y evita arquear la zona lumbar.",
+      "Mueve la carga de forma controlada dentro de un recorrido cómodo."
+    ]
+  },
+  {
+    "id": "ex-344",
+    "name": "Elevación lateral en polea con apoyo",
+    "group": "Hombros",
+    "equipment": "Polea",
+    "instructions": [
+      "Mantén las costillas controladas y evita arquear la zona lumbar.",
+      "Mueve la carga de forma controlada dentro de un recorrido cómodo."
+    ]
+  },
+  {
+    "id": "ex-345",
+    "name": "Elevación lateral bilateral en polea",
+    "group": "Hombros",
+    "equipment": "Polea",
+    "instructions": [
+      "Mantén las costillas controladas y evita arquear la zona lumbar.",
+      "Mueve la carga de forma controlada dentro de un recorrido cómodo."
+    ]
+  },
+  {
+    "id": "ex-346",
+    "name": "Elevación lateral en polea a media altura",
+    "group": "Hombros",
+    "equipment": "Polea",
+    "instructions": [
+      "Mantén las costillas controladas y evita arquear la zona lumbar.",
+      "Mueve la carga de forma controlada dentro de un recorrido cómodo."
+    ]
+  },
+  {
+    "id": "ex-347",
+    "name": "Rotación externa en polea",
+    "group": "Hombros",
+    "equipment": "Polea",
+    "instructions": [
+      "Mantén las costillas controladas y evita arquear la zona lumbar.",
+      "Mueve la carga de forma controlada dentro de un recorrido cómodo."
+    ]
+  },
+  {
+    "id": "ex-348",
+    "name": "Elevación Y en polea",
+    "group": "Hombros",
+    "equipment": "Polea",
+    "instructions": [
+      "Mantén las costillas controladas y evita arquear la zona lumbar.",
+      "Mueve la carga de forma controlada dentro de un recorrido cómodo."
+    ]
+  },
+  {
+    "id": "ex-349",
+    "name": "Face pull unilateral",
+    "group": "Hombros",
+    "equipment": "Polea",
+    "instructions": [
+      "Mantén las costillas controladas y evita arquear la zona lumbar.",
+      "Mueve la carga de forma controlada dentro de un recorrido cómodo."
+    ]
+  },
+  {
+    "id": "ex-350",
+    "name": "Press de hombros en polea",
+    "group": "Hombros",
+    "equipment": "Polea",
+    "instructions": [
+      "Mantén las costillas controladas y evita arquear la zona lumbar.",
+      "Mueve la carga de forma controlada dentro de un recorrido cómodo."
+    ]
+  },
+  {
+    "id": "ex-351",
+    "name": "Press de hombros en multipower",
+    "group": "Hombros",
+    "equipment": "Máquina",
+    "instructions": [
+      "Mantén las costillas controladas y evita arquear la zona lumbar.",
+      "Mueve la carga de forma controlada dentro de un recorrido cómodo."
+    ]
+  },
+  {
+    "id": "ex-352",
+    "name": "Press unilateral de hombros en máquina",
+    "group": "Hombros",
+    "equipment": "Máquina",
+    "instructions": [
+      "Mantén las costillas controladas y evita arquear la zona lumbar.",
+      "Mueve la carga de forma controlada dentro de un recorrido cómodo."
+    ]
+  },
+  {
+    "id": "ex-353",
+    "name": "Aperturas inversas unilaterales en máquina",
+    "group": "Hombros",
+    "equipment": "Máquina",
+    "instructions": [
+      "Mantén las costillas controladas y evita arquear la zona lumbar.",
+      "Mueve la carga de forma controlada dentro de un recorrido cómodo."
+    ]
+  },
+  {
+    "id": "ex-354",
+    "name": "Press de hombros con banda",
+    "group": "Hombros",
+    "equipment": "Banda elástica",
+    "instructions": [
+      "Mantén las costillas controladas y evita arquear la zona lumbar.",
+      "Mueve la carga de forma controlada dentro de un recorrido cómodo."
+    ]
+  },
+  {
+    "id": "ex-355",
+    "name": "Elevaciones frontales con banda",
+    "group": "Hombros",
+    "equipment": "Banda elástica",
+    "instructions": [
+      "Mantén las costillas controladas y evita arquear la zona lumbar.",
+      "Mueve la carga de forma controlada dentro de un recorrido cómodo."
+    ]
+  },
+  {
+    "id": "ex-356",
+    "name": "Face pull con banda",
+    "group": "Hombros",
+    "equipment": "Banda elástica",
+    "instructions": [
+      "Mantén las costillas controladas y evita arquear la zona lumbar.",
+      "Mueve la carga de forma controlada dentro de un recorrido cómodo."
+    ]
+  },
+  {
+    "id": "ex-357",
+    "name": "Rotación externa bilateral con banda",
+    "group": "Hombros",
+    "equipment": "Banda elástica",
+    "instructions": [
+      "Mantén las costillas controladas y evita arquear la zona lumbar.",
+      "Mueve la carga de forma controlada dentro de un recorrido cómodo."
+    ]
+  },
+  {
+    "id": "ex-358",
+    "name": "Press de hombros con kettlebell",
+    "group": "Hombros",
+    "equipment": "Kettlebell",
+    "instructions": [
+      "Mantén las costillas controladas y evita arquear la zona lumbar.",
+      "Mueve la carga de forma controlada dentro de un recorrido cómodo."
+    ]
+  },
+  {
+    "id": "ex-359",
+    "name": "Press unilateral con kettlebell arrodillado",
+    "group": "Hombros",
+    "equipment": "Kettlebell",
+    "instructions": [
+      "Mantén las costillas controladas y evita arquear la zona lumbar.",
+      "Mueve la carga de forma controlada dentro de un recorrido cómodo."
+    ]
+  },
+  {
+    "id": "ex-360",
+    "name": "Flexiones pica con pies elevados",
+    "group": "Hombros",
+    "equipment": "Peso corporal",
+    "instructions": [
+      "Mantén las costillas controladas y evita arquear la zona lumbar.",
+      "Mueve la carga de forma controlada dentro de un recorrido cómodo."
+    ]
+  },
+  {
+    "id": "ex-361",
+    "name": "Flexiones de hombros con apoyo en pared",
+    "group": "Hombros",
+    "equipment": "Peso corporal",
+    "instructions": [
+      "Mantén las costillas controladas y evita arquear la zona lumbar.",
+      "Mueve la carga de forma controlada dentro de un recorrido cómodo."
+    ]
+  },
+  {
+    "id": "ex-362",
+    "name": "Sentadilla búlgara con pie delantero elevado",
+    "group": "Cuádriceps",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Apoya toda la planta del pie y acompaña la dirección de los pies con las rodillas.",
+      "Baja con control hasta donde puedas mantener una posición estable."
+    ]
+  },
+  {
+    "id": "ex-363",
+    "name": "Sentadilla dividida con talón elevado",
+    "group": "Cuádriceps",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Apoya toda la planta del pie y acompaña la dirección de los pies con las rodillas.",
+      "Baja con control hasta donde puedas mantener una posición estable."
+    ]
+  },
+  {
+    "id": "ex-364",
+    "name": "Zancada lateral con mancuernas",
+    "group": "Cuádriceps",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Apoya toda la planta del pie y acompaña la dirección de los pies con las rodillas.",
+      "Baja con control hasta donde puedas mantener una posición estable."
+    ]
+  },
+  {
+    "id": "ex-365",
+    "name": "Zancada hacia delante con mancuernas",
+    "group": "Cuádriceps",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Apoya toda la planta del pie y acompaña la dirección de los pies con las rodillas.",
+      "Baja con control hasta donde puedas mantener una posición estable."
+    ]
+  },
+  {
+    "id": "ex-366",
+    "name": "Subida lateral a cajón con mancuernas",
+    "group": "Cuádriceps",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Apoya toda la planta del pie y acompaña la dirección de los pies con las rodillas.",
+      "Baja con control hasta donde puedas mantener una posición estable."
+    ]
+  },
+  {
+    "id": "ex-367",
+    "name": "Sentadilla ciclista con mancuerna",
+    "group": "Cuádriceps",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Apoya toda la planta del pie y acompaña la dirección de los pies con las rodillas.",
+      "Baja con control hasta donde puedas mantener una posición estable."
+    ]
+  },
+  {
+    "id": "ex-368",
+    "name": "Sentadilla goblet a cajón",
+    "group": "Cuádriceps",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Apoya toda la planta del pie y acompaña la dirección de los pies con las rodillas.",
+      "Baja con control hasta donde puedas mantener una posición estable."
+    ]
+  },
+  {
+    "id": "ex-369",
+    "name": "Sentadilla goblet con pausa",
+    "group": "Cuádriceps",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Apoya toda la planta del pie y acompaña la dirección de los pies con las rodillas.",
+      "Baja con control hasta donde puedas mantener una posición estable."
+    ]
+  },
+  {
+    "id": "ex-370",
+    "name": "Sentadilla high bar",
+    "group": "Cuádriceps",
+    "equipment": "Barra",
+    "instructions": [
+      "Apoya toda la planta del pie y acompaña la dirección de los pies con las rodillas.",
+      "Baja con control hasta donde puedas mantener una posición estable."
+    ]
+  },
+  {
+    "id": "ex-371",
+    "name": "Sentadilla low bar",
+    "group": "Cuádriceps",
+    "equipment": "Barra",
+    "instructions": [
+      "Apoya toda la planta del pie y acompaña la dirección de los pies con las rodillas.",
+      "Baja con control hasta donde puedas mantener una posición estable."
+    ]
+  },
+  {
+    "id": "ex-372",
+    "name": "Sentadilla frontal con pausa",
+    "group": "Cuádriceps",
+    "equipment": "Barra",
+    "instructions": [
+      "Apoya toda la planta del pie y acompaña la dirección de los pies con las rodillas.",
+      "Baja con control hasta donde puedas mantener una posición estable."
+    ]
+  },
+  {
+    "id": "ex-373",
+    "name": "Sentadilla con barra de seguridad",
+    "group": "Cuádriceps",
+    "equipment": "Barra",
+    "instructions": [
+      "Apoya toda la planta del pie y acompaña la dirección de los pies con las rodillas.",
+      "Baja con control hasta donde puedas mantener una posición estable."
+    ]
+  },
+  {
+    "id": "ex-374",
+    "name": "Sentadilla a cajón con barra de seguridad",
+    "group": "Cuádriceps",
+    "equipment": "Barra",
+    "instructions": [
+      "Apoya toda la planta del pie y acompaña la dirección de los pies con las rodillas.",
+      "Baja con control hasta donde puedas mantener una posición estable."
+    ]
+  },
+  {
+    "id": "ex-375",
+    "name": "Zancadas caminando con barra",
+    "group": "Cuádriceps",
+    "equipment": "Barra",
+    "instructions": [
+      "Apoya toda la planta del pie y acompaña la dirección de los pies con las rodillas.",
+      "Baja con control hasta donde puedas mantener una posición estable."
+    ]
+  },
+  {
+    "id": "ex-376",
+    "name": "Sentadilla dividida con pie delantero elevado",
+    "group": "Cuádriceps",
+    "equipment": "Barra",
+    "instructions": [
+      "Apoya toda la planta del pie y acompaña la dirección de los pies con las rodillas.",
+      "Baja con control hasta donde puedas mantener una posición estable."
+    ]
+  },
+  {
+    "id": "ex-377",
+    "name": "Sentadilla frontal en multipower",
+    "group": "Cuádriceps",
+    "equipment": "Máquina",
+    "instructions": [
+      "Apoya toda la planta del pie y acompaña la dirección de los pies con las rodillas.",
+      "Baja con control hasta donde puedas mantener una posición estable."
+    ]
+  },
+  {
+    "id": "ex-378",
+    "name": "Sentadilla búlgara en multipower",
+    "group": "Cuádriceps",
+    "equipment": "Máquina",
+    "instructions": [
+      "Apoya toda la planta del pie y acompaña la dirección de los pies con las rodillas.",
+      "Baja con control hasta donde puedas mantener una posición estable."
+    ]
+  },
+  {
+    "id": "ex-379",
+    "name": "Zancada inversa en multipower",
+    "group": "Cuádriceps",
+    "equipment": "Máquina",
+    "instructions": [
+      "Apoya toda la planta del pie y acompaña la dirección de los pies con las rodillas.",
+      "Baja con control hasta donde puedas mantener una posición estable."
+    ]
+  },
+  {
+    "id": "ex-380",
+    "name": "Sentadilla dividida en multipower",
+    "group": "Cuádriceps",
+    "equipment": "Máquina",
+    "instructions": [
+      "Apoya toda la planta del pie y acompaña la dirección de los pies con las rodillas.",
+      "Baja con control hasta donde puedas mantener una posición estable."
+    ]
+  },
+  {
+    "id": "ex-381",
+    "name": "Prensa a 45 grados",
+    "group": "Cuádriceps",
+    "equipment": "Máquina",
+    "instructions": [
+      "Apoya toda la planta del pie y acompaña la dirección de los pies con las rodillas.",
+      "Baja con control hasta donde puedas mantener una posición estable."
+    ]
+  },
+  {
+    "id": "ex-382",
+    "name": "Prensa con pies bajos",
+    "group": "Cuádriceps",
+    "equipment": "Máquina",
+    "instructions": [
+      "Apoya toda la planta del pie y acompaña la dirección de los pies con las rodillas.",
+      "Baja con control hasta donde puedas mantener una posición estable."
+    ]
+  },
+  {
+    "id": "ex-383",
+    "name": "Extensión de cuádriceps con pausa",
+    "group": "Cuádriceps",
+    "equipment": "Máquina",
+    "instructions": [
+      "Apoya toda la planta del pie y acompaña la dirección de los pies con las rodillas.",
+      "Baja con control hasta donde puedas mantener una posición estable."
+    ]
+  },
+  {
+    "id": "ex-384",
+    "name": "Sentadilla sissy asistida en máquina",
+    "group": "Cuádriceps",
+    "equipment": "Máquina",
+    "instructions": [
+      "Apoya toda la planta del pie y acompaña la dirección de los pies con las rodillas.",
+      "Baja con control hasta donde puedas mantener una posición estable."
+    ]
+  },
+  {
+    "id": "ex-385",
+    "name": "Sentadilla a una pierna asistida",
+    "group": "Cuádriceps",
+    "equipment": "Peso corporal",
+    "instructions": [
+      "Apoya toda la planta del pie y acompaña la dirección de los pies con las rodillas.",
+      "Baja con control hasta donde puedas mantener una posición estable."
+    ]
+  },
+  {
+    "id": "ex-386",
+    "name": "Sentadilla pistol a banco",
+    "group": "Cuádriceps",
+    "equipment": "Peso corporal",
+    "instructions": [
+      "Apoya toda la planta del pie y acompaña la dirección de los pies con las rodillas.",
+      "Baja con control hasta donde puedas mantener una posición estable."
+    ]
+  },
+  {
+    "id": "ex-387",
+    "name": "Sentadilla skater asistida",
+    "group": "Cuádriceps",
+    "equipment": "Peso corporal",
+    "instructions": [
+      "Apoya toda la planta del pie y acompaña la dirección de los pies con las rodillas.",
+      "Baja con control hasta donde puedas mantener una posición estable."
+    ]
+  },
+  {
+    "id": "ex-388",
+    "name": "Bajada controlada de escalón",
+    "group": "Cuádriceps",
+    "equipment": "Peso corporal",
+    "instructions": [
+      "Apoya toda la planta del pie y acompaña la dirección de los pies con las rodillas.",
+      "Baja con control hasta donde puedas mantener una posición estable."
+    ]
+  },
+  {
+    "id": "ex-389",
+    "name": "Zancada lateral sin carga",
+    "group": "Cuádriceps",
+    "equipment": "Peso corporal",
+    "instructions": [
+      "Apoya toda la planta del pie y acompaña la dirección de los pies con las rodillas.",
+      "Baja con control hasta donde puedas mantener una posición estable."
+    ]
+  },
+  {
+    "id": "ex-390",
+    "name": "Sentadilla con pausa sin carga",
+    "group": "Cuádriceps",
+    "equipment": "Peso corporal",
+    "instructions": [
+      "Apoya toda la planta del pie y acompaña la dirección de los pies con las rodillas.",
+      "Baja con control hasta donde puedas mantener una posición estable."
+    ]
+  },
+  {
+    "id": "ex-391",
+    "name": "Zancada inversa con kettlebell",
+    "group": "Cuádriceps",
+    "equipment": "Kettlebell",
+    "instructions": [
+      "Apoya toda la planta del pie y acompaña la dirección de los pies con las rodillas.",
+      "Baja con control hasta donde puedas mantener una posición estable."
+    ]
+  },
+  {
+    "id": "ex-392",
+    "name": "Sentadilla con kettlebell en posición de maleta",
+    "group": "Cuádriceps",
+    "equipment": "Kettlebell",
+    "instructions": [
+      "Apoya toda la planta del pie y acompaña la dirección de los pies con las rodillas.",
+      "Baja con control hasta donde puedas mantener una posición estable."
+    ]
+  },
+  {
+    "id": "ex-393",
+    "name": "Sentadilla asistida en suspensión",
+    "group": "Cuádriceps",
+    "equipment": "Suspensión",
+    "instructions": [
+      "Apoya toda la planta del pie y acompaña la dirección de los pies con las rodillas.",
+      "Baja con control hasta donde puedas mantener una posición estable."
+    ]
+  },
+  {
+    "id": "ex-394",
+    "name": "Sentadilla a una pierna en suspensión",
+    "group": "Cuádriceps",
+    "equipment": "Suspensión",
+    "instructions": [
+      "Apoya toda la planta del pie y acompaña la dirección de los pies con las rodillas.",
+      "Baja con control hasta donde puedas mantener una posición estable."
+    ]
+  },
+  {
+    "id": "ex-395",
+    "name": "Peso muerto rumano agarre ancho",
+    "group": "Isquios",
+    "equipment": "Barra",
+    "instructions": [
+      "Mantén el tronco estable y evita compensar con la zona lumbar.",
+      "Controla la fase de estiramiento y usa una carga que puedas frenar."
+    ]
+  },
+  {
+    "id": "ex-396",
+    "name": "Peso muerto rumano desde soportes",
+    "group": "Isquios",
+    "equipment": "Barra",
+    "instructions": [
+      "Mantén el tronco estable y evita compensar con la zona lumbar.",
+      "Controla la fase de estiramiento y usa una carga que puedas frenar."
+    ]
+  },
+  {
+    "id": "ex-397",
+    "name": "Buenos días con barra de seguridad",
+    "group": "Isquios",
+    "equipment": "Barra",
+    "instructions": [
+      "Mantén el tronco estable y evita compensar con la zona lumbar.",
+      "Controla la fase de estiramiento y usa una carga que puedas frenar."
+    ]
+  },
+  {
+    "id": "ex-398",
+    "name": "Buenos días sentado con barra",
+    "group": "Isquios",
+    "equipment": "Barra",
+    "instructions": [
+      "Mantén el tronco estable y evita compensar con la zona lumbar.",
+      "Controla la fase de estiramiento y usa una carga que puedas frenar."
+    ]
+  },
+  {
+    "id": "ex-399",
+    "name": "Peso muerto rumano con mancuernas y pausa",
+    "group": "Isquios",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Mantén el tronco estable y evita compensar con la zona lumbar.",
+      "Controla la fase de estiramiento y usa una carga que puedas frenar."
+    ]
+  },
+  {
+    "id": "ex-400",
+    "name": "Peso muerto rumano unilateral con apoyo",
+    "group": "Isquios",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Mantén el tronco estable y evita compensar con la zona lumbar.",
+      "Controla la fase de estiramiento y usa una carga que puedas frenar."
+    ]
+  },
+  {
+    "id": "ex-401",
+    "name": "Curl femoral sentado unilateral",
+    "group": "Isquios",
+    "equipment": "Máquina",
+    "instructions": [
+      "Mantén el tronco estable y evita compensar con la zona lumbar.",
+      "Controla la fase de estiramiento y usa una carga que puedas frenar."
+    ]
+  },
+  {
+    "id": "ex-402",
+    "name": "Curl femoral tumbado unilateral",
+    "group": "Isquios",
+    "equipment": "Máquina",
+    "instructions": [
+      "Mantén el tronco estable y evita compensar con la zona lumbar.",
+      "Controla la fase de estiramiento y usa una carga que puedas frenar."
+    ]
+  },
+  {
+    "id": "ex-403",
+    "name": "Curl femoral sentado con pausa",
+    "group": "Isquios",
+    "equipment": "Máquina",
+    "instructions": [
+      "Mantén el tronco estable y evita compensar con la zona lumbar.",
+      "Controla la fase de estiramiento y usa una carga que puedas frenar."
+    ]
+  },
+  {
+    "id": "ex-404",
+    "name": "Curl femoral tumbado con pausa",
+    "group": "Isquios",
+    "equipment": "Máquina",
+    "instructions": [
+      "Mantén el tronco estable y evita compensar con la zona lumbar.",
+      "Controla la fase de estiramiento y usa una carga que puedas frenar."
+    ]
+  },
+  {
+    "id": "ex-405",
+    "name": "Peso muerto rumano en máquina",
+    "group": "Isquios",
+    "equipment": "Máquina",
+    "instructions": [
+      "Mantén el tronco estable y evita compensar con la zona lumbar.",
+      "Controla la fase de estiramiento y usa una carga que puedas frenar."
+    ]
+  },
+  {
+    "id": "ex-406",
+    "name": "Curl femoral de pie en polea",
+    "group": "Isquios",
+    "equipment": "Polea",
+    "instructions": [
+      "Mantén el tronco estable y evita compensar con la zona lumbar.",
+      "Controla la fase de estiramiento y usa una carga que puedas frenar."
+    ]
+  },
+  {
+    "id": "ex-407",
+    "name": "Curl femoral tumbado en polea",
+    "group": "Isquios",
+    "equipment": "Polea",
+    "instructions": [
+      "Mantén el tronco estable y evita compensar con la zona lumbar.",
+      "Controla la fase de estiramiento y usa una carga que puedas frenar."
+    ]
+  },
+  {
+    "id": "ex-408",
+    "name": "Peso muerto rumano unilateral en polea",
+    "group": "Isquios",
+    "equipment": "Polea",
+    "instructions": [
+      "Mantén el tronco estable y evita compensar con la zona lumbar.",
+      "Controla la fase de estiramiento y usa una carga que puedas frenar."
+    ]
+  },
+  {
+    "id": "ex-409",
+    "name": "Curl nórdico excéntrico",
+    "group": "Isquios",
+    "equipment": "Peso corporal",
+    "instructions": [
+      "Mantén el tronco estable y evita compensar con la zona lumbar.",
+      "Controla la fase de estiramiento y usa una carga que puedas frenar."
+    ]
+  },
+  {
+    "id": "ex-410",
+    "name": "Curl femoral deslizante unilateral",
+    "group": "Isquios",
+    "equipment": "Peso corporal",
+    "instructions": [
+      "Mantén el tronco estable y evita compensar con la zona lumbar.",
+      "Controla la fase de estiramiento y usa una carga que puedas frenar."
+    ]
+  },
+  {
+    "id": "ex-411",
+    "name": "Curl femoral con fitball unilateral",
+    "group": "Isquios",
+    "equipment": "Peso corporal",
+    "instructions": [
+      "Mantén el tronco estable y evita compensar con la zona lumbar.",
+      "Controla la fase de estiramiento y usa una carga que puedas frenar."
+    ]
+  },
+  {
+    "id": "ex-412",
+    "name": "Extensión de cadera en banco horizontal",
+    "group": "Isquios",
+    "equipment": "Peso corporal",
+    "instructions": [
+      "Mantén el tronco estable y evita compensar con la zona lumbar.",
+      "Controla la fase de estiramiento y usa una carga que puedas frenar."
+    ]
+  },
+  {
+    "id": "ex-413",
+    "name": "Curl femoral en suspensión",
+    "group": "Isquios",
+    "equipment": "Suspensión",
+    "instructions": [
+      "Mantén el tronco estable y evita compensar con la zona lumbar.",
+      "Controla la fase de estiramiento y usa una carga que puedas frenar."
+    ]
+  },
+  {
+    "id": "ex-414",
+    "name": "Buenos días con banda",
+    "group": "Isquios",
+    "equipment": "Banda elástica",
+    "instructions": [
+      "Mantén el tronco estable y evita compensar con la zona lumbar.",
+      "Controla la fase de estiramiento y usa una carga que puedas frenar."
+    ]
+  },
+  {
+    "id": "ex-415",
+    "name": "Peso muerto rumano con banda",
+    "group": "Isquios",
+    "equipment": "Banda elástica",
+    "instructions": [
+      "Mantén el tronco estable y evita compensar con la zona lumbar.",
+      "Controla la fase de estiramiento y usa una carga que puedas frenar."
+    ]
+  },
+  {
+    "id": "ex-416",
+    "name": "Hip thrust unilateral con barra",
+    "group": "Glúteos",
+    "equipment": "Barra",
+    "instructions": [
+      "Mantén la pelvis estable y el abdomen activo.",
+      "Extiende la cadera sin terminar arqueando la espalda."
+    ]
+  },
+  {
+    "id": "ex-417",
+    "name": "Hip thrust en posición B",
+    "group": "Glúteos",
+    "equipment": "Barra",
+    "instructions": [
+      "Mantén la pelvis estable y el abdomen activo.",
+      "Extiende la cadera sin terminar arqueando la espalda."
+    ]
+  },
+  {
+    "id": "ex-418",
+    "name": "Puente de glúteos con pausa y barra",
+    "group": "Glúteos",
+    "equipment": "Barra",
+    "instructions": [
+      "Mantén la pelvis estable y el abdomen activo.",
+      "Extiende la cadera sin terminar arqueando la espalda."
+    ]
+  },
+  {
+    "id": "ex-419",
+    "name": "Peso muerto sumo desde bloques",
+    "group": "Glúteos",
+    "equipment": "Barra",
+    "instructions": [
+      "Mantén la pelvis estable y el abdomen activo.",
+      "Extiende la cadera sin terminar arqueando la espalda."
+    ]
+  },
+  {
+    "id": "ex-420",
+    "name": "Hip thrust unilateral con mancuerna",
+    "group": "Glúteos",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Mantén la pelvis estable y el abdomen activo.",
+      "Extiende la cadera sin terminar arqueando la espalda."
+    ]
+  },
+  {
+    "id": "ex-421",
+    "name": "Hip thrust en posición B con mancuerna",
+    "group": "Glúteos",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Mantén la pelvis estable y el abdomen activo.",
+      "Extiende la cadera sin terminar arqueando la espalda."
+    ]
+  },
+  {
+    "id": "ex-422",
+    "name": "Peso muerto sumo con dos mancuernas",
+    "group": "Glúteos",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Mantén la pelvis estable y el abdomen activo.",
+      "Extiende la cadera sin terminar arqueando la espalda."
+    ]
+  },
+  {
+    "id": "ex-423",
+    "name": "Subida a cajón alto con mancuernas",
+    "group": "Glúteos",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Mantén la pelvis estable y el abdomen activo.",
+      "Extiende la cadera sin terminar arqueando la espalda."
+    ]
+  },
+  {
+    "id": "ex-424",
+    "name": "Abducción unilateral en máquina",
+    "group": "Glúteos",
+    "equipment": "Máquina",
+    "instructions": [
+      "Mantén la pelvis estable y el abdomen activo.",
+      "Extiende la cadera sin terminar arqueando la espalda."
+    ]
+  },
+  {
+    "id": "ex-425",
+    "name": "Hip thrust unilateral en máquina",
+    "group": "Glúteos",
+    "equipment": "Máquina",
+    "instructions": [
+      "Mantén la pelvis estable y el abdomen activo.",
+      "Extiende la cadera sin terminar arqueando la espalda."
+    ]
+  },
+  {
+    "id": "ex-426",
+    "name": "Patada de glúteo unilateral en multipower",
+    "group": "Glúteos",
+    "equipment": "Máquina",
+    "instructions": [
+      "Mantén la pelvis estable y el abdomen activo.",
+      "Extiende la cadera sin terminar arqueando la espalda."
+    ]
+  },
+  {
+    "id": "ex-427",
+    "name": "Patada diagonal de glúteo en polea",
+    "group": "Glúteos",
+    "equipment": "Polea",
+    "instructions": [
+      "Mantén la pelvis estable y el abdomen activo.",
+      "Extiende la cadera sin terminar arqueando la espalda."
+    ]
+  },
+  {
+    "id": "ex-428",
+    "name": "Extensión de cadera de pie en polea",
+    "group": "Glúteos",
+    "equipment": "Polea",
+    "instructions": [
+      "Mantén la pelvis estable y el abdomen activo.",
+      "Extiende la cadera sin terminar arqueando la espalda."
+    ]
+  },
+  {
+    "id": "ex-429",
+    "name": "Abducción de cadera de pie en polea",
+    "group": "Glúteos",
+    "equipment": "Polea",
+    "instructions": [
+      "Mantén la pelvis estable y el abdomen activo.",
+      "Extiende la cadera sin terminar arqueando la espalda."
+    ]
+  },
+  {
+    "id": "ex-430",
+    "name": "Abducción sentada en polea",
+    "group": "Glúteos",
+    "equipment": "Polea",
+    "instructions": [
+      "Mantén la pelvis estable y el abdomen activo.",
+      "Extiende la cadera sin terminar arqueando la espalda."
+    ]
+  },
+  {
+    "id": "ex-431",
+    "name": "Hip thrust unilateral sin carga",
+    "group": "Glúteos",
+    "equipment": "Peso corporal",
+    "instructions": [
+      "Mantén la pelvis estable y el abdomen activo.",
+      "Extiende la cadera sin terminar arqueando la espalda."
+    ]
+  },
+  {
+    "id": "ex-432",
+    "name": "Puente de glúteos con talones elevados",
+    "group": "Glúteos",
+    "equipment": "Peso corporal",
+    "instructions": [
+      "Mantén la pelvis estable y el abdomen activo.",
+      "Extiende la cadera sin terminar arqueando la espalda."
+    ]
+  },
+  {
+    "id": "ex-433",
+    "name": "Puente de glúteos en posición B",
+    "group": "Glúteos",
+    "equipment": "Peso corporal",
+    "instructions": [
+      "Mantén la pelvis estable y el abdomen activo.",
+      "Extiende la cadera sin terminar arqueando la espalda."
+    ]
+  },
+  {
+    "id": "ex-434",
+    "name": "Abducción de cadera en cuadrupedia",
+    "group": "Glúteos",
+    "equipment": "Peso corporal",
+    "instructions": [
+      "Mantén la pelvis estable y el abdomen activo.",
+      "Extiende la cadera sin terminar arqueando la espalda."
+    ]
+  },
+  {
+    "id": "ex-435",
+    "name": "Clamshell sin banda",
+    "group": "Glúteos",
+    "equipment": "Peso corporal",
+    "instructions": [
+      "Mantén la pelvis estable y el abdomen activo.",
+      "Extiende la cadera sin terminar arqueando la espalda."
+    ]
+  },
+  {
+    "id": "ex-436",
+    "name": "Clamshell con banda",
+    "group": "Glúteos",
+    "equipment": "Banda elástica",
+    "instructions": [
+      "Mantén la pelvis estable y el abdomen activo.",
+      "Extiende la cadera sin terminar arqueando la espalda."
+    ]
+  },
+  {
+    "id": "ex-437",
+    "name": "Patada de glúteo con banda",
+    "group": "Glúteos",
+    "equipment": "Banda elástica",
+    "instructions": [
+      "Mantén la pelvis estable y el abdomen activo.",
+      "Extiende la cadera sin terminar arqueando la espalda."
+    ]
+  },
+  {
+    "id": "ex-438",
+    "name": "Abducción sentada con banda",
+    "group": "Glúteos",
+    "equipment": "Banda elástica",
+    "instructions": [
+      "Mantén la pelvis estable y el abdomen activo.",
+      "Extiende la cadera sin terminar arqueando la espalda."
+    ]
+  },
+  {
+    "id": "ex-439",
+    "name": "Hip thrust con banda",
+    "group": "Glúteos",
+    "equipment": "Banda elástica",
+    "instructions": [
+      "Mantén la pelvis estable y el abdomen activo.",
+      "Extiende la cadera sin terminar arqueando la espalda."
+    ]
+  },
+  {
+    "id": "ex-440",
+    "name": "Curl de bíceps sentado",
+    "group": "Bíceps",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Mantén los brazos estables y evita balancear el tronco.",
+      "Flexiona el codo y baja la carga lentamente."
+    ]
+  },
+  {
+    "id": "ex-441",
+    "name": "Curl de bíceps supino bilateral",
+    "group": "Bíceps",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Mantén los brazos estables y evita balancear el tronco.",
+      "Flexiona el codo y baja la carga lentamente."
+    ]
+  },
+  {
+    "id": "ex-442",
+    "name": "Curl Zottman",
+    "group": "Bíceps",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Mantén los brazos estables y evita balancear el tronco.",
+      "Flexiona el codo y baja la carga lentamente."
+    ]
+  },
+  {
+    "id": "ex-443",
+    "name": "Curl martillo sentado",
+    "group": "Bíceps",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Mantén los brazos estables y evita balancear el tronco.",
+      "Flexiona el codo y baja la carga lentamente."
+    ]
+  },
+  {
+    "id": "ex-444",
+    "name": "Curl inclinado alterno",
+    "group": "Bíceps",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Mantén los brazos estables y evita balancear el tronco.",
+      "Flexiona el codo y baja la carga lentamente."
+    ]
+  },
+  {
+    "id": "ex-445",
+    "name": "Curl con pecho apoyado",
+    "group": "Bíceps",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Mantén los brazos estables y evita balancear el tronco.",
+      "Flexiona el codo y baja la carga lentamente."
+    ]
+  },
+  {
+    "id": "ex-446",
+    "name": "Curl de concentración de pie",
+    "group": "Bíceps",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Mantén los brazos estables y evita balancear el tronco.",
+      "Flexiona el codo y baja la carga lentamente."
+    ]
+  },
+  {
+    "id": "ex-447",
+    "name": "Curl estricto contra pared",
+    "group": "Bíceps",
+    "equipment": "Barra",
+    "instructions": [
+      "Mantén los brazos estables y evita balancear el tronco.",
+      "Flexiona el codo y baja la carga lentamente."
+    ]
+  },
+  {
+    "id": "ex-448",
+    "name": "Curl con barra agarre estrecho",
+    "group": "Bíceps",
+    "equipment": "Barra",
+    "instructions": [
+      "Mantén los brazos estables y evita balancear el tronco.",
+      "Flexiona el codo y baja la carga lentamente."
+    ]
+  },
+  {
+    "id": "ex-449",
+    "name": "Curl con barra agarre ancho",
+    "group": "Bíceps",
+    "equipment": "Barra",
+    "instructions": [
+      "Mantén los brazos estables y evita balancear el tronco.",
+      "Flexiona el codo y baja la carga lentamente."
+    ]
+  },
+  {
+    "id": "ex-450",
+    "name": "Curl predicador con barra recta",
+    "group": "Bíceps",
+    "equipment": "Barra",
+    "instructions": [
+      "Mantén los brazos estables y evita balancear el tronco.",
+      "Flexiona el codo y baja la carga lentamente."
+    ]
+  },
+  {
+    "id": "ex-451",
+    "name": "Curl de arrastre con barra",
+    "group": "Bíceps",
+    "equipment": "Barra",
+    "instructions": [
+      "Mantén los brazos estables y evita balancear el tronco.",
+      "Flexiona el codo y baja la carga lentamente."
+    ]
+  },
+  {
+    "id": "ex-452",
+    "name": "Curl de bíceps con barra EZ en polea",
+    "group": "Bíceps",
+    "equipment": "Polea",
+    "instructions": [
+      "Mantén los brazos estables y evita balancear el tronco.",
+      "Flexiona el codo y baja la carga lentamente."
+    ]
+  },
+  {
+    "id": "ex-453",
+    "name": "Curl predicador en polea",
+    "group": "Bíceps",
+    "equipment": "Polea",
+    "instructions": [
+      "Mantén los brazos estables y evita balancear el tronco.",
+      "Flexiona el codo y baja la carga lentamente."
+    ]
+  },
+  {
+    "id": "ex-454",
+    "name": "Curl tumbado en polea baja",
+    "group": "Bíceps",
+    "equipment": "Polea",
+    "instructions": [
+      "Mantén los brazos estables y evita balancear el tronco.",
+      "Flexiona el codo y baja la carga lentamente."
+    ]
+  },
+  {
+    "id": "ex-455",
+    "name": "Curl de arrastre en polea",
+    "group": "Bíceps",
+    "equipment": "Polea",
+    "instructions": [
+      "Mantén los brazos estables y evita balancear el tronco.",
+      "Flexiona el codo y baja la carga lentamente."
+    ]
+  },
+  {
+    "id": "ex-456",
+    "name": "Curl de bíceps en polea tras el cuerpo",
+    "group": "Bíceps",
+    "equipment": "Polea",
+    "instructions": [
+      "Mantén los brazos estables y evita balancear el tronco.",
+      "Flexiona el codo y baja la carga lentamente."
+    ]
+  },
+  {
+    "id": "ex-457",
+    "name": "Curl inverso en polea",
+    "group": "Bíceps",
+    "equipment": "Polea",
+    "instructions": [
+      "Mantén los brazos estables y evita balancear el tronco.",
+      "Flexiona el codo y baja la carga lentamente."
+    ]
+  },
+  {
+    "id": "ex-458",
+    "name": "Curl con cuerda a una mano",
+    "group": "Bíceps",
+    "equipment": "Polea",
+    "instructions": [
+      "Mantén los brazos estables y evita balancear el tronco.",
+      "Flexiona el codo y baja la carga lentamente."
+    ]
+  },
+  {
+    "id": "ex-459",
+    "name": "Curl unilateral en máquina",
+    "group": "Bíceps",
+    "equipment": "Máquina",
+    "instructions": [
+      "Mantén los brazos estables y evita balancear el tronco.",
+      "Flexiona el codo y baja la carga lentamente."
+    ]
+  },
+  {
+    "id": "ex-460",
+    "name": "Curl en máquina con agarre neutro",
+    "group": "Bíceps",
+    "equipment": "Máquina",
+    "instructions": [
+      "Mantén los brazos estables y evita balancear el tronco.",
+      "Flexiona el codo y baja la carga lentamente."
+    ]
+  },
+  {
+    "id": "ex-461",
+    "name": "Curl de bíceps en anillas",
+    "group": "Bíceps",
+    "equipment": "Anillas",
+    "instructions": [
+      "Mantén los brazos estables y evita balancear el tronco.",
+      "Flexiona el codo y baja la carga lentamente."
+    ]
+  },
+  {
+    "id": "ex-462",
+    "name": "Curl de bíceps en suspensión",
+    "group": "Bíceps",
+    "equipment": "Suspensión",
+    "instructions": [
+      "Mantén los brazos estables y evita balancear el tronco.",
+      "Flexiona el codo y baja la carga lentamente."
+    ]
+  },
+  {
+    "id": "ex-463",
+    "name": "Curl martillo con banda",
+    "group": "Bíceps",
+    "equipment": "Banda elástica",
+    "instructions": [
+      "Mantén los brazos estables y evita balancear el tronco.",
+      "Flexiona el codo y baja la carga lentamente."
+    ]
+  },
+  {
+    "id": "ex-464",
+    "name": "Curl inverso con banda",
+    "group": "Bíceps",
+    "equipment": "Banda elástica",
+    "instructions": [
+      "Mantén los brazos estables y evita balancear el tronco.",
+      "Flexiona el codo y baja la carga lentamente."
+    ]
+  },
+  {
+    "id": "ex-465",
+    "name": "Extensión de tríceps tumbado en suelo",
+    "group": "Tríceps",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Mantén estable el brazo y las muñecas alineadas.",
+      "Extiende el codo con control, sin impulsos ni dolor."
+    ]
+  },
+  {
+    "id": "ex-466",
+    "name": "Press Tate con mancuernas",
+    "group": "Tríceps",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Mantén estable el brazo y las muñecas alineadas.",
+      "Extiende el codo con control, sin impulsos ni dolor."
+    ]
+  },
+  {
+    "id": "ex-467",
+    "name": "Press cerrado con mancuernas",
+    "group": "Tríceps",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Mantén estable el brazo y las muñecas alineadas.",
+      "Extiende el codo con control, sin impulsos ni dolor."
+    ]
+  },
+  {
+    "id": "ex-468",
+    "name": "Extensión sobre cabeza sentado con mancuerna",
+    "group": "Tríceps",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Mantén estable el brazo y las muñecas alineadas.",
+      "Extiende el codo con control, sin impulsos ni dolor."
+    ]
+  },
+  {
+    "id": "ex-469",
+    "name": "Press cerrado con pausa",
+    "group": "Tríceps",
+    "equipment": "Barra",
+    "instructions": [
+      "Mantén estable el brazo y las muñecas alineadas.",
+      "Extiende el codo con control, sin impulsos ni dolor."
+    ]
+  },
+  {
+    "id": "ex-470",
+    "name": "Press francés con barra recta en banco inclinado",
+    "group": "Tríceps",
+    "equipment": "Barra",
+    "instructions": [
+      "Mantén estable el brazo y las muñecas alineadas.",
+      "Extiende el codo con control, sin impulsos ni dolor."
+    ]
+  },
+  {
+    "id": "ex-471",
+    "name": "Press francés con barra EZ en banco inclinado",
+    "group": "Tríceps",
+    "equipment": "Barra",
+    "instructions": [
+      "Mantén estable el brazo y las muñecas alineadas.",
+      "Extiende el codo con control, sin impulsos ni dolor."
+    ]
+  },
+  {
+    "id": "ex-472",
+    "name": "Extensión sobre cabeza con cuerda",
+    "group": "Tríceps",
+    "equipment": "Polea",
+    "instructions": [
+      "Mantén estable el brazo y las muñecas alineadas.",
+      "Extiende el codo con control, sin impulsos ni dolor."
+    ]
+  },
+  {
+    "id": "ex-473",
+    "name": "Extensión cruzada de tríceps en polea",
+    "group": "Tríceps",
+    "equipment": "Polea",
+    "instructions": [
+      "Mantén estable el brazo y las muñecas alineadas.",
+      "Extiende el codo con control, sin impulsos ni dolor."
+    ]
+  },
+  {
+    "id": "ex-474",
+    "name": "Extensión unilateral agarre inverso en polea",
+    "group": "Tríceps",
+    "equipment": "Polea",
+    "instructions": [
+      "Mantén estable el brazo y las muñecas alineadas.",
+      "Extiende el codo con control, sin impulsos ni dolor."
+    ]
+  },
+  {
+    "id": "ex-475",
+    "name": "Patada de tríceps en polea",
+    "group": "Tríceps",
+    "equipment": "Polea",
+    "instructions": [
+      "Mantén estable el brazo y las muñecas alineadas.",
+      "Extiende el codo con control, sin impulsos ni dolor."
+    ]
+  },
+  {
+    "id": "ex-476",
+    "name": "Extensión de tríceps tumbado en polea",
+    "group": "Tríceps",
+    "equipment": "Polea",
+    "instructions": [
+      "Mantén estable el brazo y las muñecas alineadas.",
+      "Extiende el codo con control, sin impulsos ni dolor."
+    ]
+  },
+  {
+    "id": "ex-477",
+    "name": "Extensión sobre cabeza unilateral en polea",
+    "group": "Tríceps",
+    "equipment": "Polea",
+    "instructions": [
+      "Mantén estable el brazo y las muñecas alineadas.",
+      "Extiende el codo con control, sin impulsos ni dolor."
+    ]
+  },
+  {
+    "id": "ex-478",
+    "name": "Press cerrado en multipower",
+    "group": "Tríceps",
+    "equipment": "Máquina",
+    "instructions": [
+      "Mantén estable el brazo y las muñecas alineadas.",
+      "Extiende el codo con control, sin impulsos ni dolor."
+    ]
+  },
+  {
+    "id": "ex-479",
+    "name": "Extensión unilateral de tríceps en máquina",
+    "group": "Tríceps",
+    "equipment": "Máquina",
+    "instructions": [
+      "Mantén estable el brazo y las muñecas alineadas.",
+      "Extiende el codo con control, sin impulsos ni dolor."
+    ]
+  },
+  {
+    "id": "ex-480",
+    "name": "Extensión de tríceps en anillas",
+    "group": "Tríceps",
+    "equipment": "Anillas",
+    "instructions": [
+      "Mantén estable el brazo y las muñecas alineadas.",
+      "Extiende el codo con control, sin impulsos ni dolor."
+    ]
+  },
+  {
+    "id": "ex-481",
+    "name": "Extensión de tríceps en suspensión",
+    "group": "Tríceps",
+    "equipment": "Suspensión",
+    "instructions": [
+      "Mantén estable el brazo y las muñecas alineadas.",
+      "Extiende el codo con control, sin impulsos ni dolor."
+    ]
+  },
+  {
+    "id": "ex-482",
+    "name": "Extensión sobre cabeza con banda",
+    "group": "Tríceps",
+    "equipment": "Banda elástica",
+    "instructions": [
+      "Mantén estable el brazo y las muñecas alineadas.",
+      "Extiende el codo con control, sin impulsos ni dolor."
+    ]
+  },
+  {
+    "id": "ex-483",
+    "name": "Patada de tríceps con banda",
+    "group": "Tríceps",
+    "equipment": "Banda elástica",
+    "instructions": [
+      "Mantén estable el brazo y las muñecas alineadas.",
+      "Extiende el codo con control, sin impulsos ni dolor."
+    ]
+  },
+  {
+    "id": "ex-484",
+    "name": "Elevación de gemelos sentado con mancuernas",
+    "group": "Gemelos",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Mantén el apoyo estable y utiliza un recorrido cómodo del tobillo.",
+      "Sube y baja despacio; evita rebotar."
+    ]
+  },
+  {
+    "id": "ex-485",
+    "name": "Elevación unilateral sentado con mancuerna",
+    "group": "Gemelos",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Mantén el apoyo estable y utiliza un recorrido cómodo del tobillo.",
+      "Sube y baja despacio; evita rebotar."
+    ]
+  },
+  {
+    "id": "ex-486",
+    "name": "Elevación unilateral de gemelo en prensa",
+    "group": "Gemelos",
+    "equipment": "Máquina",
+    "instructions": [
+      "Mantén el apoyo estable y utiliza un recorrido cómodo del tobillo.",
+      "Sube y baja despacio; evita rebotar."
+    ]
+  },
+  {
+    "id": "ex-487",
+    "name": "Elevación de gemelos con pausa en máquina",
+    "group": "Gemelos",
+    "equipment": "Máquina",
+    "instructions": [
+      "Mantén el apoyo estable y utiliza un recorrido cómodo del tobillo.",
+      "Sube y baja despacio; evita rebotar."
+    ]
+  },
+  {
+    "id": "ex-488",
+    "name": "Elevación de gemelos sentado unilateral",
+    "group": "Gemelos",
+    "equipment": "Máquina",
+    "instructions": [
+      "Mantén el apoyo estable y utiliza un recorrido cómodo del tobillo.",
+      "Sube y baja despacio; evita rebotar."
+    ]
+  },
+  {
+    "id": "ex-489",
+    "name": "Elevación de gemelos con barra",
+    "group": "Gemelos",
+    "equipment": "Barra",
+    "instructions": [
+      "Mantén el apoyo estable y utiliza un recorrido cómodo del tobillo.",
+      "Sube y baja despacio; evita rebotar."
+    ]
+  },
+  {
+    "id": "ex-490",
+    "name": "Elevación de gemelos con rodillas flexionadas",
+    "group": "Gemelos",
+    "equipment": "Peso corporal",
+    "instructions": [
+      "Mantén el apoyo estable y utiliza un recorrido cómodo del tobillo.",
+      "Sube y baja despacio; evita rebotar."
+    ]
+  },
+  {
+    "id": "ex-491",
+    "name": "Elevación unilateral con rodilla flexionada",
+    "group": "Gemelos",
+    "equipment": "Peso corporal",
+    "instructions": [
+      "Mantén el apoyo estable y utiliza un recorrido cómodo del tobillo.",
+      "Sube y baja despacio; evita rebotar."
+    ]
+  },
+  {
+    "id": "ex-492",
+    "name": "Elevación de tibial anterior contra pared unilateral",
+    "group": "Gemelos",
+    "equipment": "Peso corporal",
+    "instructions": [
+      "Mantén el apoyo estable y utiliza un recorrido cómodo del tobillo.",
+      "Sube y baja despacio; evita rebotar."
+    ]
+  },
+  {
+    "id": "ex-493",
+    "name": "Flexión plantar con banda",
+    "group": "Gemelos",
+    "equipment": "Banda elástica",
+    "instructions": [
+      "Mantén el apoyo estable y utiliza un recorrido cómodo del tobillo.",
+      "Sube y baja despacio; evita rebotar."
+    ]
+  },
+  {
+    "id": "ex-494",
+    "name": "Dorsiflexión con banda",
+    "group": "Gemelos",
+    "equipment": "Banda elástica",
+    "instructions": [
+      "Mantén el apoyo estable y utiliza un recorrido cómodo del tobillo.",
+      "Sube y baja despacio; evita rebotar."
+    ]
+  },
+  {
+    "id": "ex-495",
+    "name": "Crunch con brazos extendidos",
+    "group": "Core",
+    "equipment": "Peso corporal",
+    "instructions": [
+      "Respira durante el esfuerzo y conserva el control del tronco.",
+      "Acorta el recorrido si pierdes la posición o notas dolor lumbar."
+    ]
+  },
+  {
+    "id": "ex-496",
+    "name": "Crunch inverso en banco",
+    "group": "Core",
+    "equipment": "Peso corporal",
+    "instructions": [
+      "Respira durante el esfuerzo y conserva el control del tronco.",
+      "Acorta el recorrido si pierdes la posición o notas dolor lumbar."
+    ]
+  },
+  {
+    "id": "ex-497",
+    "name": "Elevación de piernas tumbado",
+    "group": "Core",
+    "equipment": "Peso corporal",
+    "instructions": [
+      "Respira durante el esfuerzo y conserva el control del tronco.",
+      "Acorta el recorrido si pierdes la posición o notas dolor lumbar."
+    ]
+  },
+  {
+    "id": "ex-498",
+    "name": "Elevación de rodillas sentado en banco",
+    "group": "Core",
+    "equipment": "Peso corporal",
+    "instructions": [
+      "Respira durante el esfuerzo y conserva el control del tronco.",
+      "Acorta el recorrido si pierdes la posición o notas dolor lumbar."
+    ]
+  },
+  {
+    "id": "ex-499",
+    "name": "Dead bug con toque de talón",
+    "group": "Core",
+    "equipment": "Peso corporal",
+    "instructions": [
+      "Respira durante el esfuerzo y conserva el control del tronco.",
+      "Acorta el recorrido si pierdes la posición o notas dolor lumbar."
+    ]
+  },
+  {
+    "id": "ex-500",
+    "name": "Bird dog con acercamiento de rodilla y codo",
+    "group": "Core",
+    "equipment": "Peso corporal",
+    "instructions": [
+      "Respira durante el esfuerzo y conserva el control del tronco.",
+      "Acorta el recorrido si pierdes la posición o notas dolor lumbar."
+    ]
+  },
+  {
+    "id": "ex-501",
+    "name": "Toques de hombro en plancha",
+    "group": "Core",
+    "equipment": "Peso corporal",
+    "instructions": [
+      "Respira durante el esfuerzo y conserva el control del tronco.",
+      "Acorta el recorrido si pierdes la posición o notas dolor lumbar."
+    ]
+  },
+  {
+    "id": "ex-502",
+    "name": "Encogimientos laterales tumbado",
+    "group": "Core",
+    "equipment": "Peso corporal",
+    "instructions": [
+      "Respira durante el esfuerzo y conserva el control del tronco.",
+      "Acorta el recorrido si pierdes la posición o notas dolor lumbar."
+    ]
+  },
+  {
+    "id": "ex-503",
+    "name": "Rodillas al pecho en fitball",
+    "group": "Core",
+    "equipment": "Peso corporal",
+    "instructions": [
+      "Respira durante el esfuerzo y conserva el control del tronco.",
+      "Acorta el recorrido si pierdes la posición o notas dolor lumbar."
+    ]
+  },
+  {
+    "id": "ex-504",
+    "name": "Crunch de rodillas con cuerda",
+    "group": "Core",
+    "equipment": "Polea",
+    "instructions": [
+      "Respira durante el esfuerzo y conserva el control del tronco.",
+      "Acorta el recorrido si pierdes la posición o notas dolor lumbar."
+    ]
+  },
+  {
+    "id": "ex-505",
+    "name": "Crunch unilateral en polea",
+    "group": "Core",
+    "equipment": "Polea",
+    "instructions": [
+      "Respira durante el esfuerzo y conserva el control del tronco.",
+      "Acorta el recorrido si pierdes la posición o notas dolor lumbar."
+    ]
+  },
+  {
+    "id": "ex-506",
+    "name": "Rotación diagonal de arriba abajo en polea",
+    "group": "Core",
+    "equipment": "Polea",
+    "instructions": [
+      "Respira durante el esfuerzo y conserva el control del tronco.",
+      "Acorta el recorrido si pierdes la posición o notas dolor lumbar."
+    ]
+  },
+  {
+    "id": "ex-507",
+    "name": "Rotación diagonal de abajo arriba en polea",
+    "group": "Core",
+    "equipment": "Polea",
+    "instructions": [
+      "Respira durante el esfuerzo y conserva el control del tronco.",
+      "Acorta el recorrido si pierdes la posición o notas dolor lumbar."
+    ]
+  },
+  {
+    "id": "ex-508",
+    "name": "Press Pallof arrodillado",
+    "group": "Core",
+    "equipment": "Polea",
+    "instructions": [
+      "Respira durante el esfuerzo y conserva el control del tronco.",
+      "Acorta el recorrido si pierdes la posición o notas dolor lumbar."
+    ]
+  },
+  {
+    "id": "ex-509",
+    "name": "Crunch con mancuerna sobre el pecho",
+    "group": "Core",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Respira durante el esfuerzo y conserva el control del tronco.",
+      "Acorta el recorrido si pierdes la posición o notas dolor lumbar."
+    ]
+  },
+  {
+    "id": "ex-510",
+    "name": "Flexión lateral con mancuerna",
+    "group": "Core",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Respira durante el esfuerzo y conserva el control del tronco.",
+      "Acorta el recorrido si pierdes la posición o notas dolor lumbar."
+    ]
+  },
+  {
+    "id": "ex-511",
+    "name": "Rotación rusa con mancuerna",
+    "group": "Core",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Respira durante el esfuerzo y conserva el control del tronco.",
+      "Acorta el recorrido si pierdes la posición o notas dolor lumbar."
+    ]
+  },
+  {
+    "id": "ex-512",
+    "name": "Dead bug con banda",
+    "group": "Core",
+    "equipment": "Banda elástica",
+    "instructions": [
+      "Respira durante el esfuerzo y conserva el control del tronco.",
+      "Acorta el recorrido si pierdes la posición o notas dolor lumbar."
+    ]
+  },
+  {
+    "id": "ex-513",
+    "name": "Rotación de tronco con banda",
+    "group": "Core",
+    "equipment": "Banda elástica",
+    "instructions": [
+      "Respira durante el esfuerzo y conserva el control del tronco.",
+      "Acorta el recorrido si pierdes la posición o notas dolor lumbar."
+    ]
+  },
+  {
+    "id": "ex-514",
+    "name": "Encogimiento de rodillas en suspensión",
+    "group": "Core",
+    "equipment": "Suspensión",
+    "instructions": [
+      "Respira durante el esfuerzo y conserva el control del tronco.",
+      "Acorta el recorrido si pierdes la posición o notas dolor lumbar."
+    ]
+  },
+  {
+    "id": "ex-515",
+    "name": "Despliegue de rueda con recorrido limitado",
+    "group": "Core",
+    "equipment": "Rueda abdominal",
+    "instructions": [
+      "Respira durante el esfuerzo y conserva el control del tronco.",
+      "Acorta el recorrido si pierdes la posición o notas dolor lumbar."
+    ]
+  },
+  {
+    "id": "ex-516",
+    "name": "Curl de muñeca unilateral",
+    "group": "Antebrazos",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Apoya el antebrazo y utiliza una carga ligera.",
+      "Mueve la muñeca con control, sin forzar el final del recorrido."
+    ]
+  },
+  {
+    "id": "ex-517",
+    "name": "Extensión de muñeca unilateral",
+    "group": "Antebrazos",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Apoya el antebrazo y utiliza una carga ligera.",
+      "Mueve la muñeca con control, sin forzar el final del recorrido."
+    ]
+  },
+  {
+    "id": "ex-518",
+    "name": "Desviación radial con mancuerna",
+    "group": "Antebrazos",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Apoya el antebrazo y utiliza una carga ligera.",
+      "Mueve la muñeca con control, sin forzar el final del recorrido."
+    ]
+  },
+  {
+    "id": "ex-519",
+    "name": "Desviación cubital con mancuerna",
+    "group": "Antebrazos",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Apoya el antebrazo y utiliza una carga ligera.",
+      "Mueve la muñeca con control, sin forzar el final del recorrido."
+    ]
+  },
+  {
+    "id": "ex-520",
+    "name": "Curl de muñeca tras la espalda con barra",
+    "group": "Antebrazos",
+    "equipment": "Barra",
+    "instructions": [
+      "Apoya el antebrazo y utiliza una carga ligera.",
+      "Mueve la muñeca con control, sin forzar el final del recorrido."
+    ]
+  },
+  {
+    "id": "ex-521",
+    "name": "Curl de dedos con barra",
+    "group": "Antebrazos",
+    "equipment": "Barra",
+    "instructions": [
+      "Apoya el antebrazo y utiliza una carga ligera.",
+      "Mueve la muñeca con control, sin forzar el final del recorrido."
+    ]
+  },
+  {
+    "id": "ex-522",
+    "name": "Extensión de muñeca en polea",
+    "group": "Antebrazos",
+    "equipment": "Polea",
+    "instructions": [
+      "Apoya el antebrazo y utiliza una carga ligera.",
+      "Mueve la muñeca con control, sin forzar el final del recorrido."
+    ]
+  },
+  {
+    "id": "ex-523",
+    "name": "Curl de muñeca unilateral en polea",
+    "group": "Antebrazos",
+    "equipment": "Polea",
+    "instructions": [
+      "Apoya el antebrazo y utiliza una carga ligera.",
+      "Mueve la muñeca con control, sin forzar el final del recorrido."
+    ]
+  },
+  {
+    "id": "ex-524",
+    "name": "Extensión de dedos con banda",
+    "group": "Antebrazos",
+    "equipment": "Banda elástica",
+    "instructions": [
+      "Apoya el antebrazo y utiliza una carga ligera.",
+      "Mueve la muñeca con control, sin forzar el final del recorrido."
+    ]
+  },
+  {
+    "id": "ex-525",
+    "name": "Flexión de muñeca con banda",
+    "group": "Antebrazos",
+    "equipment": "Banda elástica",
+    "instructions": [
+      "Apoya el antebrazo y utiliza una carga ligera.",
+      "Mueve la muñeca con control, sin forzar el final del recorrido."
+    ]
+  },
+  {
+    "id": "ex-526",
+    "name": "Aducción de cadera con apoyo en polea",
+    "group": "Aductores",
+    "equipment": "Polea",
+    "instructions": [
+      "Mantén la pelvis estable y evita girar el tronco.",
+      "Acerca la pierna con control y sin rebotes."
+    ]
+  },
+  {
+    "id": "ex-527",
+    "name": "Aducción de cadera tumbado con banda",
+    "group": "Aductores",
+    "equipment": "Banda elástica",
+    "instructions": [
+      "Mantén la pelvis estable y evita girar el tronco.",
+      "Acerca la pierna con control y sin rebotes."
+    ]
+  },
+  {
+    "id": "ex-528",
+    "name": "Aducción de cadera con pelota entre rodillas",
+    "group": "Aductores",
+    "equipment": "Peso corporal",
+    "instructions": [
+      "Mantén la pelvis estable y evita girar el tronco.",
+      "Acerca la pierna con control y sin rebotes."
+    ]
+  },
+  {
+    "id": "ex-529",
+    "name": "Encogimiento de hombros con barra hexagonal",
+    "group": "Trapecio",
+    "equipment": "Barra",
+    "instructions": [
+      "Mantén el cuello en posición neutra.",
+      "Controla el movimiento de las escápulas y evita tirones."
+    ]
+  },
+  {
+    "id": "ex-530",
+    "name": "Encogimiento de hombros con barra y pausa",
+    "group": "Trapecio",
+    "equipment": "Barra",
+    "instructions": [
+      "Mantén el cuello en posición neutra.",
+      "Controla el movimiento de las escápulas y evita tirones."
+    ]
+  },
+  {
+    "id": "ex-531",
+    "name": "Encogimiento de hombros sentado con mancuernas",
+    "group": "Trapecio",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Mantén el cuello en posición neutra.",
+      "Controla el movimiento de las escápulas y evita tirones."
+    ]
+  },
+  {
+    "id": "ex-532",
+    "name": "Encogimiento con pecho apoyado",
+    "group": "Trapecio",
+    "equipment": "Mancuernas",
+    "instructions": [
+      "Mantén el cuello en posición neutra.",
+      "Controla el movimiento de las escápulas y evita tirones."
+    ]
+  },
+  {
+    "id": "ex-533",
+    "name": "Encogimiento unilateral en polea",
+    "group": "Trapecio",
+    "equipment": "Polea",
+    "instructions": [
+      "Mantén el cuello en posición neutra.",
+      "Controla el movimiento de las escápulas y evita tirones."
+    ]
+  },
+  {
+    "id": "ex-534",
+    "name": "Elevación Y unilateral en polea",
+    "group": "Trapecio",
+    "equipment": "Polea",
+    "instructions": [
+      "Mantén el cuello en posición neutra.",
+      "Controla el movimiento de las escápulas y evita tirones."
+    ]
+  },
+  {
+    "id": "ex-535",
+    "name": "Encogimiento en multipower",
+    "group": "Trapecio",
+    "equipment": "Máquina",
+    "instructions": [
+      "Mantén el cuello en posición neutra.",
+      "Controla el movimiento de las escápulas y evita tirones."
+    ]
+  }
+]
