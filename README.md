@@ -231,3 +231,11 @@ El workflow comprueba el código, ejecuta las 120 pruebas, prepara el service wo
 Los registros existentes en el alojamiento anterior no se trasladan automáticamente porque cada dominio usa su propio almacenamiento. Antes de cambiar a GitHub Pages, exportar la copia desde Ajustes en la versión anterior y restaurarla en la nueva. Exportar los estilos de apariencia por separado si se quieren conservar. No subir copias personales al repositorio.
 
 Los proyectos nativos iOS/Android se incluyen como código fuente; Pages no los compila ni habilita HealthKit desde la web.
+
+## Publicar en Vercel
+
+Importar el repositorio `pablolopezz/Ritmo-app` desde Vercel, con la raíz del proyecto en `.`. El archivo `vercel.json` selecciona el preset estático, ejecuta comprobaciones, pruebas y la generación del service worker, y publica únicamente `dist/`. El proceso web usa Node.js 22 o posterior y no necesita instalar las dependencias de Capacitor, que se reservan a los proyectos móviles. No se requieren variables de entorno ni base de datos remota.
+
+Los archivos se revalidan al descargarse y el service worker tiene una cabecera específica para evitar versiones antiguas en la caché del servidor. Los metadatos ocultos del alojamiento, como `.nojekyll`, se excluyen de la precarga sin conexión. La navegación usa fragmentos (`#home`, `#train`, etc.); no necesita reescribir todas las rutas a HTML.
+
+Cada dominio guarda registros independientes. Para mover los datos desde otra dirección: exportar una copia en Ajustes en la app anterior y restaurarla en el dominio final de producción de Vercel. Las preferencias de apariencia se exportan por separado. No usar una URL de vista previa como instalación permanente. La integración Apple Salud/Watch requiere compilar y firmar la versión nativa para iOS; publicar la web no habilita HealthKit.
